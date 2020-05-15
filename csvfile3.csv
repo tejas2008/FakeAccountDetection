@@ -1,0 +1,686 @@
+caste1,degree,employed1,income1,mother1,occupation,religion1,account
+Brahmin - Danua,Masters,Private Sector,INR 3 lakhs to 4 lakhs,Singhalese,Customer Service/Call Centre/BPO,Buddhist,real
+Sunni,MA (Arts),Private Sector,Don't wish to specify,Oriya,Admin/Secretarial,Buddhist,fake
+Sikh,Other Diploma,Others,Don't wish to specify,English,Education/Training,Buddhist,fake
+Arunthathiyar,PG Diploma,Others,Don't wish to specify,Punjabi,Real Estate,Buddhist,fake
+Catholic,10th,Public Sector,INR 20 lakhs to 30 lakhs,Assamese,Admin/Secretarial,Buddhist,fake
+Shia,MA (Arts),Not Working,Don't wish to specify,Urdu,Non Working,Buddhist,fake
+Shia,MBBS,Public Sector,INR 3 lakhs to 4 lakhs,Urdu,Health Care,Buddhist,fake
+Sunni,MBA/PGDM,Private Sector,INR 2 lakhs to 3 lakhs,Urdu,Marketing and Communications,Buddhist,fake
+Sunni,Other School/Graduation,Public Sector,Don't wish to specify,Urdu,Marketing and Communications,Buddhist,fake
+Brahmin - Barendra,B.Com (Commerce),Private Sector,INR 2 lakhs to 3 lakhs,Tamil,Admin/Secretarial,Christian,fake
+Protestant,Ph.D. (Doctorate),Private Sector,Don't wish to specify,Tamil,Education/Training,Christian,real
+Protestant,B.A. (Arts),State Government,Don't wish to specify,Malayalam,Admin/Secretarial,Christian,real
+Catholic,B.A. (Arts),Others,INR 7 lakhs to 10 lakhs,English,Admin/Secretarial,Christian,real
+Catholic,B.Arch (Architecture),MNC,INR 4 lakhs to 5 lakhs,English,Architecture/Design,Christian,real
+Brahmin - Dixit,PG Diploma,Not Working,INR 4 lakhs to 5 lakhs,Hindi,Education/Training,Christian,fake
+Catholic,MD/MS (Medicine),Central Government,INR 25 lakhs to 30 lakhs,English,Health Care,Christian,real
+Protestant,B.A. (Arts),Not Working,Don't wish to specify,English,Beauty/Fashion/Jewellery Designers,Christian,fake
+Protestant,CA (Chartered Accountant),Central Government,INR 3 lakhs to 4 lakhs,Telugu,Beauty/Fashion/Jewellery Designers,Christian,fake
+Catholic,B.A. (Arts),Others,INR 7 lakh to 10 lakhs,Malayalam,Customer Service/Call Centre/BPO,Christian,fake
+Shia,12th,Not Working,Don't wish to specify,English,Non Working,Christian,fake
+Others,B.Com (Commerce),Central Government,Don't wish to specify,Urdu,Finance and Accounts,Christian,fake
+Catholic,MA (Arts),Central Government,INR 35 lakhs to 40 lakhs,Malayalam,Marketing and Communications,Christian,fake
+Shia,10th,Private Sector,INR 10 lakhs  to 15 lakhs,English,IT,Christian,fake
+Maratha,MA (Arts),MNC,Don't wish to specify,Marathi,Others,Christian,fake
+Catholic,MA (Arts),Public Sector,Don't wish to specify,English,Admin/Secretarial,Christian,real
+Protestant,12th,Others,INR 7 lakhs to 10 lakhs,English,Customer Service/Call Centre/BPO,Christian,fake
+Catholic,B.Ed (Education),Private Sector,INR 7 lakhs to 10 lakhs,English,Education/Training,Christian,real
+Shia,MA (Arts),Central Government,Don't wish to specify,English,Civil Services/Law Enforcement,Christian,fake
+Sunni,Arts/Graphic Designing,Private Sector,Don't wish to specify,English,Admin/Secretarial,Christian,fake
+Catholic,Other Post Graduation,Not Working,Don't wish to specify,English,Health Care,Christian,fake
+Brahmin - Kulin,B.A. (Arts),Private Sector,INR 50 thousand to  1 lakh,Tamil,Admin/Secretarial,Christian,fake
+Catholic,B.A. (Arts),Not Working,Don't wish to specify,Malayalam,Non Working,Christian,real
+Brahmin - Kulin,MBA/PGDM,MNC,INR 3 lakhs to 4 lakhs,Kannada,Business Owner/Entrepreneur,Christian,fake
+Shia,B.Com (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Tamil,Admin/Secretarial,Christian,fake
+Goan,10th,Private Sector,INR 1 lakh to 2 lakhs,Konkani,Admin/Secretarial,Christian,real
+Shia,B.Arch (Architecture),Not Working,Don't wish to specify,English,Architecture/Design,Christian,fake
+Catholic,MBA/PGDM,Central Government,Don't wish to specify,Tamil,Beauty/Fashion/Jewellery Designers,Christian,fake
+Catholic,12th,Public Sector,Don't wish to specify,English,Architecture/Design,Christian,fake
+Catholic,B.Com (Commerce),Private Sector,INR 2 lakhs to 3 lakhs,Konkani,Beauty/Fashion/Jewellery Designers,Christian,real
+Catholic,Ph.D. (Doctorate),State Government,Don't wish to specify,Urdu,Education/Training,Christian,fake
+Protestant,Other Diploma,MNC,INR 35 lakhs to 40 lakhs,Urdu,Banking/Insurance/Financial Services,Christian,fake
+Catholic,B.A. (Arts),Private Sector,INR 35 lakhs to 40 lakhs,English,Admin/Secretarial,Christian,real
+Sindhi,Others,Central Government,Don't wish to specify,English,Admin/Secretarial,Christian,fake
+Catholic,Other Diploma,Central Government,INR 30 lakhs to 35 lakhs,Hindi,Non Working,Christian,fake
+Shia,MA (Arts),Private Sector,Don't wish to specify,Malayalam,Admin/Secretarial,Christian,fake
+Brahmin - Danua,B.Sc (Science),Central Government,INR 50 thousand to  1 lakh,Kannada,Business Owner/Entrepreneur,Christian,fake
+Catholic,B.A. (Arts),Not Working,INR 35 lakhs to 40 lakhs,English,Non Working,Christian,fake
+Catholic,B.Com (Commerce),Public Sector,INR 4 lakhs to 5 lakhs,Konkani,Government Employee,Christian,real
+Catholic,10th,Others,Don't wish to specify,English,Admin/Secretarial,Christian,real
+Catholic,MA (Arts),Public Sector,INR2 lakhs to 3 lakhs,Konkani,Admin/Secretarial,Christian,real
+Protestant,10th,Central Government,Don't wish to specify,Konkani,Non Working,Christian,fake
+Shia,B.A. (Arts),MNC,INR 2 lakhs to 3 lakhs,English,Admin/Secretarial,Christian,fake
+Catholic,M.Com. (Commerce),Private Sector,INR 2 lakhs to 3 lakhs,English,Banking/Insurance/Financial Services,Christian,real
+Catholic,B.Com (Commerce),Central Government,Don't wish to specify,Tamil,Beauty/Fashion/Jewellery Designers,Christian,fake
+Catholic,12th,Central Government,INR 1 lakh to 2 lakhs,Urdu,Government Employee,Christian,fake
+Catholic,Other Post Graduation,Central Government,INR 3 lakhs to 4 lakhs,English,Beauty/Fashion/Jewellery Designers,Christian,fake
+Shia,MA (Arts),Public Sector,INR 7 lakhs to 10 lakhs,Punjabi,Government Employee,Christian,fake
+Catholic,B.Com (Commerce),Others,Don't wish to specify,Konkani,Business Owner/Entrepreneur,Christian,real
+Catholic,B.A. (Arts),Private Sector,INR 2 lakhs to 3 lakhs,English,Admin/Secretarial,Christian,real
+Catholic,B.Arch (Architecture),Others,INR 2 lakhs to 3 lakhs,Tamil,Construction,Christian,real
+Protestant,Other Diploma,Others,Don't wish to specify,Telugu,Health Care,Christian,real
+Brahmin - Garhwali,10th,Private Sector,INR 1 lakh to 2 lakhs,Marathi,Agriculture,Christian,fake
+Catholic,B.Com (Commerce),Private Sector,Don't wish to specify,English,Government Employee,Christian,fake
+Catholic,12th,Private Sector,INR 4 lakhs to 5 lakhs,English,Travel/Airlines,Christian,real
+Catholic,12th,Private Sector,INR 1 lakh to 2 lakhs,Konkani,Admin/Secretarial,Christian,real
+Sunni,Ph.D. (Doctorate),Others,INR 25 lakhs to 30 lakhs,Tamil,Health Care,Christian,fake
+Sunni,B.A. (Arts),Central Government,Don't wish to specify,English,Admin/Secretarial,Christian,fake
+Protestant,10th,Not Working,INR 7 lakhs to 10 lakhs,Miji,Human Resource,Christian,fake
+Protestant,B.El.Ed (Elementary Education),Central Government,INR 50 lakhs and above.,Telugu,Artists/Animators/Web Designers,Christian,fake
+Protestant,10th,Not Working,Don't wish to specify,English,Non Working,Christian,real
+Catholic,12th,State Government,Don't wish to specify,Urdu,Business Owner/Entrepreneur,Christian,fake
+Catholic,Master of Hospital Administration,Central Government,INR 3 lakhs to 4 lakhs,Tamil,Defence,Christian,real
+Catholic,B.A. (Arts),Private Sector,INR 1 lakh to 2 lakhs,Konkani,Admin/Secretarial,Christian,real
+Shia,10th,Others,INR 25 lakhs to 30 lakhs,Hindi,Health Care,Christian,fake
+Others,B.Ed (Education),Private Sector,Don't wish to specify,English,Finance and Accounts,Christian,real
+Rajput,B.A. (Arts),Private Sector,Don't wish to specify,Malayalam,Banking/Insurance/Financial Services,Christian,fake
+Khatri,10th,Private Sector,INR 15 lakhs to 20 lakhs,English,Health Care,Christian,fake
+Brahmin - Garhwali,Undergraduate,Not Working,INR 3 lakhs to 4 lakhs,English,Non Working,Christian,fake
+Catholic,B.Com (Commerce),Private Sector,INR 5 lakhs to 7 lakhs,English,Finance and Accounts,Christian,real
+Catholic,Other Post Graduation,Public Sector,Don't wish to specify,English,Business Owner/Entrepreneur,Christian,real
+Catholic,Others,Not Working,INR 4 lakhs to 5 lakhs,English,Business Owner/Entrepreneur,Christian,fake
+Catholic,Other Diploma,Private Sector,INR 7 lakhs to 10 lakhs,Tamil,Customer Service/Call Centre/BPO,Christian,fake
+Protestant,Other School/Graduation,Central Government,Don't wish to specify,English,Government Employee,Christian,real
+Catholic,B.A. (Arts),State Government,Don't wish to specify,Konkani,Agriculture,Christian,fake
+Protestant,BFA (Fine Arts),Private Sector,Don't wish to specify,English,Beauty/Fashion/Jewellery Designers,Christian,real
+Catholic,B.Com (Commerce),Not Working,INR 5 lakhs to 7 lakhs,English,Non Working,Christian,fake
+Catholic,Other Diploma,Not Working,INR 50 thousand to  1 lakh,Malayalam,Marketing and Communications,Christian,fake
+Catholic,12th,Central Government,INR 1 lakh to 2 lakhs,English,Beauty/Fashion/Jewellery Designers,Christian,fake
+Catholic,12th,Not Working,Don't wish to specify,English,Non Working,Christian,real
+Catholic,M.Sc. (Science),Others,Don't wish to specify,English,Admin/Secretarial,Christian,real
+Catholic,Other Diploma,Others,Don't wish to specify,English,Admin/Secretarial,Christian,real
+Catholic,10th,Not Working,Don't wish to specify,Konkani,Non Working,Christian,real
+Protestant,12th,Central Government,INR 2 lakhs to 3 lakhs,English,Beauty/Fashion/Jewellery Designers,Christian,fake
+Khatri,MBA/PGDM,Central Government,INR 7 lakhs to 10 lakhs,Punjabi,Export/Import,Christian,fake
+Sunni,Master of Health Administration,Private Sector,Don't wish to specify,English,Health Care,Christian,fake
+Kayastha,MA (Arts),Others,Don't wish to specify,English,Business Owner/Entrepreneur,Christian,fake
+Catholic,ML/LLM (Law),Not Working,INR 1 lakh to 2 lakhs,English,Manufacturing/Engineering/R&D;,Christian,fake
+Brahmin - Gurukkal,Other Diploma,Public Sector,Don't wish to specify,Konkani,Health Care,Christian,fake
+Brahmin - Jangra,Masters,Public Sector,Don't wish to specify,Others,Manufacturing/Engineering/R&D;,Christian,fake
+Catholic,12th,Private Sector,Don't wish to specify,English,Education/Training,Christian,real
+Brahmin - Jangra,B.Com (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Konkani,Government Employee,Christian,fake
+Khatri,MBA/PGDM,Others,Don't wish to specify,Punjabi,Admin/Secretarial,Christian,fake
+Shia,B.A. (Arts),Private Sector,Don't wish to specify,Konkani,Admin/Secretarial,Christian,fake
+Sunni,B.A. (Arts),Others,Don't wish to specify,Konkani,Government Employee,Christian,fake
+Shia,12th,Private Sector,INR 1 lakh to 2 lakhs,English,Education/Training,Christian,fake
+Khatri,B.A. (Arts),Private Sector,Don't wish to specify,Punjabi,Others,Christian,fake
+Brahmin - Jangra,12th,Not Working,Don't wish to specify,Konkani,Non Working,Christian,real
+Catholic,MBA/PGDM,MNC,Don't wish to specify,Konkani,Banking/Insurance/Financial Services,Christian,real
+Brahmin - Jangra,12th,Not Working,Don't wish to specify,Konkani,Non Working,Christian,fake
+Brahmin - Telugu,B.Com (Commerce),Private Sector,INR 50 thousand to  1 lakh,Konkani,Finance and Accounts,Christian,fake
+Shia,Ph.D. (Doctorate),Private Sector,Don't wish to specify,Malayalam,Education/Training,Christian,fake
+Catholic,B.Ed (Education),Private Sector,INR 7 lakhs to 10 lakhs,English,Business Owner/Entrepreneur,Christian,real
+Shewetamber,B.A. (Arts),Private Sector,INR 2 lakhs to 3 lakhs,English,Others,Christian,fake
+Protestant,Other School/Graduation,Public Sector,Don't wish to specify,Konkani,Health Care,Christian,real
+Catholic,B.Pharm (Pharmacy),Not Working,INR 2 lakhs to 3 lakhs,English,Non Working,Christian,fake
+Catholic,Masters,Public Sector,Don't wish to specify,English,Education/Training,Christian,real
+Catholic,MA (Arts),State Government,INR 3 lakhs to 4 lakhs,English,Government Employee,Christian,real
+Catholic,BFA (Fine Arts),Not Working,INR 50 lakhs and above.,Tamil,Management/Corporate Professionals,Christian,fake
+Catholic,10th,Central Government,Don't wish to specify,English,Beauty/Fashion/Jewellery Designers,Christian,fake
+Catholic,Other School/Graduation,Private Sector,Don't wish to specify,English,Admin/Secretarial,Christian,real
+Arora,B.A. (Arts),Others,INR 4 lakhs to 5 lakhs,Malayalam,Admin/Secretarial,Christian,fake
+Protestant,MBA/PGDM,Private Sector,INR 1 lakh to 2 lakhs,Malayalam,Human Resource,Christian,real
+Catholic,Other Diploma,Private Sector,INR 7 lakhs to 10 lakhs,English,Health Care,Christian,real
+Protestant,MA (Arts),Private Sector,INR 15 lakhs to 20 lakhs,Malayalam,Management/Corporate Professionals,Christian,real
+Brahmin - Bengali,B.Com (Commerce),Private Sector,INR 50 thousand to  1 lakh,Malayalam,Finance and Accounts,Christian,fake
+Catholic,B.A. (Arts),Public Sector,Don't wish to specify,English,Agriculture,Christian,fake
+Catholic,B.Sc (Science),Private Sector,Don't wish to specify,Malayalam,Health Care,Christian,real
+Catholic,B.Com (Commerce),Public Sector,Don't wish to specify,English,Admin/Secretarial,Christian,real
+Catholic,MA (Arts),Private Sector,INR 1 lakh to 2 lakhs,English,Education/Training,Christian,real
+Catholic,10th,Private Sector,INR 3 lakhs to 4 lakhs,English,Admin/Secretarial,Christian,real
+Brahmin 6000 Niyogi,12th,Private Sector,Don't wish to specify,English,Health Care,Christian,fake
+Shia,12th,Not Working,Don't wish to specify,Urdu,Non Working,Christian,fake
+Shia,B.Ed (Education),Public Sector,Don't wish to specify,English,Education/Training,Christian,fake
+Shewetamber,B.A. (Arts),Public Sector,Don't wish to specify,Gujarati,Health Care,Christian,fake
+Catholic,MA (Arts),Private Sector,Don't wish to specify,English,Sales/Business Development,Christian,real
+Shewetamber,Other Diploma,Public Sector,Don't wish to specify,Others,Business Owner/Entrepreneur,Christian,fake
+Protestant,Masters,Public Sector,INR 7 lakhs to 10 lakhs,English,Education/Training,Christian,real
+Catholic,B.Sc (Science),Central Government,INR 7 lakhs to 10 lakhs,Tamil,Agriculture,Christian,real
+Catholic,10th,Not Working,INR 7 lakhs to 10 lakhs,English,Non Working,Christian,fake
+Protestant,B.Sc (Science),Others,Don't wish to specify,English,Banking/Insurance/Financial Services,Christian,real
+Protestant,Masters,Private Sector,INR 3 lakhs to 4 lakhs,English,Education/Training,Christian,real
+Catholic,Master of Fashion Technology,Private Sector,INR 2 lakhs to 3 lakhs,English,Beauty/Fashion/Jewellery Designers,Christian,real
+Protestant,Master of Fashion Technology,Public Sector,INR 2 lakhs to 3 lakhs,English,Beauty/Fashion/Jewellery Designers,Christian,real
+Catholic,Master of Fashion Technology,Public Sector,INR 2 lakhs to 3 lakhs,English,Agriculture,Christian,fake
+Catholic,Other School/Graduation,Not Working,INR 2 lakhs to 3 lakhs,Konkani,Health Care,Christian,fake
+Catholic,B.Ed (Education),Private Sector,Don't wish to specify,English,Education/Training,Christian,real
+Goan,10th,Private Sector,INR 15 lakhs to 20 lakhs,Konkani,Legal,Christian,fake
+Sunni,B.Com (Commerce),Not Working,Don't wish to specify,English,Non Working,Christian,fake
+Catholic,Others,Not Working,INR 7 lakhs to 10 lakhs,English,Health Care,Christian,fake
+Catholic,10th,Not Working,Don't wish to specify,English,Non Working,Christian,real
+Shewetamber,M.Sc. (Science),Public Sector,Don't wish to specify,English,Education/Training,Christian,fake
+Protestant,Ph.D. (Doctorate),Others,Don't wish to specify,English,Education/Training,Christian,real
+Catholic,B.A. (Arts),MNC,INR 7 lakhs to 10 lakhs,Konkani,Admin/Secretarial,Christian,real
+Catholic,Others,Private Sector,Don't wish to specify,English,Business Owner/Entrepreneur,Christian,real
+Brahmin - Panda,10th,Not Working,Don't wish to specify,English,Non Working,Christian,fake
+Sunni,10th,Private Sector,Don't wish to specify,Urdu,Manufacturing/Engineering/R&D;,Christian,fake
+Sunni,Other Diploma,Not Working,INR 1 lakh to 2 lakhs,English,Non Working,Christian,fake
+Protestant,M.Com. (Commerce),Private Sector,INR 7 lakhs to 10 lakhs,Konkani,Finance and Accounts,Christian,real
+Catholic,Other Post Graduation,MNC,Don't wish to specify,Telugu,Business Owner/Entrepreneur,Christian,real
+Shewetamber,MA (Arts),Private Sector,Don't wish to specify,Konkani,Health Care,Christian,fake
+Protestant,B.Ed (Education),Public Sector,Don't wish to specify,Konkani,Education/Training,Christian,real
+Catholic,B.A. (Arts),Private Sector,Don't wish to specify,English,Advertising/Entertainment/Media,Christian,real
+Catholic,MA (Arts),Private Sector,Don't wish to specify,Konkani,Agriculture,Christian,fake
+Catholic,Other School/Graduation,Public Sector,Don't wish to specify,English,Admin/Secretarial,Christian,real
+Catholic,10th,Private Sector,Don't wish to specify,Urdu,Admin/Secretarial,Christian,fake
+Shewetamber,Intermediate,Not Working,Don't wish to specify,Gujarati,Non Working,Christian,fake
+Shewetamber,MBBS,Public Sector,Don't wish to specify,Malayalam,Health Care,Christian,fake
+Catholic,Other Post Graduation,Not Working,Don't wish to specify,Konkani,Non Working,Christian,real
+Protestant,MBA/PGDM,Private Sector,Don't wish to specify,English,Business Owner/Entrepreneur,Christian,real
+Shewetamber,Other Diploma,Others,Don't wish to specify,Hindi,Architecture/Design,Christian,fake
+Catholic,Other Post Graduation,Central Government,INR 7 lakhs to 10 lakhs,Konkani,Customer Service/Call Centre/BPO,Christian,fake
+Catholic,B.Ed (Education),State Government,Don't wish to specify,Telugu,Education/Training,Christian,real
+Shewetamber,B.Sc (Science),Private Sector,INR 7 lakhs to 10 lakhs,English,Agriculture,Christian,fake
+Protestant,B.Ed (Education),Public Sector,INR 7 lakhs to 10 lakhs,English,Education/Training,Christian,real
+Shia,Engineering,Private Sector,INR 3 lakhs to 4 lakhs,English,Management/Corporate Professionals,Christian,real
+Rajput,MBA/PGDM,Public Sector,INR 2 lakhs to 3 lakhs,Oriya,IT,Hindu,real
+Rajput,MBA/PGDM,Public Sector,INR 7 lakhs to 10 lakhs,Hindi,Human Resource,Hindu,real
+Brahmin - Barendra ,M.Sc. (Science),Others,INR 3 lakhs to 4 lakhs,Oriya,Science,Hindu,real
+Brahmin - Barendra ,12th,Not Working,Don't wish to specify,Telugu,Science,Hindu,fake
+Kayastha,MA (Arts),Others,INR 1 lakh to 2 lakhs,Hindi,Admin/Secretarial,Hindu,real
+Shia,MA (Arts),Others,INR 20 lakhs to 25 lakhs ,Gujarati,Admin/Secretarial,Hindu,fake
+Brahmin - Barendra,M.Sc. (Science),Public Sector,Don't wish to specify,Kannada,Science,Hindu,real
+Bhandari,B.Com (Commerce),Not Working,INR 3 lakhs to 4 lakhs,Marathi,Admin/Secretarial,Hindu,fake
+Thiyya,10th,Not Working,Don't wish to specify,Malayalam,Government Employee,Hindu,fake
+Sunni,MD/MS (Medicine),Not Working,INR 25 lakhs to 30 lakhs,Marathi,Health Care,Hindu,fake
+Kayastha,B.A. (Arts),State Government,INR 1 lakh to 2 lakhs,Bengali,Admin/Secretarial,Hindu,real
+Khatri,B.Com (Commerce),Not Working,INR 2 lakhs to 3 lakhs,Punjabi,Export/Import,Hindu,fake
+Gowda,BSW (Social Work),Not Working,Don't wish to specify,Kannada,Health Care,Hindu,fake
+Brahmin - Barendra,B.A. (Arts),Others,Don't wish to specify,Urdu,Health Care,Hindu,fake
+Brahmin - Dixit,MA (Arts),Not Working,INR 4 lakhs to 5 lakhs,Kannada,Others,Hindu,fake
+Baidya,B.Com (Commerce),Not Working,Don't wish to specify,Bengali,Beauty/Fashion/Jewellery Designers,Hindu,fake
+Shimpi,M.Com. (Commerce),Not Working,INR 5 lakhs to 7 lakhs,Marathi,Beauty/Fashion/Jewellery Designers,Hindu,fake
+Pillai,B.Arch (Architecture),State Government,Don't wish to specify,Tamil,Education/Training,Hindu,real
+Nair,Other Diploma,Central Government,Don't wish to specify,Malayalam,Government Employee,Hindu,real
+Khatri,CA (Chartered Accountant),Public Sector,INR 4 lakhs to 5 lakhs,Punjabi,Banking/Insurance/Financial Services,Hindu,real
+Sunni,BDS (Dental Surgery),Not Working,INR 10 lakhs  to 15 lakhs,Kannada,Health Care,Hindu,fake
+Rajput,B.A. (Arts),Not Working,INR 2 lakhs to 3 lakhs,Hindi,Education/Training,Hindu,fake
+Khatri,PG Diploma,Private Sector,Don't wish to specify,Hindi,Education/Training,Hindu,real
+Vaishnav,M.Ed. (Education),Public Sector,INR 4 lakhs to 5 lakhs,Gujarati,Government Employee,Hindu,real
+Brahmin - Dixit ,10th,Others,INR 50 thousand to  1 lakh,Urdu,Business Owner/Entrepreneur,Hindu,fake
+Nair,B.Sc (Science),Private Sector,INR 50 thousand to  1 lakh,Malayalam,Health Care,Hindu,real
+Balija,B.Com (Commerce),Private Sector,INR 3 lakhs to 4 lakhs,Telugu,Admin/Secretarial,Hindu,real
+Brahmin - Dixit,BHM (Hotel Management),Not Working,Don't wish to specify,Tamil,Non Working,Hindu,real
+Brahmin - Dixit ,MBA/PGDM,Private Sector,Don't wish to specify,Bengali,Admin/Secretarial,Hindu,real
+Catholic,Ph.D. (Doctorate),State Government,INR 4 lakhs to 5 lakhs,Malayalam,Education/Training,Hindu,fake
+Mahishya,B.Sc (Science),State Government,INR 4 lakhs to 5 lakhs,Bengali,Civil Services/Law Enforcement,Hindu,real
+Brahmin - Dixit,MA (Arts),Others,INR 50 thousand to  1 lakh,Hindi,Others,Hindu,real
+Arora,MBA/PGDM,Not Working,Don't wish to specify,Punjabi,Civil Services/Law Enforcement,Hindu,fake
+Brahmin - Dixit,MS,Not Working,Don't wish to specify,Bengali,Non Working,Hindu,real
+Khatri,B.A. (Arts),Not Working,Don't wish to specify,Hindi,Beauty/Fashion/Jewellery Designers,Hindu,fake
+Yadav,Ph.D. (Doctorate),Central Government,INR 10 lakhs  to 15 lakhs,Hindi,Government Employee,Hindu,real
+Maratha,M.Com. (Commerce),Not Working,Don't wish to specify,Marathi,Non Working,Hindu,real
+Maratha,B.A. (Arts),Private Sector,INR 2 lakhs to 3 lakhs,Marathi,Admin/Secretarial,Hindu,real
+Shia,10th,Private Sector,Don't wish to specify,Tamil,Admin/Secretarial,Hindu,fake
+Arora,CA (Chartered Accountant),Private Sector,INR 3 lakhs to 4 lakhs,Hindi,Finance and Accounts,Hindu,real
+Balija,B.Com (Commerce),Private Sector,INR 7 lakhs to 10 lakhs,Telugu,Customer Service/Call Centre/BPO,Hindu,fake
+Brahmin - Dixit,M.Ed. (Education),Private Sector,INR 1 lakh to 2 lakhs,Telugu,Government Employee,Hindu,fake
+Brahmin - Dixit,BL/LLB/BGL (Law),Private Sector,INR 35 lakhs to 40 lakhs,Gujarati,Health Care,Hindu,fake
+Brahmin - Dixit ,Other Diploma,Others,INR 2 lakhs to 3 lakhs,Telugu,Artists/Animators/Web Designers,Hindu,real
+Naidu,MA (Arts),MNC,Don't wish to specify,Urdu,Finance and Accounts,Hindu,fake
+Brahmin - Kulin,MA (Arts),MNC,Don't wish to specify,Telugu,Admin/Secretarial,Hindu,real
+Brahmin - Kulin,B.Sc (Science),Central Government,Don't wish to specify,Kannada,Beauty/Fashion/Jewellery Designers,Hindu,fake
+Kshatriya,Fashion/Design,Not Working,Don't wish to specify,Pahari,Non Working,Hindu,real
+Khatri,B.Sc (Science),Private Sector,INR 3 lakhs to 4 lakhs,Hindi,Finance and Accounts,Hindu,real
+Lingayath,B.Sc (Science),Others,INR 2 lakhs to 3 lakhs,Kannada,Science,Hindu,real
+Pillai,10th,Private Sector,INR 35 lakhs to 40 lakhs,English,Admin/Secretarial,Hindu,fake
+Bhandari,12th,Private Sector,INR 50 thousand to  1 lakh,Konkani,Admin/Secretarial,Hindu,real
+Brahmin - Kulin,MBA/PGDM,Central Government,INR 20 lakhs to 25 lakhs,English,Beauty/Fashion/Jewellery Designers,Hindu,fake
+Brahmin - Kulin,B.A. (Arts),Private Sector,Don't wish to specify,Urdu,Travel/Airlines,Hindu,fake
+Brahmin - Kulin,12th,Others,INR 35 lakhs to 40 lakhs,Marathi,Others,Hindu,fake
+Brahmin - Kulin,B.Com (Commerce),Others,INR 35 lakhs to 40 lakhs,Telugu,IT,Hindu,fake
+Kayastha,MBA/PGDM,MNC,INR 35 lakhs to 40 lakhs,Bengali,Others,Hindu,real
+Kashyap,B.Com (Commerce),MNC,INR 7 lakhs to 10 lakhs,Punjabi,Customer Service/Call Centre/BPO,Hindu,fake
+Shia,B.Sc (Science),Not Working,Don't wish to specify,Telugu,Non Working,Hindu,fake
+Brahmin - Kulin,Ph.D. (Doctorate),Private Sector,Don't wish to specify,Tamil,Education/Training,Hindu,fake
+Kshatriya,Ph.D. (Doctorate),Central Government,INR 25 lakhs to 30 lakhs,Marathi,Education/Training,Hindu,real
+Khatri,B.A. (Arts),Not Working,INR 3 lakhs to 4 lakhs,Hindi,Education/Training,Hindu,fake
+Rajput,B.A. (Arts),Central Government,INR 4 lakhs to 5 lakhs,Hindi,Government Employee,Hindu,real
+Vaishnav,10th,Not Working,INR 3 lakhs to 4 lakhs,Hindi,Finance and Accounts,Hindu,fake
+Rajput,B.Com (Commerce),Private Sector,Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Hindu,real
+Kayastha,10th,Private Sector,INR 10 lakhs  to 15 lakhs,English,Customer Service/Call Centre/BPO,Hindu,fake
+Sunni,B.A. (Arts),Others,INR 1 lakh to 2 lakhs,Gujarati,Banking/Insurance/Financial Services,Hindu,fake
+Brahmin - Kulin,PG Diploma,Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Education/Training,Hindu,real
+Sindhi,B.Com (Commerce),Private Sector,INR 20 lakhs to 25 lakhs,Sindhi,Admin/Secretarial,Hindu,real
+Catholic,Other School/Graduation,Private Sector,Don't wish to specify,Hindi,Admin/Secretarial,Hindu,fake
+Maratha,B.Arch (Architecture),Others,INR 1 lakh to 2 lakhs,Marathi,Health Care,Hindu,fake
+Kayastha,B.A. (Arts),Others,INR 50 thousand to  1 lakh,Chatisgarhi,Agriculture,Hindu,fake
+Vaishnav,B.A. (Arts),Not Working,Don't wish to specify,Gujarati,Admin/Secretarial,Hindu,fake
+Maratha,B.P.Ed. (Physical Education),Private Sector,Don't wish to specify,Marathi,Admin/Secretarial,Hindu,real
+Brahmin - Kulin,Other Post Graduation,Public Sector,INR 5 lakhs to 7 lakhs,Urdu,Others,Hindu,fake
+Brahmin - Kulin,10th,Private Sector,INR 35 lakhs to 40 lakhs,Hindi,Government Employee,Hindu,fake
+Brahmin - Kulin,B.A. (Arts),Public Sector,INR 35 lakhs to 40 lakhs,Tamil,Non Working,Hindu,fake
+Shia,BL/LLB/BGL (Law),Others,Don't wish to specify,Gujarati,Human Resource,Hindu,fake
+Brahmin - Danua,B.A. (Arts),Private Sector,INR 50 thousand to  1 lakh,Telugu,Beauty/Fashion/Jewellery Designers,Hindu,real
+Maratha,MA (Arts),Private Sector,Don't wish to specify,Marathi,Artists/Animators/Web Designers,Hindu,real
+Agarwal,M.Sc. (Science),Private Sector,INR 4 lakhs to 5 lakhs,Hindi,Education/Training,Hindu,real
+Catholic,B.Sc (Science),Central Government,Don't wish to specify,Gujarati,Beauty/Fashion/Jewellery Designers,Hindu,fake
+Sunni,B.Sc (Science),Central Government,Don't wish to specify,Tamil,Health Care,Hindu,fake
+Brahmin - Danua,MA (Arts),Private Sector,Don't wish to specify,Telugu,Education/Training,Hindu,real
+Vishwakarma,MBBS,Private Sector,INR 10 lakhs  to 15 lakhs,Malayalam,Health Care,Hindu,real
+Gowda,Other Diploma,Private Sector,Don't wish to specify,Kannada,Pharmaceutical/Biotechnology,Hindu,real
+Catholic,B.Com (Commerce),Private Sector,INR 7 lakhs to 10 lakhs,Gujarati,Business Owner/Entrepreneur,Hindu,fake
+Brahmin - Danua,B.A. (Arts),Not Working,Don't wish to specify,Hindi,Admin/Secretarial,Hindu,fake
+Brahmin - Danua,B.Com (Commerce),Private Sector,INR 3 lakhs to 4 lakhs,Telugu,IT,Hindu,real
+Maratha,B.A. (Arts),Private Sector,Don't wish to specify,Marathi,Architecture/Design,Hindu,fake
+Gujarati,B.Com (Commerce),Public Sector,INR1 lakh to 2 lakhs,Gujarati,Admin/Secretarial,Hindu,real
+Punjabi,10th,Others,INR 35 lakhs to 40 lakhs,Punjabi,Admin/Secretarial,Hindu,fake
+Nair,M.Ed. (Education),Central Government,INR 20 lakhs to 25 lakhs,Dhivehi,Beauty/Fashion/Jewellery Designers,Hindu,fake
+Agarwal,M.Sc. (Science),Private Sector,INR 1 lakh to 2 lakhs,Hindi,Management/Corporate Professionals,Hindu,real
+Naidu,B.Com (Commerce),Central Government,INR 1 lakh to 2 lakhs,Telugu,Banking/Insurance/Financial Services,Hindu,real
+Nair,10th,Others,INR 7 lakhs to 10 lakhs,Malayalam,Customer Service/Call Centre/BPO,Hindu,fake
+Catholic,B.A. (Arts),State Government,INR 1 lakh to 2 lakhs,Tamil,Government Employee,Hindu,real
+Brahmin - Danua,MA (Arts),Central Government,INR 50 thousand to  1 lakh,Tamil,Admin/Secretarial,Hindu,real
+Bhatia,MBBS,Not Working,INR 3 lakhs to 4 lakhs,Punjabi,IT,Hindu,fake
+Maratha,Others,Not Working,INR 1 lakh to 2 lakhs,Marathi,Non Working,Hindu,fake
+Brahmin - Danua,BE B.Tech (Engineering),State Government,INR 7 lakhs to 10 lakhs,Hindi,Government Employee,Hindu,real
+Brahmin - Danua,B.A. (Arts),Not Working,Don't wish to specify,Kannada,Non Working,Hindu,real
+Vaishnav,B.A. (Arts),Not Working,INR 50 thousand to  1 lakh,Gujarati,Education/Training,Hindu,fake
+Catholic,B.Sc (Science),Others,Don't wish to specify,Telugu,Non Working,Hindu,fake
+Khatri,B.V.Sc. (Veterinary Science),Central Government,INR 25 lakhs to 30 lakhs,Punjabi,Advocate,Hindu,fake
+Brahmin - Danua,B.Sc (Science),Private Sector,Don't wish to specify,Bengali,Government Employee,Hindu,fake
+Catholic,B.Sc (Science),Central Government,INR 2 lakhs to 3 lakhs,Gujarati,Non Working,Hindu,fake
+Ambalavasi,Ph.D. (Doctorate),Not Working,Don't wish to specify,Malayalam,IT,Hindu,fake
+Agarwal,M.Sc. (Science),Public Sector,INR 1 lakh to 2 lakhs,Hindi,Non Working,Hindu,fake
+Nair,B.Sc (Science),Not Working,INR 1 lakh to 2 lakhs,Malayalam,Agriculture,Hindu,fake
+Brahmin - Danua,B.Sc (Science),Central Government,INR 2 lakhs to 3 lakhs,Telugu,Government Employee,Hindu,real
+Kshatriya,MA (Arts),Private Sector,INR 2 lakhs to 3 lakhs,Hindi,Advertising/Entertainment/Media,Hindu,real
+Catholic,MBA/PGDM,Private Sector,INR 1 lakh to 2 lakhs,Gujarati,Banking/Insurance/Financial Services,Hindu,fake
+Punjabi,Ph.D. (Doctorate),State Government,INR 1 lakh to 2 lakhs,Punjabi,Education/Training,Hindu,real
+Sindhi,B.A. (Arts),State Government,INR 4 lakhs to 5 lakhs,Sindhi,Non Working,Hindu,fake
+Catholic,B.A. (Arts),Public Sector,Don't wish to specify,English,Education/Training,Hindu,fake
+Vaishnav Vanik,M.Phil. (Philosophy),Public Sector,Don't wish to specify,Gujarati,Education/Training,Hindu,real
+Brahmin - Danua,MA (Arts),Private Sector,INR 4 lakhs to 5 lakhs,Kannada,Marketing and Communications,Hindu,real
+Khatri,Other School/Graduation,Others,INR 2 lakhs to 3 lakhs,Punjabi,Health Care,Hindu,real
+Brahmin - Danua,BDS (Dental Surgery),Not Working,INR 40 lakhs to 50 lakhs,Hindi,Health Care,Hindu,fake
+Maratha,B.A. (Arts),Private Sector,Don't wish to specify,Marathi,Admin/Secretarial,Hindu,real
+Catholic,B.Sc (Science),Public Sector,INR 2 lakhs to 3 lakhs,Malayalam,Admin/Secretarial,Hindu,fake
+Shia,Masters,Others,INR 50 thousand to  1 lakh,Kannada,Marketing and Communications,Hindu,fake
+Mudaliar,Other School/Graduation,Private Sector,INR 1 lakh to 2 lakhs,Tamil,Health Care,Hindu,real
+Rajput,Ph.D. (Doctorate),Private Sector,Don't wish to specify,Hindi,Education/Training,Hindu,real
+Brahmin - Danua,Other Diploma,Others,Don't wish to specify,Punjabi,Education/Training,Hindu,real
+Brahmin - Danua,Ph.D. (Doctorate),Private Sector,INR 7 lakhs to 10 lakhs,Konkani,Education/Training,Hindu,real
+Brahmin - Garhwali,B.A. (Arts),Not Working,Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Hindu,fake
+Catholic,B.Sc (Science),Central Government,Don't wish to specify,Telugu,Non Working,Hindu,fake
+Sunni,B.Sc (Science),Public Sector,INR 7 lakhs to 10 lakhs,English,Non Working,Hindu,fake
+Tamil,B.Sc (Science),Private Sector,INR 2 lakhs to 3 lakhs,Tamil,Agriculture,Hindu,real
+Kshatriya,B.A. (Arts),Not Working,INR 3 lakhs to 4 lakhs,Hindi,Non Working,Hindu,fake
+Punjabi,MA (Arts),Central Government,INR 4 lakhs to 5 lakhs,Punjabi,Admin/Secretarial,Hindu,real
+Punjabi,Languages,Central Government,INR 50 thousand to  1 lakh,Hindi,Civil Services/Law Enforcement,Hindu,real
+Punjabi,Ph.D. (Doctorate),Not Working,INR 25 lakhs to 30 lakhs,Hindi,Education/Training,Hindu,fake
+Brahmin - Garhwali,B.A. (Arts),Not Working,INR 4 lakhs to 5 lakhs,Tamil,Admin/Secretarial,Hindu,fake
+Brahmin - Garhwali,ML/LLM (Law),Private Sector,Don't wish to specify,Hindi,Government Employee,Hindu,fake
+Kshatriya,Engineering,MNC,Don't wish to specify,Bengali,IT,Hindu,real
+Brahmin - Garhwali,B.A. (Arts),Others,INR 50 thousand to  1 lakh,Marathi,Finance and Accounts,Hindu,real
+Scheduled Tribe,B.A. (Arts),State Government,INR 2 lakhs to 3 lakhs,Assamese,Government Employee,Hindu,real
+Catholic,Other Post Graduation,State Government,INR 2 lakhs to 3 lakhs,Gujarati,Admin/Secretarial,Hindu,fake
+Shia,Ph.D. (Doctorate),Others,INR 2 lakhs to 3 lakhs,Gujarati,Admin/Secretarial,Hindu,fake
+Naicker,12th,Not Working,INR 50 thousand to  1 lakh,Tamil,Health Care,Hindu,fake
+Nadar,MA (Arts),Others,Don't wish to specify,Tamil,Education/Training,Hindu,real
+Maratha,M.Sc. (Science),Private Sector,Don't wish to specify,Marathi,Management/Corporate Professionals,Hindu,real
+Badaga,B.A. (Arts),Not Working,INR 50 thousand to  1 lakh,Badaga,Admin/Secretarial,Hindu,fake
+Kuruba,MBBS,Others,Don't wish to specify,Kannada,Health Care,Hindu,real
+Brahmin - Garhwali,MBA/PGDM,Others,Don't wish to specify,Hindi,Health Care,Hindu,real
+Sunni,10th,Others,INR 5 lakhs to 7 lakhs,Punjabi,Admin/Secretarial,Hindu,fake
+Protestant,B.Com (Commerce),Others,INR 7 lakhs to 10 lakhs,Kutchi,Business Owner/Entrepreneur,Hindu,fake
+Brahmin - Garhwali,B.A. (Arts),Others,INR 7 lakhs to 10 lakhs,Hindi,Customer Service/Call Centre/BPO,Hindu,fake
+Brahmin - Garhwali,B.A. (Arts),Not Working,Don't wish to specify,Marathi,Non Working,Hindu,real
+Gowda,MBA/PGDM,Others,INR 2 lakhs to 3 lakhs,Kannada,Education/Training,Hindu,real
+Sindhi,B.Sc (Science),Public Sector,Don't wish to specify,Sindhi,Architecture/Design,Hindu,real
+Brahmin - Garhwali,MBA/PGDM,Private Sector,INR 3 lakhs to 4 lakhs,Hindi,Travel/Airlines,Hindu,real
+Catholic,B.Ed (Education),Others,INR 4 lakhs to 5 lakhs,Bengali,Admin/Secretarial,Hindu,fake
+Rajput,BL/LLB/BGL (Law),Others,INR 7 lakhs to 10 lakhs,Hindi,Legal,Hindu,real
+Brahmin - Garhwali,B.A. (Arts),Others,INR 7 lakhs to 10 lakhs,Punjabi,Business Owner/Entrepreneur,Hindu,real
+Protestant,Ph.D. (Doctorate),State Government,INR 2 lakhs to 3 lakhs,Tamil,Education/Training,Hindu,fake
+Sunni,B.A. (Arts),State Government,INR 7 lakhs to 10 lakhs,Telugu,Finance and Accounts,Hindu,fake
+Brahmin - Garhwali,B.Com (Commerce),Public Sector,INR 2 lakhs to 3 lakhs,Marathi,Banking/Insurance/Financial Services,Hindu,real
+Maratha,BFA (Fine Arts),Private Sector,Don't wish to specify,Marathi,Others,Hindu,real
+Agarwal,MA (Arts),State Government,INR 10 lakhs  to 15 lakhs,Hindi,Government Employee,Hindu,real
+Shia,Other Post Graduation,MNC,INR 3 lakhs to 4 lakhs,Hindi,Defence,Hindu,fake
+Arora,CA (Chartered Accountant),Others,INR 2 lakhs to 3 lakhs,Punjabi,Banking/Insurance/Financial Services,Hindu,real
+Catholic,Other Diploma,Others,INR 3 lakhs to 4 lakhs,Hindi,Admin/Secretarial,Hindu,fake
+Brahmin - Garhwali,12th,Not Working,Don't wish to specify,Tamil,Non Working,Hindu,real
+Nair,10th,Not Working,INR 7 lakhs to 10 lakhs,Malayalam,Government Employee,Hindu,fake
+Protestant,Masters,Not Working,INR 7 lakhs to 10 lakhs,Gujarati,Government Employee,Hindu,fake
+Gujarati,B.A. (Arts),Not Working,INR 2 lakhs to 3 lakhs,Gujarati,Business Owner/Entrepreneur,Hindu,fake
+Kayastha,MA (Arts),Others,Don't wish to specify,Bengali,Education/Training,Hindu,real
+Brahmin - Garhwali,12th,Private Sector,INR 1 lakh to 2 lakhs,Gujarati,Admin/Secretarial,Hindu,real
+Protestant,M.Sc. (Science),Public Sector,INR 4 lakhs to 5 lakhs,Bengali,Banking/Insurance/Financial Services,Hindu,fake
+Brahmin - Garhwali,B.Ed (Education),Not Working,Don't wish to specify,Urdu,Non Working,Hindu,fake
+Khatri,BL/LLB/BGL (Law),Central Government,Don't wish to specify,Punjabi,Legal,Hindu,real
+Brahmin - Garhwali,M.Ed. (Education),State Government,INR 3 lakhs to 4 lakhs,Tamil,Education/Training,Hindu,real
+Brahmin - Garhwali,B.A. (Arts),Not Working,INR 30 lakhs to 40 lakhs,Hindi,Non Working,Hindu,fake
+Brahmin - Havyaka,Other Diploma,Not Working,Don't wish to specify,Hindi,Non Working,Hindu,real
+Kayastha,LLB,Private Sector,INR 3 lakhs to 4 lakhs,Hindi,Advocate,Hindu,real
+Agarwal,MA (Arts),Central Government,INR 4 lakhs to 5 lakhs,Rajasthani,Civil Services/Law Enforcement,Hindu,real
+Sikh,B.A. (Arts),MNC,INR 2 lakhs to 3 lakhs,Punjabi,Banking/Insurance/Financial Services,Hindu,real
+Bunt (Shetty),12th,Not Working,INR 7 lakhs to 10 lakhs,Tulu,Non Working,Hindu,fake
+Sikh,Ph.D. (Doctorate),State Government,INR 7 lakhs to 10 lakhs,Punjabi,Education/Training,Hindu,real
+Shia,MBA/PGDM,State Government,Don't wish to specify,Bengali,Health Care,Hindu,fake
+Shia,Integrated PG,Public Sector,Don't wish to specify,Malayalam,Admin/Secretarial,Hindu,fake
+Shewetamber,MA (Arts),Private Sector,Don't wish to specify,Gujarati,IT,Hindu,fake
+Shewetamber,M.Sc. (Science),Private Sector,INR 7 lakhs to 10 lakhs,Gujarati,Customer Service/Call Centre/BPO,Hindu,fake
+Brahmin - Havyaka,Other Post Graduation,Private Sector,INR 7 lakhs to 10 lakhs,Hindi,IT,Hindu,real
+Kayastha,12th,Not Working,Don't wish to specify,Bengali,Non Working,Hindu,real
+Brahmin - Havyaka,12th,State Government,INR 2 lakhs to 3 lakhs,Hindi,Government Employee,Hindu,real
+Kayastha,B.A. (Arts),Central Government,INR 5 lakhs to 7 lakhs,Bengali,Government Employee,Hindu,real
+Brahmin - Havyaka ,MBA/PGDM,Central Government,Don't wish to specify,Hindi,Government Employee,Hindu,real
+Brahmin - Havyaka,M.Ed. (Education),State Government,INR 4 lakhs to 5 lakhs,Marathi,Government Employee,Hindu,real
+Brahmin - Havyaka,B.A. (Arts),Private Sector,INR 3 lakhs to 4 lakhs,Gujarati,Agriculture,Hindu,fake
+Thatai Sindhi,B.Com (Commerce),Not Working,INR 50 lakhs and above.,Sindhi,Banking/Insurance/Financial Services,Hindu,fake
+Brahmin - Gaur,Arts/Graphic Designing,Not Working,INR 1 lakh to 2 lakhs,Hindi,Beauty/Fashion/Jewellery Designers,Hindu,fake
+Protestant,MCA PGDCA part time,Central Government,INR 1 lakh to 2 lakhs,Telugu,Government Employee,Hindu,fake
+Bhumihar Brahmin,10th,Not Working,INR 50 lakhs and above.,Bihari,Non Working,Hindu,fake
+Yadav,Ph.D. (Doctorate),Central Government,INR 7 lakhs to 10 lakhs,Hindi,Education/Training,Hindu,real
+Baniya,BL/LLB/BGL (Law),State Government,INR 5 lakhs to 7 lakhs,Gujarati,Government Employee,Hindu,real
+Kadava Patel,12th,Others,INR 35 lakhs to 40 lakhs,Gujarati,Beauty/Fashion/Jewellery Designers,Hindu,fake
+Catholic,MBA/PGDM,Not Working,Don't wish to specify,Gujarati,Non Working,Hindu,fake
+Brahmin - Gaur,M.Com. (Commerce),Others,Don't wish to specify,Hindi,Marketing and Communications,Hindu,real
+Brahmin - Gaur,MA (Arts),Private Sector,INR 2 lakhs to 3 lakhs,Hindi,Civil Services/Law Enforcement,Hindu,real
+Ezhava,Other Diploma,Not Working,INR 3 lakhs to 4 lakhs,Malayalam,Civil Services/Law Enforcement,Hindu,fake
+Nair,MA (Arts),Others,INR 4 lakhs to 5 lakhs,Malayalam,Education/Training,Hindu,real
+Brahmin - Gaur,M.Plan. (Planning),Central Government,Don't wish to specify,Telugu,Hotels/Restaurants,Hindu,real
+Nair,Other Diploma,Central Government,INR 7 lakhs to 10 lakhs,Malayalam,Government Employee,Hindu,real
+Vaishya,B.A. (Arts),Not Working,INR 7 lakhs to 10 lakhs,Hindi,Government Employee,Hindu,fake
+Shimpi,Other Diploma,Central Government,INR 10 lakhs  to 15 lakhs,Marathi,Government Employee,Hindu,real
+Naidu,B.A. (Arts),Private Sector,INR 30 lakhs to 40 lakhs,Tamil,Beauty/Fashion/Jewellery Designers,Hindu,real
+Brahmin - Gaur,B.Com (Commerce),Public Sector,INR 2 lakhs to 3 lakhs,Tamil,Agriculture,Hindu,fake
+Khatri,MA (Arts),Public Sector,INR 2 lakhs to 3 lakhs,Hindi,Agriculture,Hindu,fake
+Kayastha,Languages,Public Sector,INR 30 lakhs to 40 lakhs,Bihari,Management/Corporate Professionals,Hindu,real
+Kapu,BDS (Dental Surgery),Not Working,INR 5 lakhs to 7 lakhs,Telugu,Health Care,Hindu,real
+Brahmin - Gaur,10th,Not Working,INR 50 lakhs and above.,Telugu,Business Owner/Entrepreneur,Hindu,fake
+Kayastha,12th,Not Working,INR 5 lakhs to 7 lakhs,Bengali,Construction,Hindu,fake
+Thiyya,B.Sc (Science),Private Sector,Don't wish to specify,Kannada,Admin/Secretarial,Hindu,real
+Lingayath,BL/LLB/BGL (Law),Central Government,INR 7 lakhs to 10 lakhs,Kannada,Defence,Hindu,real
+Vishwakarma,B.A. (Arts),Not Working,INR 2 lakhs to 3 lakhs,Hindi,Non Working,Hindu,fake
+Shia,M.Lib.Sc. (Library Sciences),Private Sector,INR 1 lakh to 2 lakhs,Tamil,Education/Training,Hindu,fake
+Khatri,12th,Not Working,Don't wish to specify,Punjabi,Non Working,Hindu,real
+Brahmin - Gaur,M.Ed. (Education),Not Working,INR 7 lakhs to 10 lakhs,Hindi,Non Working,Hindu,fake
+Nai,BE B.Tech (Engineering),MNC,INR 3 lakhs to 4 lakhs,Marwari,IT,Hindu,real
+Kayastha,MA (Arts),Private Sector,INR 1 lakh to 2 lakhs,Hindi,Education/Training,Hindu,real
+Brahmin - Gaur,B.A. (Arts),Not Working,INR 2 lakhs to 3 lakhs,Bengali,Business Owner/Entrepreneur,Hindu,fake
+Brahmin - Gaur,B.Sc (Science),Not Working,INR 2 lakhs to 3 lakhs,Telugu,Finance and Accounts,Hindu,fake
+Lohana,B.Sc (Science),Central Government,Don't wish to specify,Hindi,Architecture/Design,Hindu,real
+Rajput,B.Com (Commerce),Central Government,Don't wish to specify,Punjabi,Beauty/Fashion/Jewellery Designers,Hindu,fake
+Brahmin - Gaur,MA (Arts),Not Working,INR 1 lakh to 2 lakhs,Hindi,Admin/Secretarial,Hindu,fake
+Brahmin - Gurukkal,B.Com (Commerce),MNC,INR 1 lakh to 2 lakhs,Kannada,Admin/Secretarial,Hindu,real
+Kapu,B.Sc (Science),Others,INR 1 lakh to 2 lakhs,Telugu,Agriculture,Hindu,real
+Brahmin - Gurukkal,PG Diploma,Private Sector,INR 3 lakhs to 4 lakhs,Marathi,IT,Hindu,real
+Khatik,MD/MS (Medicine),Public Sector,Don't wish to specify,Hindi,Health Care,Hindu,real
+Kapu,Ph.D. (Doctorate),Public Sector,Don't wish to specify,Telugu,Education/Training,Hindu,real
+Brahmin - Gurukkal,B.A. (Arts),Public Sector,Don't wish to specify,Tamil,Business Owner/Entrepreneur,Hindu,real
+Brahmin - Gurukkal,12th,Central Government,INR 10 lakhs  to 15 lakhs,Gujarati,Beauty/Fashion/Jewellery Designers,Hindu,fake
+Brahmin - Jangra,Ph.D. (Doctorate),Public Sector,Don't wish to specify,Punjabi,Education/Training,Hindu,real
+Brahmin - Jangra,B.Ed (Education),Central Government,Don't wish to specify,Bengali,Education/Training,Hindu,real
+Brahmin - Jangra,M.Com. (Commerce),Central Government,INR 7 lakhs to 10 lakhs,Telugu,Management/Corporate Professionals,Hindu,real
+Mudaliar,MBA/PGDM,Public Sector,INR 7 lakhs to 10 lakhs,Tamil,Telecom/ISP,Hindu,real
+Catholic,10th,Central Government,Don't wish to specify,English,Manufacturing/Engineering/R&D;,Hindu,fake
+Khatri,MA (Arts),Central Government,Don't wish to specify,Punjabi,Admin/Secretarial,Hindu,real
+Brahmin - Jangra,MBA/PGDM,Private Sector,Don't wish to specify,Kannada,Business Owner/Entrepreneur,Hindu,real
+Senguntha Mudaliyar,MCA/PGDCA,Private Sector,Don't wish to specify,Telugu,IT,Hindu,real
+Catholic,Other Post Graduation,Public Sector,INR 7 lakhs to 10 lakhs,Hindi,Admin/Secretarial,Hindu,fake
+Kayastha,Other Diploma,Central Government,Don't wish to specify,Bengali,Education/Training,Hindu,real
+Mudaliyar,B.Ed (Education),Central Government,Don't wish to specify,Tamil,Government Employee,Hindu,real
+Brahmin - Jangra,MBA/PGDM,Public Sector,INR 4 lakhs to 5 lakhs,Tamil,Government Employee,Hindu,real
+Arora,Ph.D. (Doctorate),State Government,INR 10 lakhs  to 15 lakhs,Punjabi,Education/Training,Hindu,real
+Kayastha,B.Com (Commerce),Others,Don't wish to specify,Hindi,Marketing and Communications,Hindu,real
+Brahmin - Jangra,B.Com (Commerce),Public Sector,Don't wish to specify,Telugu,Agriculture,Hindu,fake
+Catholic,B.Com (Commerce),Not Working,INR 7 lakhs to 10 lakhs,Konkani,Banking/Insurance/Financial Services,Hindu,fake
+Maratha,B.Com (Commerce),Not Working,INR 1 lakh to 2 lakhs,Marathi,Marketing and Communications,Hindu,fake
+Brahmin - Jangra,B.Sc (Science),Private Sector,Don't wish to specify,Kannada,Agriculture,Hindu,real
+Brahmin - Telugu,10th,Not Working,INR 20 lakhs to 30 lakhs,Hindi,Health Care,Hindu,fake
+Pillai,Other Diploma,Not Working,INR 20 lakhs to 30 lakhs,Tamil,Admin/Secretarial,Hindu,fake
+Brahmin - Telugu,Ph.D. (Doctorate),Private Sector,INR 1 lakh to 2 lakhs,Bengali,Education/Training,Hindu,real
+Brahmin - Telugu,B.A. (Arts),Public Sector,Don't wish to specify,Bengali,Non Working,Hindu,fake
+ViswaBrahmin - Telugu,10th,Not Working,INR 7 lakhs to 10 lakhs,Telugu,Admin/Secretarial,Hindu,fake
+Khatri,12th,Others,INR 1 lakh to 2 lakhs,Punjabi,Admin/Secretarial,Hindu,real
+Reddy,MA (Arts),Others,INR 7 lakhs to 10 lakhs,Telugu,Agriculture,Hindu,fake
+Brahmin - Telugu,Other Diploma,Public Sector,Don't wish to specify,Kannada,Sales/Business Development,Hindu,real
+Vaishnav Vania,B.Com (Commerce),Not Working,Don't wish to specify,Gujarati,Non Working,Hindu,real
+Brahmin - Telugu,B.A. (Arts),Public Sector,Don't wish to specify,Tamil,Government Employee,Hindu,real
+Vannia Kula Kshatriyar,MA (Arts),State Government,INR 2 lakhs to 3 lakhs,Tamil,Education/Training,Hindu,real
+Lohar,Others,Not Working,INR 2 lakhs to 3 lakhs,Gujarati,Banking/Insurance/Financial Services,Hindu,fake
+Brahmin - Telugu,B.Com (Commerce),State Government,Don't wish to specify,Telugu,Admin/Secretarial,Hindu,real
+Shia,Ph.D. (Doctorate),Public Sector,Don't wish to specify,Hindi,Science,Hindu,fake
+Brahmin - Shivhalli,12th,Public Sector,INR 10 lakhs  to 15 lakhs,Tamil,Customer Service/Call Centre/BPO,Hindu,real
+Rajput,Ph.D. (Doctorate),Public Sector,Don't wish to specify,Punjabi,Education/Training,Hindu,real
+Brahmin - Shivhalli,MA (Arts),Private Sector,Don't wish to specify,Tamil,Agriculture,Hindu,fake
+Brahmin - Shivhalli,PGDBM,State Government,INR 3 lakhs to 4 lakhs,Hindi,Admin/Secretarial,Hindu,real
+Lohana,B.Com (Commerce),Private Sector,INR 10 lakhs  to 15 lakhs,Gujarati,Government Employee,Hindu,real
+Sindhi,B.A. (Arts),Private Sector,Don't wish to specify,Hindi,Admin/Secretarial,Hindu,real
+Brahmin - Shivhalli,B.A. (Arts),Not Working,Don't wish to specify,Tamil,Non Working,Hindu,fake
+Agarwal,B.Com (Commerce),Private Sector,INR 7 lakhs to 10 lakhs,Hindi,Management/Corporate Professionals,Hindu,real
+Brahmin - Shivhalli,B.A. (Arts),State Government,Don't wish to specify,Hindi,Admin/Secretarial,Hindu,real
+Shia,MA (Arts),Others,Don't wish to specify,Hindi,Admin/Secretarial,Hindu,fake
+Brahmin - Shivhalli,MBBS,Private Sector,Don't wish to specify,Hindi,Health Care,Hindu,real
+Shia,MA (Arts),Others,INR 3 lakhs to 4 lakhs,Urdu,Education/Training,Hindu,fake
+Shia,M.Sc. (Science),Private Sector,Don't wish to specify,Telugu,Health Care,Hindu,fake
+Shia,ME/M.Tech/MS (Engg/Sciences),Not Working,INR 4 lakhs to 5 lakhs,Telugu,Non Working,Hindu,fake
+Kayastha,MBBS,Central Government,Don't wish to specify,Hindi,Health Care,Hindu,real
+Khatri,10th,Not Working,INR 4 lakhs to 5 lakhs,Punjabi,Admin/Secretarial,Hindu,fake
+Kayastha,M.Sc. (Science),Public Sector,Don't wish to specify,Bengali,Agriculture,Hindu,real
+Khatri,MA (Arts),Private Sector,INR 1 lakh to 2 lakhs,Punjabi,Education/Training,Hindu,real
+Yadav,B.Sc (Science),Private Sector,INR 1 lakh to 2 lakhs,Bhojpuri,Agriculture,Hindu,real
+Kayastha,Other Post Graduation,Others,INR 4 lakhs to 5 lakhs,Hindi,Human Resource,Hindu,real
+Nair,Other Post Graduation,Central Government,Don't wish to specify,Hindi,Government Employee,Hindu,real
+Catholic,Other Diploma,Private Sector,Don't wish to specify,English,Defence,Hindu,fake
+Kshatriya,10th,Private Sector,INR 1 lakh to 2 lakhs,Hindi,Beauty/Fashion/Jewellery Designers,Hindu,real
+Brahmin - Bengali,B.Ed (Education),Private Sector,Don't wish to specify,Bengali,Admin/Secretarial,Hindu,real
+Aryasamaj,B.Sc (Science),Central Government,Don't wish to specify,Rajasthani,Government Employee,Hindu,real
+Brahmin - Bengali,Other Post Graduation,Not Working,INR 2 lakhs to 3 lakhs,Punjabi,Education/Training,Hindu,fake
+Brahmin - Bengali,B.A. (Arts),Public Sector,INR 50 lakhs and above.,Hindi,Business Owner/Entrepreneur,Hindu,real
+Chhetri,B.A. (Arts),Private Sector,INR 50 lakhs and above.,Hindi,Business Owner/Entrepreneur,Hindu,real
+Rajput,10th,Public Sector,INR 50 lakhs and above.,Punjabi,Education/Training,Hindu,fake
+Nair,MA (Arts),Private Sector,Don't wish to specify,Malayalam,Education/Training,Hindu,real
+Arora,12th,Private Sector,INR 2 lakhs to 3 lakhs,Punjabi,Sales/Business Development,Hindu,real
+Brahmin - Bengali,MA (Arts),Not Working,INR 1 lakh to 2 lakhs,Telugu,Non Working,Hindu,fake
+Shewetamber,10th,Not Working,INR 1 lakh to 2 lakhs,Gujarati,Non Working,Hindu,real
+Shia,B.A. (Arts),Public Sector,Don't wish to specify,Tamil,Customer Service/Call Centre/BPO,Hindu,fake
+Rajput,10th,Not Working,INR 15 lakhs to 20 lakhs,Hindi,Customer Service/Call Centre/BPO,Hindu,fake
+Brahmin 6000 Niyogi,Other Diploma,Public Sector,Don't wish to specify,Hindi,Health Care,Hindu,real
+Catholic,M.Ed. (Education),Public Sector,INR 3 lakhs to 4 lakhs,Malayalam,Admin/Secretarial,Hindu,fake
+Nair,MBA/PGDM,Others,INR 3 lakhs to 4 lakhs,Malayalam,Human Resource,Hindu,real
+Khatri,B.A. (Arts),Public Sector,Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Hindu,real
+Protestant,MA (Arts),Others,Don't wish to specify,Punjabi,Advertising/Entertainment/Media,Hindu,fake
+Adi Dravida,B.Com (Commerce),Private Sector,Don't wish to specify,Tamil,Finance and Accounts,Hindu,real
+Sonar,12th,Others,INR 3 lakhs to 4 lakhs,Gujarati,Business Owner/Entrepreneur,Hindu,real
+Kayastha,MA (Arts),Others,Don't wish to specify,Bengali,Education/Training,Hindu,real
+Protestant,B.A. (Arts),Public Sector,INR 3 lakhs to 4 lakhs,English,Admin/Secretarial,Hindu,fake
+Catholic,B.A. (Arts),Private Sector,INR 1 lakh to 2 lakhs,Hindi,Admin/Secretarial,Hindu,fake
+Shia,10th,Private Sector,INR 2 lakhs to 3 lakhs,Gujarati,Admin/Secretarial,Hindu,fake
+Catholic,12th,Private Sector,INR 2 lakhs to 3 lakhs,Gujarati,Admin/Secretarial,Hindu,fake
+Brahmin 6000 Niyogi,M.Arch. (Architecture),Not Working,Don't wish to specify,Hindi,Non Working,Hindu,real
+Shia,M.Arch. (Architecture),Central Government,INR 2 lakhs to 3 lakhs,Hindi,Construction,Hindu,fake
+Protestant,10th,Central Government,Don't wish to specify,Kutchi,Admin/Secretarial,Hindu,fake
+Catholic,M.Sc. (Science),Private Sector,INR 50 thousand to  1 lakh,Hindi,Science,Hindu,fake
+Brahmin 6000 Niyogi,B.Sc (Science),Public Sector,INR 1 lakh to 2 lakhs,Bengali,Education/Training,Hindu,real
+Brahmin 6000 Niyogi,B.Sc (Science),Not Working,Don't wish to specify,Telugu,Non Working,Hindu,real
+Iyengar,M.Sc. (Science),Not Working,INR 1 lakh to 2 lakhs,Tamil,Science,Hindu,fake
+Rajput,10th,Central Government,INR 50 lakhs and above.,Punjabi,Government Employee,Hindu,fake
+Shewetamber,B.Com (Commerce),Not Working,Don't wish to specify,Gujarati,Non Working,Hindu,real
+Brahmin 6000 Niyogi,B.Com (Commerce),Not Working,INR 1 lakh to 2 lakhs,Marathi,Banking/Insurance/Financial Services,Hindu,fake
+Kashyap,B.A. (Arts),Public Sector,INR 1 lakh to 2 lakhs,Hindi,Agriculture,Hindu,fake
+Brahmin Kanada Madhva,10th,Not Working,INR 7 lakhs to 10 lakhs,Tamil,Admin/Secretarial,Hindu,fake
+Kayastha,B.Sc (Science),Public Sector,Don't wish to specify,Hindi,Agriculture,Hindu,real
+Agarwal,BE B.Tech (Engineering),Private Sector,INR 1 lakh to 2 lakhs,Hindi,IT,Hindu,real
+Punjabi,Intermediate,Private Sector,Don't wish to specify,English,Business Owner/Entrepreneur,Hindu,real
+Brahmin Kanada Madhva,LLB,Public Sector,INR 2 lakhs to 3 lakhs,Hindi,Agriculture,Hindu,fake
+Goud,MA (Arts),Private Sector,INR 50 thousand to  1 lakh,Tamil,Admin/Secretarial,Hindu,real
+Agarwal,MBA/PGDM,MNC,INR 7 lakhs to 10 lakhs,Hindi,Management/Corporate Professionals,Hindu,real
+Garhwali Rajput,Other Diploma,Public Sector,Don't wish to specify,Rajasthani,IT,Hindu,real
+Chambhar,Other School/Graduation,Private Sector,INR 2 lakhs to 3 lakhs,Marathi,Health Care,Hindu,real
+Shia,B.A. (Arts),Others,Don't wish to specify,Hindi,Banking/Insurance/Financial Services,Hindu,fake
+Sunni,MA (Arts),Private Sector,INR 2 lakhs to 3 lakhs,Kannada,IT,Hindu,fake
+Nair,Master of Fashion Technology,Public Sector,INR 2 lakhs to 3 lakhs,Malayalam,Agriculture,Hindu,fake
+Dhoba,12th,Private Sector,Don't wish to specify,Malayalam,Health Care,Hindu,real
+Sozhiya Vellalar,10th,Not Working,Don't wish to specify,Tamil,Non Working,Hindu,real
+Brahmin Kanada Madhva,Masters,Not Working,INR 7 lakhs to 10 lakhs,Hindi,Admin/Secretarial,Hindu,fake
+Jat,B.A. (Arts),Private Sector,Don't wish to specify,Haryanvi,Admin/Secretarial,Hindu,real
+Brahmin Kanada Madhva,MBA PGDM part time,Central Government,Don't wish to specify,Marathi,Beauty/Fashion/Jewellery Designers,Hindu,fake
+Balija,M.Com. (Commerce),Public Sector,Don't wish to specify,Telugu,Finance and Accounts,Hindu,real
+Brahmin Kanada Madhva,10th,Private Sector,INR 7 lakhs to 10 lakhs,Gujarati,Customer Service/Call Centre/BPO,Hindu,fake
+Arya Vysya,12th,Private Sector,INR 7 lakhs to 10 lakhs,Telugu,Customer Service/Call Centre/BPO,Hindu,fake
+Brahmin - Kanyakubj,MA (Arts),Private Sector,INR 2 lakhs to 3 lakhs,Hindi,Education/Training,Hindu,real
+Yadav,10th,Not Working,Don't wish to specify,Telugu,Non Working,Hindu,real
+Brahmin Kanada Madhva,10th,Private Sector,INR 50 lakhs and above.,Bengali,Telecom/ISP,Hindu,fake
+Kayastha,Undergraduate,Not Working,Don't wish to specify,Bengali,Non Working,Hindu,real
+Kayastha,10th,Not Working,Don't wish to specify,Hindi,Non Working,Hindu,real
+Saini,Other Post Graduation,Public Sector,Don't wish to specify,Punjabi,Banking/Insurance/Financial Services,Hindu,real
+Khandelwal,12th,Central Government,Don't wish to specify,Hindi,Admin/Secretarial,Hindu,real
+Brahmin - Sri Vaishnava,B.Ed (Education),Private Sector,INR 15 lakhs to 20 lakhs,Punjabi,Education/Training,Hindu,real
+Kayastha,12th,Private Sector,INR 15 lakhs to 20 lakhs,Bengali,Customer Service/Call Centre/BPO,Hindu,fake
+Jat,10th,Not Working,INR 1 lakh to 2 lakhs,Hindi,Civil Services/Law Enforcement/Construction,Hindu,real
+Gounder,10th,Private Sector,INR 15 lakhs to 20 lakhs,Tamil,Customer Service/Call Centre/BPO,Hindu,fake
+Brahmin - Sri Vaishnava ,12th,Private Sector,INR 1 lakh to 2 lakhs,Tulu,Marketing and Communications,Hindu,real
+Kshatriya,MBA PGDM part time,State Government,INR 3 lakhs to 4 lakhs,Hindi,Health Care,Hindu,real
+Brahmin - Sri Vaishnava,12th,Others,Don't wish to specify,Marathi,Beauty/Fashion/Jewellery Designers,Hindu,real
+Arora,Other Diploma,Others,INR 7 lakhs to 10 lakhs,Punjabi,Hotels/Restaurants,Hindu,real
+Kayastha,B.A. (Arts),Private Sector,Don't wish to specify,Bengali,Business Owner/Entrepreneur,Hindu,real
+Catholic,Integrated PG,Others,Don't wish to specify,Marathi,Artists/Animators/Web Designers,Hindu,fake
+Brahmin - Sri Vaishnava,B.A. (Arts),Private Sector,INR 7 lakhs to 10 lakhs,Hindi,Customer Service/Call Centre/BPO,Hindu,fake
+Balija,MBA PGDM part time,Central Government,Don't wish to specify,Telugu,Human Resource,Hindu,real
+Sindhi,12th,Private Sector,Don't wish to specify,Sindhi,Admin/Secretarial,Hindu,real
+Brahmin - Sri Vaishnava,B.Arch (Architecture),Not Working,INR 7 lakhs to 10 lakhs,Kannada,Business Owner/Entrepreneur,Hindu,fake
+Rajput,B.A. (Arts),Not Working,INR 1 lakh to 2 lakhs,Dogri,Government Employee,Hindu,fake
+Brahmin - Sri Vaishnava,B.Sc (Science),Central Government,Don't wish to specify,Hindi,Government Employee,Hindu,real
+Brahmin - Panda,B.A. (Arts),Private Sector,Don't wish to specify,Gujarati,Artists/Animators/Web Designers,Hindu,real
+Shia,MA (Arts),Public Sector,Don't wish to specify,Bengali,Education/Training,Hindu,fake
+Kayastha,MA (Arts),Not Working,INR 3 lakhs to 4 lakhs,Hindi,Hotels/Restaurants,Hindu,fake
+Brahmin - Panda,BE B.Tech (Engineering),Public Sector,INR 1 lakh to 2 lakhs,Oriya,Construction,Hindu,real
+Kayastha,B.Ed (Education),Public Sector,Don't wish to specify,Hindi,Education/Training,Hindu,real
+Brahmin - Panda,Ph.D. (Doctorate),MNC,Don't wish to specify,Marathi,Business Owner/Entrepreneur,Hindu,real
+Bengali,CA (Chartered Accountant),Not Working,INR2 lakhs to 3 lakhs,Bengali,Banking/Insurance/Financial Services,Hindu,fake
+Leva patel,B.Sc (Science),Not Working,Don't wish to specify,Gujarati,Non Working,Hindu,real
+Kshatriya,MBA/PGDM,Central Government,Don't wish to specify,Telugu,Defence,Hindu,real
+Shia,Other Post Graduation,Others,Don't wish to specify,Tamil,Education/Training,Hindu,fake
+Agarwal,M.Sc. (Science),Public Sector,INR 3 lakhs to 4 lakhs,Hindi,Agriculture,Hindu,real
+Agarwal,Other School/Graduation,Not Working,INR 3 lakhs to 4 lakhs,Hindi,Education/Training,Hindu,fake
+Shia,PGDBM,MNC,INR 10 lakhs  to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,fake
+Brahmin - Panda,MD/MS (Medicine),Private Sector,Don't wish to specify,Konkani,Health Care,Hindu,real
+Brahmin - Panda,B.Com (Commerce),Private Sector,Don't wish to specify,Konkani,Finance and Accounts,Hindu,real
+Brahmin - Kumoani,10th,Not Working,Don't wish to specify,Tamil,Non Working,Hindu,real
+Brahmin - Kumoani,B.Sc (Science),Not Working,Don't wish to specify,Punjabi,Non Working,Hindu,real
+Kayastha,BBA/BBM/BBS,Private Sector,INR 3 lakhs to 4 lakhs,Assamese,Advertising/Entertainment/Media,Hindu,real
+Brahmin - Kumoani,Other Post Graduation,Private Sector,Don't wish to specify,Gujarati,Telecom/ISP,Hindu,real
+Billava,10th,Not Working,Don't wish to specify,Tulu,Non Working,Hindu,real
+Arora,BE B.Tech (Engineering),Private Sector,INR 15 lakhs to 20 lakhs,Punjabi,Management/Corporate Professionals,Hindu,real
+Yadav,B.A. (Arts),Not Working,Don't wish to specify,Hindi,Non Working,Hindu,real
+Shewetamber,BL/LLB/BGL (Law),Others,Don't wish to specify,Gujarati,Advocate,Jain,real
+Digambar,Masters,Not Working,INR 1 lakh to 2 lakhs,Kannada,Education/Training,Jain,fake
+Vania,B.Com (Commerce),Others,INR 1 lakh to 2 lakhs,Gujarati,Business Owner/Entrepreneur,Jain,real
+Shewetamber,BBA/BBM/BBS,Not Working,INR 40 lakhs to 50 lakhs,Hindi,Real Estate,Jain,fake
+Shewetamber,M.Lib.Sc. (Library Sciences),Not Working,INR 50 lakhs and above.,Gujarati,Non Working,Jain,fake
+Shewetamber,PG Diploma,Not Working,Don't wish to specify,Gujarati,Non Working,Jain,real
+Digambar,B.A. (Arts),Private Sector,Don't wish to specify,Hindi,IT,Jain,real
+Shewetamber,B.Com (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Gujarati,Business Owner/Entrepreneur,Jain,real
+Shewetamber,MD/MS (Medicine),Private Sector,Don't wish to specify,Gujarati,Health Care,Jain,real
+Jain-Others,PG Diploma,MNC,Don't wish to specify,Oriya,Others,Jain,real
+Shewetamber,B.A. (Arts),Not Working,Don't wish to specify,Gujarati,Non Working,Jain,real
+Kayastha,Other Diploma,Private Sector,Don't wish to specify,Hindi,Admin/Secretarial,Muslim,fake
+Bunt (Shetty),12th,Others,INR 1 lakh to 2 lakhs,Tulu,Advertising/Entertainment/Media,Muslim,fake
+Shia,12th,Central Government,INR 1 lakh to 2 lakhs,Urdu,Government Employee,Muslim,real
+Catholic,MA (Arts),Private Sector,INR 25 lakhs to 30 lakhs,Malayalam,Admin/Secretarial,Muslim,fake
+Sunni,B.A. (Arts),Others,Don't wish to specify,Urdu,Beauty/Fashion/Jewellery Designers,Muslim,real
+Brahmin - Dixit,M.Ed. (Education),Private Sector,Don't wish to specify,Hindi,Education/Training,Muslim,fake
+Sunni,B.Com (Commerce),Not Working,INR 3 lakhs to 4 lakhs,Konkani,Export/Import,Muslim,fake
+Sunni,B.A. (Arts),MNC,INR 4 lakhs to 5 lakhs,English,Admin/Secretarial,Muslim,fake
+Shia,MBA/PGDM,Private Sector,Don't wish to specify,Punjabi,Education/Training,Muslim,fake
+Sunni,B.A. (Arts),Private Sector,Don't wish to specify,Urdu,Education/Training,Muslim,real
+Sikh ,M.Sc. (Science),Others,INR 50 thousand to  1 lakh,English,Education/Training,Muslim,fake
+Brahmin - Kulin,B.A. (Arts),Others,INR 35 lakhs to 40 lakhs,Telugu,Business Owner/Entrepreneur,Muslim,fake
+Shia,B.Com (Commerce),Central Government,INR 10 lakhs  to 15 lakhs,Urdu,Beauty/Fashion/Jewellery Designers,Muslim,fake
+Catholic,Other Diploma,Others,Don't wish to specify,English,IT,Muslim,fake
+Shia,B.Com (Commerce),Public Sector,INR 2 lakhs to 3 lakhs,Urdu,Admin/Secretarial,Muslim,real
+Sunni,B.Com (Commerce),Not Working,Don't wish to specify,Urdu,Non Working,Muslim,real
+Catholic,Other Post Graduation,Private Sector,Don't wish to specify,Tamil,Health Care,Muslim,fake
+Sunni,Other School/Graduation,MNC,Don't wish to specify,Urdu,Business Owner/Entrepreneur,Muslim,real
+Rajput,Other School/Graduation,Private Sector,Don't wish to specify,Bengali,Finance and Accounts,Muslim,fake
+Sunni,CA (Chartered Accountant),Not Working,Don't wish to specify,Malayalam,Beauty/Fashion/Jewellery Designers,Muslim,fake
+Brahmin - Kulin,10th,MNC,INR 35 lakhs to 40 lakhs,Hindi,Admin/Secretarial,Muslim,fake
+Sunni,MA (Arts),Private Sector,INR 3 lakhs to 4 lakhs,Urdu,Education/Training,Muslim,real
+Sunni,MCA/PGDCA,Others,INR 3 lakhs to 4 lakhs,Urdu,IT,Muslim,real
+Shia,MA (Arts),Others,INR 3 lakhs to 4 lakhs,Urdu,Customer Service/Call Centre/BPO,Muslim,real
+Sunni,B.A. (Arts),Private Sector,INR 3 lakhs to 4 lakhs,Urdu,Education/Training,Muslim,real
+Sunni,B.A. (Arts),Private Sector,INR 50 thousand to  1 lakh,Urdu,Banking/Insurance/Financial Services,Muslim,real
+Sunni,M.Com. (Commerce),Not Working,Don't wish to specify,Hindi,Health Care,Muslim,fake
+Shia,B.Ed (Education),Others,INR 1 lakh to 2 lakhs,Urdu,Non Working,Muslim,fake
+Sunni,10th,Private Sector,INR 7 lakhs to 10 lakhs,Urdu,Customer Service/Call Centre/BPO,Muslim,fake
+Sunni,10th,Private Sector,Don't wish to specify,Urdu,Beauty/Fashion/Jewellery Designers,Muslim,real
+Shewetamber,BFA (Fine Arts),Not Working,Don't wish to specify,Gujarati,Others,Muslim,fake
+Sunni,10th,Central Government,INR 7 lakhs to 10 lakhs,Urdu,Beauty/Fashion/Jewellery Designers,Muslim,fake
+Shia,B.Ed (Education),Private Sector,Don't wish to specify,English,Education/Training,Muslim,fake
+Brahmin - Garhwali,Intermediate,Private Sector,Don't wish to specify,Marathi,Beauty/Fashion/Jewellery Designers,Muslim,fake
+Kapu,B.A. (Arts),MNC,INR 2 lakhs to 3 lakhs,Urdu,Finance and Accounts,Muslim,fake
+Sunni,B.A. (Arts),Private Sector,Don't wish to specify,Hindi,Non Working,Muslim,fake
+Brahmin - Garhwali,Masters,Not Working,INR 1 lakh to 2 lakhs,Urdu,Admin/Secretarial,Muslim,fake
+Agarwal,Masters,Not Working,INR 3 lakhs to 4 lakhs,Urdu,Admin/Secretarial,Muslim,fake
+Sunni,Other School/Graduation,Public Sector,INR 2 lakhs to 3 lakhs,English,Beauty/Fashion/Jewellery Designers,Muslim,fake
+Sunni,10th,Not Working,Don't wish to specify,Urdu,Non Working,Muslim,real
+Sunni,BE B.Tech (Engineering),Not Working,INR 3 lakhs to 4 lakhs,Urdu,Government Employee,Muslim,fake
+Shia,B.Com (Commerce),Others,INR 5 lakhs to 7 lakhs,Urdu,Beauty/Fashion/Jewellery Designers,Muslim,real
+Sunni,M.Ed. (Education),Not Working,Don't wish to specify,English,Marketing and Communications,Muslim,fake
+Sunni,M.Arch. (Architecture),Private Sector,INR 5 lakhs to 7 lakhs,Tamil,Architecture/Design,Muslim,real
+Sunni,BSW (Social Work),Private Sector,INR 3 lakhs to 4 lakhs,Urdu,Civil Services/Law Enforcement,Muslim,real
+Kayastha,M.Ed. (Education),Not Working,Don't wish to specify,Urdu,Non Working,Muslim,fake
+Sunni,CFA (Chartered Financial Analyst),Not Working,INR 1 lakh to 2 lakhs,Urdu,Non Working,Muslim,fake
+Sunni,BSW (Social Work),Not Working,Don't wish to specify,Urdu,Non Working,Muslim,real
+Sunni,CA (Chartered Accountant),Not Working,INR 30 lakhs to 35 lakhs,Malayalam,Admin/Secretarial,Muslim,fake
+Sunni,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Urdu,Export/Import,Muslim,real
+Sunni,M.Sc. (Science),Central Government,Don't wish to specify,English,Business Owner/Entrepreneur,Muslim,fake
+Shia,Ph.D. (Doctorate),Private Sector,INR 7 lakhs to 10 lakhs,Tamil,Education/Training,Muslim,real
+Sunni,MBBS,Public Sector,Don't wish to specify,Urdu,Health Care,Muslim,real
+Khatri,B.A. (Arts),Private Sector,Don't wish to specify,Punjabi,Education/Training,Muslim,fake
+Sunni,MA (Arts),Public Sector,Don't wish to specify,Urdu,Education/Training,Muslim,real
+Sunni,Others,Others,Don't wish to specify,English,Admin/Secretarial,Muslim,fake
+Rajput,M.Phil. (Philosophy),Public Sector,Don't wish to specify,Hindi,Education/Training,Muslim,fake
+Catholic,B.Sc (Science),Others,Don't wish to specify,English,Government Employee,Muslim,fake
+Brahmin - Shivhalli,10th,Not Working,Don't wish to specify,Bengali,Non Working,Muslim,fake
+Sunni,B.A. (Arts),Not Working,INR 2 lakhs to 3 lakhs,Urdu,Non Working,Muslim,real
+Nair,10th,Public Sector,Don't wish to specify,Hindi,Admin/Secretarial,Muslim,fake
+Catholic,B.Sc (Science),Public Sector,INR 2 lakhs to 3 lakhs,Tamil,Health Care,Muslim,fake
+Shia,MBA/PGDM,Private Sector,INR 1 lakh to 2 lakhs,Urdu,Admin/Secretarial,Muslim,real
+Shia,10th,Private Sector,INR 50 lakhs and above.,Urdu,Admin/Secretarial,Muslim,fake
+Shia,Integrated PG,Central Government,INR 50 thousand to  1 lakh,English,Human Resource,Muslim,real
+Brahmin 6000 Niyogi,12th,Not Working,Don't wish to specify,Urdu,Business Owner/Entrepreneur,Muslim,fake
+Sunni,BE B.Tech (Engineering),Not Working,INR 2 lakhs to 3 lakhs,Malayalam,Non Working,Muslim,real
+Shia,12th,Private Sector,INR 7 lakhs to 10 lakhs,Urdu,Customer Service/Call Centre/BPO,Muslim,fake
+Shewetamber,Other School/Graduation,Private Sector,Don't wish to specify,Gujarati,Marketing and Communications,Muslim,fake
+Shia,Other Diploma,Private Sector,INR 15 lakhs to 20 lakhs,Urdu,Customer Service/Call Centre/BPO,Muslim,fake
+Catholic,Other School/Graduation,Public Sector,Don't wish to specify,English,Construction,Muslim,fake
+Shia,B.Sc (Science),Central Government,Don't wish to specify,Urdu,Non Working,Muslim,real
+Sunni,B.Sc (Science),Not Working,Don't wish to specify,Urdu,Non Working,Muslim,real
+Catholic,MBA/PGDM,Not Working,Don't wish to specify,English,Non Working,Muslim,fake
+Sunni,Intermediate,Public Sector,Don't wish to specify,English,Banking/Insurance/Financial Services,Muslim,fake
+Sunni,Masters,Public Sector,Don't wish to specify,English,Education/Training,Muslim,fake
+Shia,M.Com. (Commerce),State Government,Don't wish to specify,English,Finance and Accounts,Muslim,fake
+Sunni,10th,Others,Don't wish to specify,English,Customer Service/Call Centre/BPO,Muslim,fake
+Sunni,Other Diploma,State Government,INR 3 lakhs to 4 lakhs,English,Health Care,Muslim,fake
+Brahmin - Kulin ,MFA (Fine Arts),Others,INR 1 lakh to 2 lakhs,Hindi,Beauty/Fashion/Jewellery Designers,Others,real
+Kayastha,B.Sc (Science),Private Sector,INR 30 lakhs to 40 lakhs,English,Health Care,Others,fake
+Sikh,Other School/Graduation,Not Working,Don't wish to specify,Punjabi,Non Working,Others,real
+Brahmin - Sri Vaishnava,B.Sc (Science),Others,Don't wish to specify,Hindi,Education/Training,Others,real
+Shia,B.Pharm (Pharmacy),Private Sector,INR 7 lakh to 10 lakhs,English,Health Care,Hindu,fake
+Shia,12th,Private Sector,Don't wish to specify,Urdu,Business Owner/Entrepreneur,Hindu,fake
+Shia,B.A. (Arts),Private Sector,INR 50 thousand to  1 lakh,Gujarati,Admin/Secretarial,Hindu,fake
+Sunni,B.A. (Arts),Private Sector,INR 1 lakh to 2 lakhs,Gujarati,Agriculture,Hindu,fake
+Shia,MA (Arts),Others,Don't wish to specify,English,Health Care,Hindu,fake
+Shia,B.A. (Arts),Central Government,INR 4 lakhs to 5 lakhs,Punjabi,Government Employee,Sikh,fake
+Sikh,B.A. (Arts),Not Working,INR 3 lakhs to 4 lakhs,Punjabi,Education/Training,Sikh,fake
+Sikh,Masters,Private Sector,Don't wish to specify,Punjabi,IT,Sikh,real
+Brahmin - Danua,B.Sc (Science),Private Sector,INR 30 lakhs to 40 lakhs,English,Banking/Insurance/Financial Services,Sikh,fake
+Ramgariah,B.Sc (Science),Private Sector,Don't wish to specify,Urdu,Education/Training,Sikh,fake
+Sikh ,10th,Private Sector,INR 7 lakhs to 10 lakhs,Punjabi,Customer Service/Call Centre/BPO,Sikh,fake
+Sikh,B.A. (Arts),State Government,Don't wish to specify,Punjabi,Education/Training,Sikh,real
+Sikh,B.Sc (Science),MNC,INR 50 lakhs and above.,Punjabi,Business Owner/Entrepreneur,Sikh,real
+Catholic,MA (Arts),Central Government,INR 2 lakhs to 3 lakhs,Punjabi,Government Employee,Sikh,fake
+Sikh,B.A. (Arts),Public Sector,INR 3 lakhs to 4 lakhs,Punjabi,Non Working,Sikh,fake
+Sikh ,10th,Not Working,Don't wish to specify,Punjabi,Non Working,Sikh,real
+Sikh,B.Arch (Architecture),State Government,INR 5 lakhs to 7 lakhs,Punjabi,Construction,Sikh,real
+Shia,BSW (Social Work),Public Sector,INR 1 lakh to 2 lakhs,Marathi,Oil/Gas,Sikh,fake
+Hindu,Master of Fashion Technology,Private Sector,INR 2 lakhs to 3 lakhs,Punjabi,Agriculture,Sikh,fake
+Sikh,Master of Fashion Technology,Public Sector,INR 2 lakhs to 3 lakhs,Punjabi,Agriculture,Sikh,fake
+Sikh,MA (Arts),Not Working,Don't wish to specify,Punjabi,Non Working,Sikh,real
+Sikh,Other Diploma,Central Government,Don't wish to specify,Punjabi,Beauty/Fashion/Jewellery Designers,Sikh,fake
+Sikh,MA (Arts),Not Working,INR 2 lakhs to 3 lakhs,Punjabi,Education/Training,Sikh,fake
+Sikh,MA (Arts),Not Working,Don't wish to specify,Punjabi,Non Working,Sikh,real
