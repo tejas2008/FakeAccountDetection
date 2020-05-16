@@ -86,18 +86,14 @@
 		</div>
 		
 		<script>
-			setTimeout(function(){
-				var msg = $('#my-data').data('prediction');
-				$(document).ready(function(){
-				if(msg=="Enter data to predict")
-			  	swal(msg);
-				else if(msg=="Real")
-				swal(msg,"","success");
-				else if(msg=="Fake")
-				swal(msg,"","error");
-			});
-			},3000);
-			
+			var msg = $('#my-data').data('prediction');
+			$(document).ready(function(){
+			if(msg=="Enter data to predict")
+			swal(msg);
+			else if(msg=="Real")
+			swal(msg,"","success");
+			else if(msg=="Fake")
+			swal(msg,"","error");
 		  </script>
 		<script>
 			
