@@ -5,9 +5,11 @@ Fake profiles exhibits high inconsistency between attributes and do not comply w
 
 ## Getting Started
 
-Go to the website: 
+Go to the website: http://fake-profile-detection.herokuapp.com
 
-## Results
+## Demo
+
+![](demo.gif)
 
 
 ## Built With
