@@ -47,7 +47,8 @@ X_train ,X_test,y_train,y_test = train_test_split(X,y,test_size=0.33,random_stat
 rfc = RandomForestClassifier()
 rfc.fit(X_train,y_train)
 prediction1 = rfc.predict(X_test)
-pickle.dump(rfc, open('model.pkl','wb'))
+print(mapping_dict)
+# pickle.dump(rfc, open('model.pkl','wb'))
 
 
 

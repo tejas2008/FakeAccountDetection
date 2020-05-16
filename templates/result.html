@@ -9,7 +9,13 @@
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
 		<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
-
+		<!-- <style>
+			@media screen and (min-width: 1020px) {
+				.register{
+					width: 90%;s
+				}
+			}
+		</style> -->
 	</head>
 	<body>
 		<div class="register">
@@ -20,17 +26,17 @@
 				</label>
 				<select id="caste1" name="caste1" placeholder="HEllo">
 					<option value="" disabled selected>Select your Caste</option>
-                    {% for i in range(0,469) %}
+                    {% for i in range(0,466) %}
 					<option value="{{i}}">{{castes[i]}}</option>
 					{% endfor %}
                   </select>
-
+				  
                   <label for="degree">
 					
 				</label>
 				<select id="degree" name="degree">
 					<option value="" disabled selected>Select your Degree</option>
-                    {% for i in range(0,69) %}
+                    {% for i in range(0,70) %}
 					<option value="{{i}}">{{degrees[i]}}</option>
 					{% endfor %}
 				  </select>
@@ -49,7 +55,7 @@
 				</label>
 				<select id="income1" name="income1">
 					<option value="" disabled selected>Select your Income</option>
-                    {% for i in range(0,28) %}
+                    {% for i in range(0,18) %}
 					<option value="{{i}}">{{incomes[i]}}</option>
 					{% endfor %}
 				  </select>
@@ -58,7 +64,7 @@
 				</label>
 				<select id="mother1" name="mother1">
 					<option value="" disabled selected>Select your Mother tongue</option>
-                    {% for i in range(0,57) %}
+                    {% for i in range(0,54) %}
 					<option value="{{i}}">{{mothers[i]}}</option>
 					{% endfor %}
 				  </select>
@@ -76,7 +82,7 @@
 				</label>
 				<select id="religion1" name="religion1">
 					<option value="" disabled selected>Select your Religion</option>
-                    {% for i in range(0,6) %}
+                    {% for i in range(0,7) %}
 					<option value="{{i}}">{{religions[i]}}</option>
 					{% endfor %}
 				  </select>

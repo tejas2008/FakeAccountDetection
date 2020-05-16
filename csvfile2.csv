@@ -5,10 +5,10 @@ Kalita,MBA/PGDM,MNC,INR 15 lakhs to 20 lakhs,Assamese,Banking/Insurance/Financia
 Kayastha,Engineering,Private Sector,INR 2 lakhs to 3 lakhs,Assamese,Manufacturing/Engineering/R&D,Hindu,real
 Brahmin,M.Com. (Commerce),Private Sector,INR 2 lakhs to 3 lakhs,Assamese,Marketing and Communications,Hindu,real
 Sia,B.A. (Arts),Private Sector,INR 2 lakhs to 3 lakhs,Assamese,Travel/Airlines,Muslim,real
-Scheduled Caste,B.A. (Arts),Private Sector,INR 50 thousand to  1 lakh,Assamese,Finance and Accounts,Hindu,real
-Brahmin,10th,Private Sector,INR 50 thousand to  1 lakh,Assamese,Hotels/Restaurants,Hindu,real
+Scheduled Caste,B.A. (Arts),Private Sector,INR 50 thousand to 1 lakh,Assamese,Finance and Accounts,Hindu,real
+Brahmin,10th,Private Sector,INR 50 thousand to 1 lakh,Assamese,Hotels/Restaurants,Hindu,real
 Manipuri,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Assamese,Telecom/ISP,Hindu,real
-Sunni,MBA/PGDM,Others,INR Don't wish to specify,Assamese,Others,Muslim,real
+Sunni,MBA/PGDM,Others,Don't wish to specify,Assamese,Others,Muslim,real
 Nai,MBA/PGDM,Private Sector,INR 3 lakhs to 4 lakhs,Awadhi,Travel/Airlines,Hindu,real
 Rajput,M.Ed. (Education),State Government,INR 4 lakhs to 5 lakhs,Awadhi,Government Employee,Hindu,real
 Badaga,PG Diploma,Private Sector,INR 2 lakhs to 3 lakhs,Badaga,Hotels/Restaurants,Hindu,real
@@ -22,10 +22,10 @@ Brahmin - Bengali,B.Com (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Bengali,
 Baidya,B.Com (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Bengali,Health Care,Hindu,real
 Brahmin - Kulin,Other Diploma,Private Sector,INR 1 lakh to 2 lakhs,Bengali,Manufacturing/Engineering/R&D,Hindu,real
 Kayastha,B.Com (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Bengali,Manufacturing/Engineering/R&D,Hindu,real
-Kayastha,M.Sc. (Science),Central Government,INR 10 lakhs  to 15 lakhs,Bengali,Banking/Insurance/Financial Services,Hindu,real
-Sunni,B.Sc (Science),Private Sector,INR 10 lakhs  to 15 lakhs,Bengali,Education/Training,Muslim,real
-Karmakar,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Bengali,IT,Hindu,real
-Brahmin - Rarhi,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Bengali,Manufacturing/Engineering/R&D,Hindu,real
+Kayastha,M.Sc. (Science),Central Government,INR 10 lakhs to 15 lakhs,Bengali,Banking/Insurance/Financial Services,Hindu,real
+Sunni,B.Sc (Science),Private Sector,INR 10 lakhs to 15 lakhs,Bengali,Education/Training,Muslim,real
+Karmakar,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Bengali,IT,Hindu,real
+Brahmin - Rarhi,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Bengali,Manufacturing/Engineering/R&D,Hindu,real
 Kayastha,BE B.Tech (Engineering),Private Sector,INR 15 lakhs to 20 lakhs,Bengali,Merchant Navy,Hindu,real
 Kayastha,Ph.D. (Doctorate),Others,INR 15 lakhs to 20 lakhs,Bengali,Civil Services/Law Enforcement,Hindu,real
 Sadgope,MBA/PGDM,Private Sector,INR 2 lakhs to 3 lakhs,Bengali,Admin/Secretarial,Hindu,real
@@ -57,8 +57,8 @@ Bengali,Other Diploma,Private Sector,INR 3 lakhs to 4 lakhs,Bengali,IT,Hindu,rea
 Brahmin,12th,Private Sector,INR 3 lakhs to 4 lakhs,Bengali,IT,Hindu,real
 Namasudra,MBA/PGDM,Private Sector,INR 3 lakhs to 4 lakhs,Bengali,Management/Corporate Professionals,Hindu,real
 Brahmin - Kulin,Other Diploma,Public Sector,INR 3 lakhs to 4 lakhs,Bengali,Sales/Business Development,Hindu,real
-Brahmin,MCA/PGDCA,MNC,INR 30 lakhs to 35 lakhs,Bengali,IT,Hindu,real
-Kayastha,BE B.Tech (Engineering),Private Sector,INR 30 lakhs to 35 lakhs,Bengali,IT,Hindu,real
+Brahmin,MCA/PGDCA,MNC,INR 30 lakhs to 40 lakhs,Bengali,IT,Hindu,real
+Kayastha,BE B.Tech (Engineering),Private Sector,INR 30 lakhs to 40 lakhs,Bengali,IT,Hindu,real
 Kayastha,12th,Others,INR 4 lakhs to 5 lakhs,Bengali,Business Owner/Entrepreneur,Hindu,real
 Bengali,Masters,State Government,INR 4 lakhs to 5 lakhs,Bengali,Civil Services/Law Enforcement,Hindu,real
 Brahmin - Bengali,BL/LLB/BGL (Law),Central Government,INR 4 lakhs to 5 lakhs,Bengali,Defence,Hindu,real
@@ -79,9 +79,9 @@ Kshatriya,BE B.Tech (Engineering),MNC,INR 40 lakhs to 50 lakhs,Bengali,IT,Hindu,
 Kayastha,MBA/PGDM,Others,INR 5 lakhs to 7 lakhs,Bengali,Advertising/Entertainment/Media,Hindu,real
 Brahmin,MBA/PGDM,Private Sector,INR 5 lakhs to 7 lakhs,Bengali,Finance and Accounts,Hindu,real
 Brahmin - Rudraj,BE B.Tech (Engineering),MNC,INR 5 lakhs to 7 lakhs,Bengali,IT,Hindu,real
-Kayastha,BCA (Computer Application),Others,INR 50 thousand to  1 lakh,Bengali,Business Owner/Entrepreneur,Hindu,real
-Brahmin,B.Com (Commerce),State Government,INR 50 thousand to  1 lakh,Bengali,Education/Training,Hindu,real
-Mahishya,B.Com (Commerce),Private Sector,INR 50 thousand to  1 lakh,Bengali,Sales/Business Development,Hindu,real
+Kayastha,BCA (Computer Application),Others,INR 50 thousand to 1 lakh,Bengali,Business Owner/Entrepreneur,Hindu,real
+Brahmin,B.Com (Commerce),State Government,INR 50 thousand to 1 lakh,Bengali,Education/Training,Hindu,real
+Mahishya,B.Com (Commerce),Private Sector,INR 50 thousand to 1 lakh,Bengali,Sales/Business Development,Hindu,real
 Kayastha,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Bengali,Architecture/Design,Hindu,real
 Kayastha,MBA/PGDM,Private Sector,INR 7 lakhs to 10 lakhs,Bengali,Banking/Insurance/Financial Services,Hindu,real
 Brahmin - Bengali,M.Sc. (Science),Public Sector,INR 7 lakhs to 10 lakhs,Bengali,Banking/Insurance/Financial Services,Hindu,real
@@ -103,19 +103,19 @@ Sunni,MCA/PGDCA,MNC,INR 7 lakhs to 10 lakhs,Bengali,IT,Muslim,real
 Saha,MCA/PGDCA,Private Sector,INR 7 lakhs to 10 lakhs,Bengali,IT,Hindu,real
 Kayastha,12th,Others,INR 7 lakhs to 10 lakhs,Bengali,Real Estate,Hindu,real
 Brahmin,MBA/PGDM,Private Sector,INR 7 lakhs to 10 lakhs,Bengali,Telecom/ISP,Hindu,real
-Brahmin - Kulin,B.Sc (Science),Private Sector,INR Don't wish to specify,Bengali,Manufacturing/Engineering/R&D,Hindu,real
-Baidya,Master of Hospital Administration,Others,INR Don't wish to specify,Bengali,Hotels/Restaurants,Hindu,real
-Brahmin,BE B.Tech (Engineering),MNC,INR Don't wish to specify,Bengali,IT,Hindu,real
-Brahmin,B.Com (Commerce),MNC,INR Don't wish to specify,Bengali,IT,Hindu,real
-Bengali,BE B.Tech (Engineering),MNC,INR Don't wish to specify,Bengali,Manufacturing/Engineering/R&D,Hindu,real
-Sunni,M.Pharm. (Pharmacy),Private Sector,INR Don't wish to specify,Bengali,Marketing and Communications,Muslim,real
-Kayastha,B.Com (Commerce),MNC,INR Don't wish to specify,Bengali,Others,Hindu,real
-Brahmin - Bengali,MBA/PGDM,Public Sector,INR Don't wish to specify,Bengali,Banking/Insurance/Financial Services,Hindu,real
-Brahmin,M.Sc. (Science),Others,INR Don't wish to specify,Bengali,Advertising/Entertainment/Media,Hindu,real
-Sunni,BE B.Tech (Engineering),Others,INR Don't wish to specify,Bengali,Education/Training,Muslim,real
-Bengali,B.Com (Commerce),Others,INR Don't wish to specify,Bengali,Finance and Accounts,Hindu,real
-Banik,12th,State Government,INR Don't wish to specify,Bengali,Government Employee,Hindu,real
-Sunni,M.Ed. (Education),Private Sector,INR Don't wish to specify,Bengali,IT,Muslim,real
+Brahmin - Kulin,B.Sc (Science),Private Sector,Don't wish to specify,Bengali,Manufacturing/Engineering/R&D,Hindu,real
+Baidya,Master of Hospital Administration,Others,Don't wish to specify,Bengali,Hotels/Restaurants,Hindu,real
+Brahmin,BE B.Tech (Engineering),MNC,Don't wish to specify,Bengali,IT,Hindu,real
+Brahmin,B.Com (Commerce),MNC,Don't wish to specify,Bengali,IT,Hindu,real
+Bengali,BE B.Tech (Engineering),MNC,Don't wish to specify,Bengali,Manufacturing/Engineering/R&D,Hindu,real
+Sunni,M.Pharm. (Pharmacy),Private Sector,Don't wish to specify,Bengali,Marketing and Communications,Muslim,real
+Kayastha,B.Com (Commerce),MNC,Don't wish to specify,Bengali,Others,Hindu,real
+Brahmin - Bengali,MBA/PGDM,Public Sector,Don't wish to specify,Bengali,Banking/Insurance/Financial Services,Hindu,real
+Brahmin,M.Sc. (Science),Others,Don't wish to specify,Bengali,Advertising/Entertainment/Media,Hindu,real
+Sunni,BE B.Tech (Engineering),Others,Don't wish to specify,Bengali,Education/Training,Muslim,real
+Bengali,B.Com (Commerce),Others,Don't wish to specify,Bengali,Finance and Accounts,Hindu,real
+Banik,12th,State Government,Don't wish to specify,Bengali,Government Employee,Hindu,real
+Sunni,M.Ed. (Education),Private Sector,Don't wish to specify,Bengali,IT,Muslim,real
 Mahishya,BE B.Tech (Engineering),Private Sector,INR Under 50 thousand,Bengali,Education/Training,Hindu,real
 Brahmin - Barendra,12th,Private Sector,INR Under 50 thousand,Bengali,Others,Hindu,real
 Kharwar,12th,Private Sector,INR 1 lakh to 2 lakhs,Bhojpuri,Admin/Secretarial,Hindu,real
@@ -124,10 +124,10 @@ Rajput,Engineering,Private Sector,INR 2 lakhs to 3 lakhs,Bhojpuri,Management/Cor
 Vishwakarma,Other Diploma,Private Sector,INR 2 lakhs to 3 lakhs,Bhojpuri,Others,Hindu,real
 Rajput,Other Diploma,Public Sector,INR 3 lakhs to 4 lakhs,Bhojpuri,Business Owner/Entrepreneur,Hindu,real
 Rajput,MBA/PGDM,Private Sector,INR 3 lakhs to 4 lakhs,Bhojpuri,Finance and Accounts,Hindu,real
-Kayastha,MBA/PGDM,MNC,INR 35 lakhs to 40 lakhs,Bhojpuri,Finance and Accounts,Hindu,real
+Kayastha,MBA/PGDM,MNC,INR 30 lakhs to 40 lakhs,Bhojpuri,Finance and Accounts,Hindu,real
 Bhumihar Brahmin,BE B.Tech (Engineering),MNC,INR 4 lakhs to 5 lakhs,Bhojpuri,IT,Hindu,real
 Vaishya,MBA/PGDM,Central Government,INR 50 lakhs and above,Bhojpuri,Construction,Hindu,real
-Kayastha,B.Com (Commerce),State Government,INR 50 thousand to  1 lakh,Bhojpuri,Admin/Secretarial,Hindu,real
+Kayastha,B.Com (Commerce),State Government,INR 50 thousand to 1 lakh,Bhojpuri,Admin/Secretarial,Hindu,real
 Yadav,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 7 lakhs to 10 lakhs,Bhojpuri,Construction,Hindu,real
 Bhumihar Brahmin,10th,Private Sector,INR 1 lakh to 2 lakhs,Bihari,Admin/Secretarial,Hindu,real
 Kayastha,MCA/PGDCA,Private Sector,INR 1 lakh to 2 lakhs,Bihari,Education/Training,Hindu,real
@@ -147,7 +147,7 @@ Kayastha,MCA/PGDCA,Public Sector,INR 7 lakhs to 10 lakhs,Bihari,IT,Hindu,real
 Brahmin - Kanyakubj,MCA/PGDCA,MNC,INR 7 lakhs to 10 lakhs,Bihari,IT,Hindu,real
 Kumbhakar,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Bihari,Manufacturing/Engineering/R&D,Hindu,real
 Kurmi,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Bihari,Sales/Business Development,Hindu,real
-Kurmi,MBA/PGDM,MNC,INR Don't wish to specify,Bihari,Sales/Business Development,Hindu,real
+Kurmi,MBA/PGDM,MNC,Don't wish to specify,Bihari,Sales/Business Development,Hindu,real
 Coorgi,B.Com (Commerce),State Government,INR 3 lakhs to 4 lakhs,Coorgi,Government Employee,Hindu,real
 Scheduled Caste,MBA/PGDM,MNC,INR 15 lakhs to 20 lakhs,Dogri,Management/Corporate Professionals,Hindu,real
 Scheduled Caste,MBA/PGDM,Private Sector,INR 15 lakhs to 20 lakhs,Dogri,Management/Corporate Professionals,Hindu,real
@@ -156,7 +156,7 @@ Brahmin,MCA/PGDCA,MNC,INR 5 lakhs to 7 lakhs,Dogri,Banking/Insurance/Financial S
 Catholic,PG Diploma,Private Sector,INR 1 lakh to 2 lakhs,English,Admin/Secretarial,Christian,real
 Protestant,B.A. (Arts),Private Sector,INR 1 lakh to 2 lakhs,English,Manufacturing/Engineering/R&D,Christian,real
 Catholic,PG Diploma,Private Sector,INR 1 lakh to 2 lakhs,English,Sales/Business Development,Christian,real
-Brahmin,CA (Chartered Accountant),MNC,INR 10 lakhs  to 15 lakhs,English,Finance and Accounts,Hindu,real
+Brahmin,CA (Chartered Accountant),MNC,INR 10 lakhs to 15 lakhs,English,Finance and Accounts,Hindu,real
 Others,Other Diploma,Others,INR 15 lakhs to 20 lakhs,English,Human Resource,Christian,real
 Catholic,12th,Others,INR 2 lakhs to 3 lakhs,English,Marketing and Communications,Christian,real
 Catholic,Ph.D. (Doctorate),Central Government,INR 2 lakhs to 3 lakhs,English,Pharmaceutical/Biotechnology,Christian,real
@@ -166,12 +166,12 @@ Catholic,MBA/PGDM,Private Sector,INR 4 lakhs to 5 lakhs,English,Sales/Business D
 Catholic,M.Com. (Commerce),Private Sector,INR 40 lakhs to 50 lakhs,English,Business Owner/Entrepreneur,Christian,real
 Khatri,M.Sc. (Science),MNC,INR 50 lakhs and above,English,Merchant Navy,Hindu,real
 Protestant,MD/MS (Medicine),Private Sector,INR 7 lakhs to 10 lakhs,English,Health Care,Christian,real
-Protestant,B.Com (Commerce),MNC,INR Don't wish to specify,English,Export/Import,Christian,real
-Catholic,BE B.Tech (Engineering),Private Sector,INR Don't wish to specify,English,IT,Christian,real
-Catholic,B.A. (Arts),Others,INR Don't wish to specify,English,Business Owner/Entrepreneur,Christian,real
-Catholic,PG Diploma,Private Sector,INR Don't wish to specify,English,Others,Christian,real
-Catholic,B.A. (Arts),MNC,INR Don't wish to specify,English,Purchase/Logistics/Supply chain,Christian,real
-Others,Ph.D. (Doctorate),Others,INR Don't wish to specify,English,Education/Training,Muslim,real
+Protestant,B.Com (Commerce),MNC,Don't wish to specify,English,Export/Import,Christian,real
+Catholic,BE B.Tech (Engineering),Private Sector,Don't wish to specify,English,IT,Christian,real
+Catholic,B.A. (Arts),Others,Don't wish to specify,English,Business Owner/Entrepreneur,Christian,real
+Catholic,PG Diploma,Private Sector,Don't wish to specify,English,Others,Christian,real
+Catholic,B.A. (Arts),MNC,Don't wish to specify,English,Purchase/Logistics/Supply chain,Christian,real
+Others,Ph.D. (Doctorate),Others,Don't wish to specify,English,Education/Training,Muslim,real
 Garhwali Rajput,BHM (Hotel Management),Private Sector,INR 1 lakh to 2 lakhs,Garhwali,Hotels/Restaurants,Hindu,real
 Brahmin - Garhwali,MCA/PGDCA,State Government,INR 1 lakh to 2 lakhs,Garhwali,IT,Hindu,real
 Garhwali,B.A. (Arts),Private Sector,INR 2 lakhs to 3 lakhs,Garhwali,Human Resource,Hindu,real
@@ -179,11 +179,11 @@ Brahmin - Garhwali,MBA/PGDM,Private Sector,INR 3 lakhs to 4 lakhs,Garhwali,Banki
 Brahmin - Garhwali,Other School/Graduation,Public Sector,INR 3 lakhs to 4 lakhs,Garhwali,Construction,Hindu,real
 Rajput,MBA/PGDM,Central Government,INR 3 lakhs to 4 lakhs,Garhwali,Government Employee,Hindu,real
 Rawat,Other Diploma,Public Sector,INR 3 lakhs to 4 lakhs,Garhwali,Others,Hindu,real
-Kayastha,BCA (Computer Application),Private Sector,INR 50 thousand to  1 lakh,Garhwali,Advertising/Entertainment/Media,Hindu,real
+Kayastha,BCA (Computer Application),Private Sector,INR 50 thousand to 1 lakh,Garhwali,Advertising/Entertainment/Media,Hindu,real
 Rajput,Others,Others,INR 7 lakhs to 10 lakhs,Garhwali,Admin/Secretarial,Hindu,real
 Garhwali,BBA/BBM/BBS,Private Sector,INR 7 lakhs to 10 lakhs,Garhwali,Advertising/Entertainment/Media,Hindu,real
 Brahmin - Garhwali,MBA/PGDM,MNC,INR 7 lakhs to 10 lakhs,Garhwali,Telecom/ISP,Hindu,real
-Rajput,BHMS (Homeopathy),Private Sector,INR Don't wish to specify,Garhwali,Health Care,Hindu,real
+Rajput,BHMS (Homeopathy),Private Sector,Don't wish to specify,Garhwali,Health Care,Hindu,real
 Protestant,B.A. (Arts),State Government,INR 3 lakhs to 4 lakhs,Garo,Government Employee,Christian,real
 Darji,10th,Private Sector,INR 1 lakh to 2 lakhs,Gujarati,Business Owner/Entrepreneur,Hindu,real
 Vaishnav,10th,Private Sector,INR 1 lakh to 2 lakhs,Gujarati,Construction,Hindu,real
@@ -192,8 +192,8 @@ Scheduled Caste,MCA/PGDCA,MNC,INR 1 lakh to 2 lakhs,Gujarati,IT,Hindu,real
 Brahmin - Saraswat,Other Diploma,Private Sector,INR 1 lakh to 2 lakhs,Gujarati,Marketing and Communications,Hindu,real
 Sonar,MA (Arts),Private Sector,INR 1 lakh to 2 lakhs,Gujarati,Marketing and Communications,Hindu,real
 Sonar,10th,Private Sector,INR 1 lakh to 2 lakhs,Gujarati,Sales/Business Development,Hindu,real
-Brahmin,MBA/PGDM,MNC,INR 10 lakhs  to 15 lakhs,Gujarati,IT,Hindu,real
-Vaishnav,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Gujarati,Telecom/ISP,Hindu,real
+Brahmin,MBA/PGDM,MNC,INR 10 lakhs to 15 lakhs,Gujarati,IT,Hindu,real
+Vaishnav,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Gujarati,Telecom/ISP,Hindu,real
 Banik,MD/MS (Medicine),Private Sector,INR 15 lakhs to 20 lakhs,Gujarati,Health Care,Hindu,real
 Sonar,M.Sc. (Science),Others,INR 15 lakhs to 20 lakhs,Gujarati,Hotels/Restaurants,Hindu,real
 Patel,Engineering,Private Sector,INR 15 lakhs to 20 lakhs,Gujarati,Construction,Hindu,real
@@ -238,7 +238,7 @@ Leva patel,MBA/PGDM,Private Sector,INR 3 lakhs to 4 lakhs,Gujarati,Marketing and
 Leva Patidar,M.Pharm. (Pharmacy),Private Sector,INR 3 lakhs to 4 lakhs,Gujarati,Pharmaceutical/Biotechnology,Hindu,real
 Patel,M.Pharm. (Pharmacy),Private Sector,INR 3 lakhs to 4 lakhs,Gujarati,Sales/Business Development,Hindu,real
 Brahmin,BE B.Tech (Engineering),Central Government,INR 3 lakhs to 4 lakhs,Gujarati,Telecom/ISP,Hindu,real
-Shewetamber,BE B.Tech (Engineering),Private Sector,INR 35 lakhs to 40 lakhs,Gujarati,IT,Jain,real
+Shewetamber,BE B.Tech (Engineering),Private Sector,INR 30 lakhs to 40 lakhs,Gujarati,IT,Jain,real
 Vaishnav,BE B.Tech (Engineering),Public Sector,INR 4 lakhs to 5 lakhs,Gujarati,Agriculture,Hindu,real
 Vaishnav,MCA PGDCA part time,Private Sector,INR 4 lakhs to 5 lakhs,Gujarati,Artists/Animators/Web Designers,Hindu,real
 Shewetamber,B.Com (Commerce),Others,INR 4 lakhs to 5 lakhs,Gujarati,Business Owner/Entrepreneur,Jain,real
@@ -253,10 +253,10 @@ Vaishnav,12th,Others,INR 4 lakhs to 5 lakhs,Gujarati,Sales/Business Development,
 Brahmin - Pandit,MD/MS (Medicine),Others,INR 40 lakhs to 50 lakhs,Gujarati,Pharmaceutical/Biotechnology,Hindu,real
 Khatri,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 40 lakhs to 50 lakhs,Gujarati,Construction,Hindu,real
 Patel,B.Com (Commerce),Private Sector,INR 50 lakhs and above,Gujarati,Customer Service/Call Centre/BPO,Hindu,real
-Prajapati,B.Com (Commerce),Others,INR 50 thousand to  1 lakh,Gujarati,Business Owner/Entrepreneur,Hindu,real
-Leva patel,Other Diploma,Private Sector,INR 50 thousand to  1 lakh,Gujarati,Finance and Accounts,Hindu,real
-Patel Leva,B.Sc (Science),Private Sector,INR 50 thousand to  1 lakh,Gujarati,Health Care,Hindu,real
-Prajapati,B.A. (Arts),Others,INR 50 thousand to  1 lakh,Gujarati,Travel/Airlines,Hindu,real
+Prajapati,B.Com (Commerce),Others,INR 50 thousand to 1 lakh,Gujarati,Business Owner/Entrepreneur,Hindu,real
+Leva patel,Other Diploma,Private Sector,INR 50 thousand to 1 lakh,Gujarati,Finance and Accounts,Hindu,real
+Patel Leva,B.Sc (Science),Private Sector,INR 50 thousand to 1 lakh,Gujarati,Health Care,Hindu,real
+Prajapati,B.A. (Arts),Others,INR 50 thousand to 1 lakh,Gujarati,Travel/Airlines,Hindu,real
 Brahmin,MBA/PGDM,MNC,INR 7 lakhs to 10 lakhs,Gujarati,Banking/Insurance/Financial Services,Hindu,real
 Brahmin,B.Sc (Science),Public Sector,INR 7 lakhs to 10 lakhs,Gujarati,Banking/Insurance/Financial Services,Hindu,real
 Vaishnav Vania,BBA/BBM/BBS,Private Sector,INR 7 lakhs to 10 lakhs,Gujarati,Business Owner/Entrepreneur,Hindu,real
@@ -270,45 +270,45 @@ Shewetamber,BE B.Tech (Engineering),MNC,INR 7 lakhs to 10 lakhs,Gujarati,Manufac
 Mochi,Engineering,MNC,INR 7 lakhs to 10 lakhs,Gujarati,Manufacturing/Engineering/R&D,Hindu,real
 Rajput,Engineering,MNC,INR 7 lakhs to 10 lakhs,Gujarati,Manufacturing/Engineering/R&D,Hindu,real
 Shewetamber,MBA/PGDM,Private Sector,INR 7 lakhs to 10 lakhs,Gujarati,Marketing and Communications,Jain,real
-Vaishya Vani,B.Com (Commerce),Public Sector,INR Don't wish to specify,Gujarati,Banking/Insurance/Financial Services,Hindu,real
-Brahmin,BE B.Tech (Engineering),Private Sector,INR Don't wish to specify,Gujarati,Business Owner/Entrepreneur,Hindu,real
-Leva patel,B.Arch (Architecture),Private Sector,INR Don't wish to specify,Gujarati,Business Owner/Entrepreneur,Hindu,real
-Baniya,12th,Others,INR Don't wish to specify,Gujarati,Business Owner/Entrepreneur,Hindu,real
-Patel Leva,BL/LLB/BGL (Law),Others,INR Don't wish to specify,Gujarati,Construction,Hindu,real
-Shewetamber,B.Com (Commerce),Private Sector,INR Don't wish to specify,Gujarati,Customer Service/Call Centre/BPO,Jain,real
-Shewetamber,CA (Chartered Accountant),Private Sector,INR Don't wish to specify,Gujarati,Finance and Accounts,Jain,real
-Koli,BE B.Tech (Engineering),Private Sector,INR Don't wish to specify,Gujarati,IT,Hindu,real
-Suthar,BE B.Tech (Engineering),MNC,INR Don't wish to specify,Gujarati,IT,Hindu,real
-Brahmin - Anavil,MCA/PGDCA,Private Sector,INR Don't wish to specify,Gujarati,IT,Hindu,real
-Patel,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR Don't wish to specify,Gujarati,IT,Hindu,real
-Jain-Others,ML/LLM (Law),Others,INR Don't wish to specify,Gujarati,Legal,Jain,real
-Sunni,MBA/PGDM,Not Working,INR Don't wish to specify,Gujarati,Non Working,Muslim,real
-Soni,MBA/PGDM,Private Sector,INR Don't wish to specify,Gujarati,Banking/Insurance/Financial Services,Hindu,real
-Jain-Others,B.Com (Commerce),Private Sector,INR Don't wish to specify,Gujarati,Business Owner/Entrepreneur,Jain,real
-Patel Leva,BDS (Dental Surgery),Private Sector,INR Don't wish to specify,gujarati,Health Care,Hindu,real
-Vaishnav,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR Don't wish to specify,Gujarati,Retail Chains,Hindu,real
-Khatri,Ph.D. (Doctorate),Public Sector,INR Don't wish to specify,Gujarati,Science,Hindu,real
-Vaishnav,MBA/PGDM,Private Sector,INR Don't wish to specify,Gujarati,Health Care,Hindu,real
-Patel,M.Sc. (Science),Private Sector,INR Don't wish to specify,Gujarati,IT,Hindu,real
-Vaishnav,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR Don't wish to specify,Gujarati,Science,Hindu,real
+Vaishya Vani,B.Com (Commerce),Public Sector,Don't wish to specify,Gujarati,Banking/Insurance/Financial Services,Hindu,real
+Brahmin,BE B.Tech (Engineering),Private Sector,Don't wish to specify,Gujarati,Business Owner/Entrepreneur,Hindu,real
+Leva patel,B.Arch (Architecture),Private Sector,Don't wish to specify,Gujarati,Business Owner/Entrepreneur,Hindu,real
+Baniya,12th,Others,Don't wish to specify,Gujarati,Business Owner/Entrepreneur,Hindu,real
+Patel Leva,BL/LLB/BGL (Law),Others,Don't wish to specify,Gujarati,Construction,Hindu,real
+Shewetamber,B.Com (Commerce),Private Sector,Don't wish to specify,Gujarati,Customer Service/Call Centre/BPO,Jain,real
+Shewetamber,CA (Chartered Accountant),Private Sector,Don't wish to specify,Gujarati,Finance and Accounts,Jain,real
+Koli,BE B.Tech (Engineering),Private Sector,Don't wish to specify,Gujarati,IT,Hindu,real
+Suthar,BE B.Tech (Engineering),MNC,Don't wish to specify,Gujarati,IT,Hindu,real
+Brahmin - Anavil,MCA/PGDCA,Private Sector,Don't wish to specify,Gujarati,IT,Hindu,real
+Patel,ME/M.Tech/MS (Engg/Sciences),Private Sector,Don't wish to specify,Gujarati,IT,Hindu,real
+Jain-Others,ML/LLM (Law),Others,Don't wish to specify,Gujarati,Legal,Jain,real
+Sunni,MBA/PGDM,Not Working,Don't wish to specify,Gujarati,Non Working,Muslim,real
+Soni,MBA/PGDM,Private Sector,Don't wish to specify,Gujarati,Banking/Insurance/Financial Services,Hindu,real
+Jain-Others,B.Com (Commerce),Private Sector,Don't wish to specify,Gujarati,Business Owner/Entrepreneur,Jain,real
+Patel Leva,BDS (Dental Surgery),Private Sector,Don't wish to specify,Gujarati,Health Care,Hindu,real
+Vaishnav,ME/M.Tech/MS (Engg/Sciences),Private Sector,Don't wish to specify,Gujarati,Retail Chains,Hindu,real
+Khatri,Ph.D. (Doctorate),Public Sector,Don't wish to specify,Gujarati,Science,Hindu,real
+Vaishnav,MBA/PGDM,Private Sector,Don't wish to specify,Gujarati,Health Care,Hindu,real
+Patel,M.Sc. (Science),Private Sector,Don't wish to specify,Gujarati,IT,Hindu,real
+Vaishnav,ME/M.Tech/MS (Engg/Sciences),Private Sector,Don't wish to specify,Gujarati,Science,Hindu,real
 Shewetamber,Others,Others,INR Under 50 thousand,Gujarati,Others,Jain,real
 Brahmin,B.Com (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Haryanvi,Finance and Accounts,Hindu,real
-Jat,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 10 lakhs  to 15 lakhs,Haryanvi,Manufacturing/Engineering/R&D,Hindu,real
+Jat,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 10 lakhs to 15 lakhs,Haryanvi,Manufacturing/Engineering/R&D,Hindu,real
 Jat,B.Com (Commerce),Central Government,INR 3 lakhs to 4 lakhs,Haryanvi,Admin/Secretarial,Hindu,real
-Baniya,BE B.Tech (Engineering),Private Sector,INR 50 thousand to  1 lakh,Haryanvi,Business Owner/Entrepreneur,Hindu,real
+Baniya,BE B.Tech (Engineering),Private Sector,INR 50 thousand to 1 lakh,Haryanvi,Business Owner/Entrepreneur,Hindu,real
 Jat,CA (Chartered Accountant),Others,INR 7 lakhs to 10 lakhs,Haryanvi,Education/Training,Hindu,real
-Jat,BHMS (Homeopathy),Not Working,INR Don't wish to specify,Haryanvi,Non Working,Hindu,real
-Yadav,Master of Health Administration,Private Sector,INR Don't wish to specify,Haryanvi,Health Care,Hindu,real
+Jat,BHMS (Homeopathy),Not Working,Don't wish to specify,Haryanvi,Non Working,Hindu,real
+Yadav,Master of Health Administration,Private Sector,Don't wish to specify,Haryanvi,Health Care,Hindu,real
 Dhiman,B.Com (Commerce),Others,INR 1 lakh to 2 lakhs,Himachali/Pahari,Others,Hindu,real
 Rajput,Other Post Graduation,Private Sector,INR 1 lakh to 2 lakhs,Himachali/Pahari,Education/Training,Hindu,real
 Rajput,MBBS,Central Government,INR 15 lakhs to 20 lakhs,Himachali/Pahari,Health Care,Hindu,real
 Rajput,MBA/PGDM,Private Sector,INR 2 lakhs to 3 lakhs,Himachali/Pahari,Banking/Insurance/Financial Services,Hindu,real
 Rajput,MCA/PGDCA,Private Sector,INR 3 lakhs to 4 lakhs,Himachali/Pahari,IT,Hindu,real
-Himachali,MBA/PGDM,Private Sector,INR 7 lakhs to 10 lakhs,Himachali/Pahari,Banking/Insurance/Financial Services,Hindu,real
+Himachali/Pahari,MBA/PGDM,Private Sector,INR 7 lakhs to 10 lakhs,Himachali/Pahari,Banking/Insurance/Financial Services,Hindu,real
 Scheduled Caste,Ph.D. (Doctorate),Others,INR 7 lakhs to 10 lakhs,Himachali/Pahari,Health Care,Hindu,real
 Brahmin,Engineering,MNC,INR 7 lakhs to 10 lakhs,Himachali/Pahari,Telecom/ISP,Hindu,real
-Brahmin,MCA/PGDCA,MNC,INR Don't wish to specify,Himachali/Pahari,IT,Hindu,real
-Rajput,BE B.Tech (Engineering),Private Sector,INR Don't wish to specify,Himachali/Pahari,Merchant Navy,Hindu,real
+Brahmin,MCA/PGDCA,MNC,Don't wish to specify,Himachali/Pahari,IT,Hindu,real
+Rajput,BE B.Tech (Engineering),Private Sector,Don't wish to specify,Himachali/Pahari,Merchant Navy,Hindu,real
 Yadav,B.Ed (Education),Private Sector,INR 1 lakh to 2 lakhs,Hindi,Admin/Secretarial,Hindu,real
 Yadav,BBA/BBM/BBS,Private Sector,INR 1 lakh to 2 lakhs,Hindi,Admin/Secretarial,Hindu,real
 Rajput,MBA/PGDM,Private Sector,INR 1 lakh to 2 lakhs,Hindi,Admin/Secretarial,Hindu,real
@@ -367,63 +367,63 @@ Brahmin,B.A. (Arts),Private Sector,INR 1 lakh to 2 lakhs,Hindi,Sales/Business De
 Sunni,PG Diploma,Private Sector,INR 1 lakh to 2 lakhs,Hindi,Sales/Business Development,Muslim,real
 Rajput,B.Com (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Hindi,Sales/Business Development,Hindu,real
 Vishwakarma,12th,Private Sector,INR 1 lakh to 2 lakhs,Hindi,Telecom/ISP,Hindu,real
-Brahmin,CA (Chartered Accountant),MNC,INR 10 lakhs  to 15 lakhs,Hindi,Advertising/Entertainment/Media,Hindu,real
-Sunni,BCA (Computer Application),MNC,INR 10 lakhs  to 15 lakhs,Hindi,Advertising/Entertainment/Media,Muslim,real
-Brahmin - Saryuparin,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
-Mathur,CA (Chartered Accountant),Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
-Kayastha,CFA (Chartered Financial Analyst),MNC,INR 10 lakhs  to 15 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
-Agarwal,CFA (Chartered Financial Analyst),MNC,INR 10 lakhs  to 15 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
-Brahmin - Kanyakubj,MBA/PGDM,Others,INR 10 lakhs  to 15 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
-Brahmin,MBA/PGDM,MNC,INR 10 lakhs  to 15 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
-Brahmin - Saryuparin,MBA/PGDM,Public Sector,INR 10 lakhs  to 15 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
-Brahmin,BCA (Computer Application),Others,INR 10 lakhs  to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
-Shewetamber,BBA/BBM/BBS,Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Business Owner/Entrepreneur,Jain,real
-Baniya,BBA/BBM/BBS,Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
-Jaiswal,B.Com (Commerce),Others,INR 10 lakhs  to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
-Brahmin,B.Com (Commerce),Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
-Gupta,B.Com (Commerce),Others,INR 10 lakhs  to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
-Brahmin,B.Com (Commerce),Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
-Catholic,MSW (Social Work),Public Sector,INR 10 lakhs  to 15 lakhs,Hindi,Business Owner/Entrepreneur,Christian,real
-Brahmin - Gaur,B.Com (Commerce),Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
-Jat,M.Sc. (Science),Others,INR 10 lakhs  to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
-Scheduled Caste,BE B.Tech (Engineering),Public Sector,INR 10 lakhs  to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
-Brahmin,MBA/PGDM,MNC,INR 10 lakhs  to 15 lakhs,Hindi,Customer Service/Call Centre/BPO,Hindu,real
-Yadav,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Education/Training,Hindu,real
-Rajput,Ph.D. (Doctorate),Central Government,INR 10 lakhs  to 15 lakhs,Hindi,Education/Training,Hindu,real
-Brahmin,BE B.Tech (Engineering),Others,INR 10 lakhs  to 15 lakhs,Hindi,Education/Training,Hindu,real
-Baniya,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Hindi,Electronics,Hindu,real
-Brahmin,MBA/PGDM,MNC,INR 10 lakhs  to 15 lakhs,Hindi,Finance and Accounts,Hindu,real
-Protestant,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Finance and Accounts,Christian,real
-Khatri,CA (Chartered Accountant),Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Finance and Accounts,Hindu,real
-Arora,MBA/PGDM,Public Sector,INR 10 lakhs  to 15 lakhs,Hindi,Government Employee,Hindu,real
-Khatri,MBBS,Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Health Care,Hindu,real
-Catholic,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,IT,Christian,real
-Vishwakarma,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Hindi,IT,Hindu,real
-Gupta,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Hindi,IT,Hindu,real
-Kayastha,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Hindi,IT,Hindu,real
-Brahmin,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Hindi,IT,Hindu,real
-Agarwal,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Hindi,IT,Hindu,real
-Arora,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Hindi,IT,Hindu,real
-Rajput,B.Sc (Science),Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,IT,Hindu,real
-Rajput,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Hindi,IT,Hindu,real
-Gujarati,Other Diploma,MNC,INR 10 lakhs  to 15 lakhs,Hindi,IT,Hindu,real
-Gupta,BL/LLB/BGL (Law),Others,INR 10 lakhs  to 15 lakhs,Hindi,Legal,Hindu,real
-Kayastha,BL/LLB/BGL (Law),MNC,INR 10 lakhs  to 15 lakhs,Hindi,Legal,Hindu,real
-Rajput,BL/LLB/BGL (Law),Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Legal,Hindu,real
-Kshatriya,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Management/Corporate Professionals,Hindu,real
-Brahmin - Gaur/Brahmin - Kanyakubj/Brahmin - Sakaldwipi/Brahmin - Sanadya/Brahmin - Saraswat/Brahmin - Saryuparin,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Management/Corporate Professionals,Hindu,real
-Jaiswal,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Hindi,Manufacturing/Engineering/R&D,Hindu,real
-Brahmin,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Manufacturing/Engineering/R&D,Hindu,real
-Gupta,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Oil/Gas,Hindu,real
-Brahmin - Gaur,BE B.Tech (Engineering),Public Sector,INR 10 lakhs  to 15 lakhs,Hindi,Oil/Gas,Hindu,real
-Brahmin - Bhumihar,BE B.Tech (Engineering),Public Sector,INR 10 lakhs  to 15 lakhs,Hindi,Oil/Gas,Hindu,real
-Brahmin,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Others,Hindu,real
-Gupta,MBA/PGDM,Public Sector,INR 10 lakhs  to 15 lakhs,Hindi,Purchase/Logistics/Supply chain,Hindu,real
-Arora,MCA PGDCA part time,Others,INR 10 lakhs  to 15 lakhs,Hindi,Real Estate,Hindu,real
-Kayastha,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Telecom/ISP,Hindu,real
-Sahu,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Telecom/ISP,Hindu,real
-Agarwal,CA (Chartered Accountant),Private Sector,INR 10 lakhs  to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
-Digambar,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Hindi,IT,Jain,real
+Brahmin,CA (Chartered Accountant),MNC,INR 10 lakhs to 15 lakhs,Hindi,Advertising/Entertainment/Media,Hindu,real
+Sunni,BCA (Computer Application),MNC,INR 10 lakhs to 15 lakhs,Hindi,Advertising/Entertainment/Media,Muslim,real
+Brahmin - Saryuparin,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
+Mathur,CA (Chartered Accountant),Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
+Kayastha,CFA (Chartered Financial Analyst),MNC,INR 10 lakhs to 15 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
+Agarwal,CFA (Chartered Financial Analyst),MNC,INR 10 lakhs to 15 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
+Brahmin - Kanyakubj,MBA/PGDM,Others,INR 10 lakhs to 15 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
+Brahmin,MBA/PGDM,MNC,INR 10 lakhs to 15 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
+Brahmin - Saryuparin,MBA/PGDM,Public Sector,INR 10 lakhs to 15 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
+Brahmin,BCA (Computer Application),Others,INR 10 lakhs to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
+Shewetamber,BBA/BBM/BBS,Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Business Owner/Entrepreneur,Jain,real
+Baniya,BBA/BBM/BBS,Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
+Jaiswal,B.Com (Commerce),Others,INR 10 lakhs to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
+Brahmin,B.Com (Commerce),Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
+Gupta,B.Com (Commerce),Others,INR 10 lakhs to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
+Brahmin,B.Com (Commerce),Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
+Catholic,MSW (Social Work),Public Sector,INR 10 lakhs to 15 lakhs,Hindi,Business Owner/Entrepreneur,Christian,real
+Brahmin - Gaur,B.Com (Commerce),Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
+Jat,M.Sc. (Science),Others,INR 10 lakhs to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
+Scheduled Caste,BE B.Tech (Engineering),Public Sector,INR 10 lakhs to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
+Brahmin,MBA/PGDM,MNC,INR 10 lakhs to 15 lakhs,Hindi,Customer Service/Call Centre/BPO,Hindu,real
+Yadav,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Education/Training,Hindu,real
+Rajput,Ph.D. (Doctorate),Central Government,INR 10 lakhs to 15 lakhs,Hindi,Education/Training,Hindu,real
+Brahmin,BE B.Tech (Engineering),Others,INR 10 lakhs to 15 lakhs,Hindi,Education/Training,Hindu,real
+Baniya,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Hindi,Electronics,Hindu,real
+Brahmin,MBA/PGDM,MNC,INR 10 lakhs to 15 lakhs,Hindi,Finance and Accounts,Hindu,real
+Protestant,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Finance and Accounts,Christian,real
+Khatri,CA (Chartered Accountant),Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Finance and Accounts,Hindu,real
+Arora,MBA/PGDM,Public Sector,INR 10 lakhs to 15 lakhs,Hindi,Government Employee,Hindu,real
+Khatri,MBBS,Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Health Care,Hindu,real
+Catholic,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Hindi,IT,Christian,real
+Vishwakarma,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Hindi,IT,Hindu,real
+Gupta,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Hindi,IT,Hindu,real
+Kayastha,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Hindi,IT,Hindu,real
+Brahmin,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Hindi,IT,Hindu,real
+Agarwal,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Hindi,IT,Hindu,real
+Arora,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Hindi,IT,Hindu,real
+Rajput,B.Sc (Science),Private Sector,INR 10 lakhs to 15 lakhs,Hindi,IT,Hindu,real
+Rajput,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Hindi,IT,Hindu,real
+Gujarati,Other Diploma,MNC,INR 10 lakhs to 15 lakhs,Hindi,IT,Hindu,real
+Gupta,BL/LLB/BGL (Law),Others,INR 10 lakhs to 15 lakhs,Hindi,Legal,Hindu,real
+Kayastha,BL/LLB/BGL (Law),MNC,INR 10 lakhs to 15 lakhs,Hindi,Legal,Hindu,real
+Rajput,BL/LLB/BGL (Law),Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Legal,Hindu,real
+Kshatriya,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Management/Corporate Professionals,Hindu,real
+Brahmin,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Management/Corporate Professionals,Hindu,real
+Jaiswal,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Hindi,Manufacturing/Engineering/R&D,Hindu,real
+Brahmin,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Manufacturing/Engineering/R&D,Hindu,real
+Gupta,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Oil/Gas,Hindu,real
+Brahmin - Gaur,BE B.Tech (Engineering),Public Sector,INR 10 lakhs to 15 lakhs,Hindi,Oil/Gas,Hindu,real
+Brahmin - Bhumihar,BE B.Tech (Engineering),Public Sector,INR 10 lakhs to 15 lakhs,Hindi,Oil/Gas,Hindu,real
+Brahmin,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Others,Hindu,real
+Gupta,MBA/PGDM,Public Sector,INR 10 lakhs to 15 lakhs,Hindi,Purchase/Logistics/Supply chain,Hindu,real
+Arora,MCA PGDCA part time,Others,INR 10 lakhs to 15 lakhs,Hindi,Real Estate,Hindu,real
+Kayastha,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Telecom/ISP,Hindu,real
+Sahu,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Telecom/ISP,Hindu,real
+Agarwal,CA (Chartered Accountant),Private Sector,INR 10 lakhs to 15 lakhs,Hindi,Business Owner/Entrepreneur,Hindu,real
+Digambar,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Hindi,IT,Jain,real
 Brahmin,CA (Chartered Accountant),MNC,INR 15 lakhs to 20 lakhs,Hindi,Admin/Secretarial,Hindu,real
 Sunni,MBA/PGDM,Central Government,INR 15 lakhs to 20 lakhs,Hindi,Admin/Secretarial,Muslim,real
 Rajput,MBA/PGDM,Private Sector,INR 15 lakhs to 20 lakhs,Hindi,Banking/Insurance/Financial Services,Hindu,real
@@ -651,13 +651,13 @@ Sunni,B.Sc (Science),Others,INR 3 lakhs to 4 lakhs,Hindi,Sales/Business Developm
 Brahmin,BE B.Tech (Engineering),MNC,INR 3 lakhs to 4 lakhs,Hindi,Telecom/ISP,Hindu,real
 Brahmin,BE B.Tech (Engineering),Private Sector,INR 3 lakhs to 4 lakhs,Hindi,Telecom/ISP,Hindu,real
 Kayastha,B.Com (Commerce),Central Government,INR 3 lakhs to 4 lakhs,Hindi,Defence,Hindu,real
-Sunni,B.A. (Arts),Central Government,INR 30 lakhs to 35 lakhs,Hindi,Defence,Muslim,real
-Kayastha,ME/M.Tech/MS (Engg/Sciences),MNC,INR 30 lakhs to 35 lakhs,Hindi,Manufacturing/Engineering/R&D,Hindu,real
-Shewetamber,B.Com (Commerce),Others,INR 30 lakhs to 35 lakhs,Hindi,Sales/Business Development,Jain,real
-Vishwakarma,BE B.Tech (Engineering),Private Sector,INR 30 lakhs to 35 lakhs,Hindi,IT,Hindu,real
-Kayastha,MBA/PGDM,MNC,INR 30 lakhs to 35 lakhs,Hindi,Telecom/ISP,Hindu,real
-Gupta,BE B.Tech (Engineering),Private Sector,INR 35 lakhs to 40 lakhs,Hindi,IT,Hindu,real
-Bhumihar Brahmin,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 35 lakhs to 40 lakhs,Hindi,IT,Hindu,real
+Sunni,B.A. (Arts),Central Government,INR 30 lakhs to 40 lakhs,Hindi,Defence,Muslim,real
+Kayastha,ME/M.Tech/MS (Engg/Sciences),MNC,INR 30 lakhs to 40 lakhs,Hindi,Manufacturing/Engineering/R&D,Hindu,real
+Shewetamber,B.Com (Commerce),Others,INR 30 lakhs to 40 lakhs,Hindi,Sales/Business Development,Jain,real
+Vishwakarma,BE B.Tech (Engineering),Private Sector,INR 30 lakhs to 40 lakhs,Hindi,IT,Hindu,real
+Kayastha,MBA/PGDM,MNC,INR 30 lakhs to 40 lakhs,Hindi,Telecom/ISP,Hindu,real
+Gupta,BE B.Tech (Engineering),Private Sector,INR 30 lakhs to 40 lakhs,Hindi,IT,Hindu,real
+Bhumihar Brahmin,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 30 lakhs to 40 lakhs,Hindi,IT,Hindu,real
 Brahmin,CA (Chartered Accountant),MNC,INR 4 lakhs to 5 lakhs,Hindi,Admin/Secretarial,Hindu,real
 Brahmin - Pandit,PG Diploma,Private Sector,INR 4 lakhs to 5 lakhs,Hindi,Admin/Secretarial,Hindu,real
 Rajput,MA (Arts),Private Sector,INR 4 lakhs to 5 lakhs,Hindi,Advertising/Entertainment/Media,Hindu,real
@@ -768,23 +768,23 @@ Patel,B.Com (Commerce),Others,INR 50 lakhs and above,Hindi,Manufacturing/Enginee
 Brahmin,PG Diploma,MNC,INR 50 lakhs and above,Hindi,IT,Hindu,real
 Khatri,MBA/PGDM,MNC,INR 50 lakhs and above,Hindi,Management/Corporate Professionals,Hindu,real
 Kashyap,Masters,MNC,INR 50 lakhs and above,Hindi,Retail Chains,Hindu,real
-Kashyap,LLB,Private Sector,INR 50 thousand to  1 lakh,Hindi,Admin/Secretarial,Hindu,real
-Kayastha,10th,Private Sector,INR 50 thousand to  1 lakh,Hindi,Advertising/Entertainment/Media,Hindu,real
-Gupta,MBA/PGDM,Private Sector,INR 50 thousand to  1 lakh,Hindi,Banking/Insurance/Financial Services,Hindu,real
-Kshatriya,B.A. (Arts),Others,INR 50 thousand to  1 lakh,Hindi,Business Owner/Entrepreneur,Hindu,real
-Maheshwari,B.Com (Commerce),Private Sector,INR 50 thousand to  1 lakh,Hindi,Business Owner/Entrepreneur,Hindu,real
-Brahmin - Pandit,MA (Arts),State Government,INR 50 thousand to  1 lakh,Hindi,Education/Training,Hindu,real
-Yadav,M.Com. (Commerce),Private Sector,INR 50 thousand to  1 lakh,Hindi,Finance and Accounts,Hindu,real
-Brahmin,MBA/PGDM,MNC,INR 50 thousand to  1 lakh,Hindi,Finance and Accounts,Hindu,real
-Baniya,MBBS,Private Sector,INR 50 thousand to  1 lakh,Hindi,Health Care,Hindu,real
-Nai,B.A. (Arts),MNC,INR 50 thousand to  1 lakh,Hindi,Health Care,Hindu,real
-Brahmin - Gaur,B.Sc (Science),Others,INR 50 thousand to  1 lakh,Hindi,Health Care,Hindu,real
-Brahmin,MBA/PGDM,MNC,INR 50 thousand to  1 lakh,Hindi,Human Resource,Hindu,real
-Kayastha,MBA/PGDM,Private Sector,INR 50 thousand to  1 lakh,Hindi,Management/Corporate Professionals,Hindu,real
-Others,Other Diploma,Private Sector,INR 50 thousand to  1 lakh,Hindi,Manufacturing/Engineering/R&D,Muslim,real
-Agarwal,MA (Arts),Private Sector,INR 50 thousand to  1 lakh,Hindi,Others,Hindu,real
-Others,MBA/PGDM,Private Sector,INR 50 thousand to  1 lakh,Hindi,Sales/Business Development,Christian,real
-Sahu,B.A. (Arts),Private Sector,INR 50 thousand to  1 lakh,Hindi,Marketing and Communications,Hindu,real
+Kashyap,LLB,Private Sector,INR 50 thousand to 1 lakh,Hindi,Admin/Secretarial,Hindu,real
+Kayastha,10th,Private Sector,INR 50 thousand to 1 lakh,Hindi,Advertising/Entertainment/Media,Hindu,real
+Gupta,MBA/PGDM,Private Sector,INR 50 thousand to 1 lakh,Hindi,Banking/Insurance/Financial Services,Hindu,real
+Kshatriya,B.A. (Arts),Others,INR 50 thousand to 1 lakh,Hindi,Business Owner/Entrepreneur,Hindu,real
+Maheshwari,B.Com (Commerce),Private Sector,INR 50 thousand to 1 lakh,Hindi,Business Owner/Entrepreneur,Hindu,real
+Brahmin - Pandit,MA (Arts),State Government,INR 50 thousand to 1 lakh,Hindi,Education/Training,Hindu,real
+Yadav,M.Com. (Commerce),Private Sector,INR 50 thousand to 1 lakh,Hindi,Finance and Accounts,Hindu,real
+Brahmin,MBA/PGDM,MNC,INR 50 thousand to 1 lakh,Hindi,Finance and Accounts,Hindu,real
+Baniya,MBBS,Private Sector,INR 50 thousand to 1 lakh,Hindi,Health Care,Hindu,real
+Nai,B.A. (Arts),MNC,INR 50 thousand to 1 lakh,Hindi,Health Care,Hindu,real
+Brahmin - Gaur,B.Sc (Science),Others,INR 50 thousand to 1 lakh,Hindi,Health Care,Hindu,real
+Brahmin,MBA/PGDM,MNC,INR 50 thousand to 1 lakh,Hindi,Human Resource,Hindu,real
+Kayastha,MBA/PGDM,Private Sector,INR 50 thousand to 1 lakh,Hindi,Management/Corporate Professionals,Hindu,real
+Others,Other Diploma,Private Sector,INR 50 thousand to 1 lakh,Hindi,Manufacturing/Engineering/R&D,Muslim,real
+Agarwal,MA (Arts),Private Sector,INR 50 thousand to 1 lakh,Hindi,Others,Hindu,real
+Others,MBA/PGDM,Private Sector,INR 50 thousand to 1 lakh,Hindi,Sales/Business Development,Christian,real
+Sahu,B.A. (Arts),Private Sector,INR 50 thousand to 1 lakh,Hindi,Marketing and Communications,Hindu,real
 Brahmin,MBA/PGDM,MNC,INR 7 lakhs to 10 lakhs,Hindi,Admin/Secretarial,Hindu,real
 Agarwal,M.Com. (Commerce),Private Sector,INR 7 lakhs to 10 lakhs,Hindi,Admin/Secretarial,Hindu,real
 Digambar,MBA/PGDM,Private Sector,INR 7 lakhs to 10 lakhs,Hindi,Banking/Insurance/Financial Services,Jain,real
@@ -921,56 +921,56 @@ Agarwal,Engineering,MNC,INR 7 lakhs to 10 lakhs,Hindi,Telecom/ISP,Hindu,real
 Brahmin - Bhumihar,Engineering,Private Sector,INR 7 lakhs to 10 lakhs,Hindi,Travel/Airlines,Hindu,real
 Brahmin,B.A. (Arts),Private Sector,INR 7 lakhs to 10 lakhs,Hindi,Travel/Airlines,Hindu,real
 Bengali,MBA/PGDM,MNC,INR 7 lakhs to 10 lakhs,Hindi,IT,Hindu,real
-Khatri,B.Sc (Science),Others,INR Don't wish to specify,Hindi,Business Owner/Entrepreneur,Hindu,real
-Agarwal,MBA/PGDM,Others,INR Don't wish to specify,Hindi,Business Owner/Entrepreneur,Hindu,real
-Bhatia,B.A. (Arts),Private Sector,INR Don't wish to specify,Hindi,Business Owner/Entrepreneur,Hindu,real
-Catholic,B.A. (Arts),Others,INR Don't wish to specify,Hindi,Business Owner/Entrepreneur,Christian,real
-Agarwal,B.Com (Commerce),Public Sector,INR Don't wish to specify,Hindi,Business Owner/Entrepreneur,Hindu,real
-Jatav,B.Ed (Education),Central Government,INR Don't wish to specify,Hindi,Defence,Hindu,real
-Kashyap,BE B.Tech (Engineering),Others,INR Don't wish to specify,Hindi,Electronics,Hindu,real
-Khatri,CA (Chartered Accountant),Private Sector,INR Don't wish to specify,Hindi,Finance and Accounts,Hindu,real
-Brahmin,Integrated PG,Private Sector,INR Don't wish to specify,Hindi,Government Employee,Hindu,real
-Kayastha,MD/MS (Medicine),Public Sector,INR Don't wish to specify,Hindi,Health Care,Hindu,real
-Jat,MD/MS (Medicine),Others,INR Don't wish to specify,Hindi,Health Care,Hindu,real
-Brahmin - Gaur,MBBS,Private Sector,INR Don't wish to specify,Hindi,Health Care,Hindu,real
-Brahmin - Gaur,MBA/PGDM,Private Sector,INR Don't wish to specify,Hindi,Human Resource,Hindu,real
-Sunni,M.Com. (Commerce),Private Sector,INR Don't wish to specify,Hindi,IT,Muslim,real
-Sunni,B.Sc (Science),MNC,INR Don't wish to specify,Hindi,IT,Muslim,real
-Brahmin - Kanyakubj,B.Sc (Science),Private Sector,INR Don't wish to specify,Hindi,IT,Hindu,real
-Agarwal,BE B.Tech (Engineering),MNC,INR Don't wish to specify,Hindi,IT,Hindu,real
-Rajput,MBA/PGDM,MNC,INR Don't wish to specify,Hindi,Management/Corporate Professionals,Hindu,real
-Sunni,M.Phil. (Philosophy),Not Working,INR Don't wish to specify,Hindi,Management/Corporate Professionals,Muslim,real
-Sunni,MA (Arts),Private Sector,INR Don't wish to specify,Hindi,Marketing and Communications,Muslim,real
-Brahmin - Jangid,MBA/PGDM,Not Working,INR Don't wish to specify,Hindi,Non Working,Hindu,real
-Jatav,B.A. (Arts),Not Working,INR Don't wish to specify,Hindi,Non Working,Hindu,real
-Brahmin,Master of Hospital Administration,Not Working,INR Don't wish to specify,Hindi,Non Working,Hindu,real
-Agarwal,12th,Not Working,INR Don't wish to specify,Hindi,Non Working,Hindu,real
-Gujjar,Other Diploma,Not working,INR Don't wish to specify,Hindi,Non Working,Hindu,real
-Rajput,ME/M.Tech/MS (Engg/Sciences),Not Working,INR Don't wish to specify,Hindi,Non Working,Hindu,real
-Kayastha,M.Com. (Commerce),Not Working,INR Don't wish to specify,Hindi,Non Working,Hindu,real
-Agarwal,MBA/PGDM,Not Working,INR Don't wish to specify,Hindi,Others,Hindu,real
-Brahmin,B.A. (Arts),Private Sector,INR Don't wish to specify,Hindi,Others,Hindu,real
-Brahmin,B.A. (Arts),Private Sector,INR Don't wish to specify,Hindi,Others,Hindu,real
-Vaishnav,BE B.Tech (Engineering),Private Sector,INR Don't wish to specify,Hindi,Telecom/ISP,Hindu,real
-Shewetamber,B.Com (Commerce),Private Sector,INR Don't wish to specify,Hindi,Admin/Secretarial,Jain,real
-Brahmin,CA (Chartered Accountant),MNC,INR Don't wish to specify,Hindi,Admin/Secretarial,Hindu,real
-Khatri,B.A. (Arts),Others,INR Don't wish to specify,Hindi,Architecture/Design,Hindu,real
-Shewetamber,B.Com (Commerce),Private Sector,INR Don't wish to specify,Hindi,Artists/Animators/Web Designers,Jain,real
-Lodhi Rajput,MBA/PGDM,Others,INR Don't wish to specify,Hindi,Artists/Animators/Web Designers,Hindu,real
-Sunni,MBA/PGDM,MNC,INR Don't wish to specify,Hindi,Banking/Insurance/Financial Services,Muslim,real
-Brahmin,M.Sc. (Science),Public Sector,INR Don't wish to specify,Hindi,Banking/Insurance/Financial Services,Hindu,real
-Khatri,MA (Arts),Private Sector,INR Don't wish to specify,Hindi,Banking/Insurance/Financial Services,Hindu,real
-Kumhar,MBA/PGDM,MNC,INR Don't wish to specify,Hindi,Export/Import,Hindu,real
-Gujjar,BE B.Tech (Engineering),Central Government,INR Don't wish to specify,Hindi,Government Employee,Hindu,real
-Scheduled Caste,Master of Hospital Administration,Public Sector,INR Don't wish to specify,Hindi,Health Care,Hindu,real
-Brahmin,MBBS,Central Government,INR Don't wish to specify,Hindi,Health Care,Hindu,real
-Brahmin,BE B.Tech (Engineering),MNC,INR Don't wish to specify,Hindi,IT,Hindu,real
-Shewetamber,MBA/PGDM,MNC,INR Don't wish to specify,Hindi,Management/Corporate Professionals,Jain,real
-Sunni,BE B.Tech (Engineering),MNC,INR Don't wish to specify,Hindi,Manufacturing/Engineering/R&D,Muslim,real
-Brahmin,10th,Private Sector,INR Don't wish to specify,Hindi,Others,Hindu,real
-Sunni,M.Sc. (Science),Private Sector,INR Don't wish to specify,Hindi,Science,Muslim,real
-Sunni,Other Diploma,Private Sector,INR Don't wish to specify,Hindi,Manufacturing/Engineering/R&D,Muslim,real
-Rajput,B.Com (Commerce),Private Sector,INR Don't wish to specify,Hindi,Merchant Navy,Hindu,real
+Khatri,B.Sc (Science),Others,Don't wish to specify,Hindi,Business Owner/Entrepreneur,Hindu,real
+Agarwal,MBA/PGDM,Others,Don't wish to specify,Hindi,Business Owner/Entrepreneur,Hindu,real
+Bhatia,B.A. (Arts),Private Sector,Don't wish to specify,Hindi,Business Owner/Entrepreneur,Hindu,real
+Catholic,B.A. (Arts),Others,Don't wish to specify,Hindi,Business Owner/Entrepreneur,Christian,real
+Agarwal,B.Com (Commerce),Public Sector,Don't wish to specify,Hindi,Business Owner/Entrepreneur,Hindu,real
+Jatav,B.Ed (Education),Central Government,Don't wish to specify,Hindi,Defence,Hindu,real
+Kashyap,BE B.Tech (Engineering),Others,Don't wish to specify,Hindi,Electronics,Hindu,real
+Khatri,CA (Chartered Accountant),Private Sector,Don't wish to specify,Hindi,Finance and Accounts,Hindu,real
+Brahmin,Integrated PG,Private Sector,Don't wish to specify,Hindi,Government Employee,Hindu,real
+Kayastha,MD/MS (Medicine),Public Sector,Don't wish to specify,Hindi,Health Care,Hindu,real
+Jat,MD/MS (Medicine),Others,Don't wish to specify,Hindi,Health Care,Hindu,real
+Brahmin - Gaur,MBBS,Private Sector,Don't wish to specify,Hindi,Health Care,Hindu,real
+Brahmin - Gaur,MBA/PGDM,Private Sector,Don't wish to specify,Hindi,Human Resource,Hindu,real
+Sunni,M.Com. (Commerce),Private Sector,Don't wish to specify,Hindi,IT,Muslim,real
+Sunni,B.Sc (Science),MNC,Don't wish to specify,Hindi,IT,Muslim,real
+Brahmin - Kanyakubj,B.Sc (Science),Private Sector,Don't wish to specify,Hindi,IT,Hindu,real
+Agarwal,BE B.Tech (Engineering),MNC,Don't wish to specify,Hindi,IT,Hindu,real
+Rajput,MBA/PGDM,MNC,Don't wish to specify,Hindi,Management/Corporate Professionals,Hindu,real
+Sunni,M.Phil. (Philosophy),Not Working,Don't wish to specify,Hindi,Management/Corporate Professionals,Muslim,real
+Sunni,MA (Arts),Private Sector,Don't wish to specify,Hindi,Marketing and Communications,Muslim,real
+Brahmin - Jangid,MBA/PGDM,Not Working,Don't wish to specify,Hindi,Non Working,Hindu,real
+Jatav,B.A. (Arts),Not Working,Don't wish to specify,Hindi,Non Working,Hindu,real
+Brahmin,Master of Hospital Administration,Not Working,Don't wish to specify,Hindi,Non Working,Hindu,real
+Agarwal,12th,Not Working,Don't wish to specify,Hindi,Non Working,Hindu,real
+Gujjar,Other Diploma,Not Working,Don't wish to specify,Hindi,Non Working,Hindu,real
+Rajput,ME/M.Tech/MS (Engg/Sciences),Not Working,Don't wish to specify,Hindi,Non Working,Hindu,real
+Kayastha,M.Com. (Commerce),Not Working,Don't wish to specify,Hindi,Non Working,Hindu,real
+Agarwal,MBA/PGDM,Not Working,Don't wish to specify,Hindi,Others,Hindu,real
+Brahmin,B.A. (Arts),Private Sector,Don't wish to specify,Hindi,Others,Hindu,real
+Brahmin,B.A. (Arts),Private Sector,Don't wish to specify,Hindi,Others,Hindu,real
+Vaishnav,BE B.Tech (Engineering),Private Sector,Don't wish to specify,Hindi,Telecom/ISP,Hindu,real
+Shewetamber,B.Com (Commerce),Private Sector,Don't wish to specify,Hindi,Admin/Secretarial,Jain,real
+Brahmin,CA (Chartered Accountant),MNC,Don't wish to specify,Hindi,Admin/Secretarial,Hindu,real
+Khatri,B.A. (Arts),Others,Don't wish to specify,Hindi,Architecture/Design,Hindu,real
+Shewetamber,B.Com (Commerce),Private Sector,Don't wish to specify,Hindi,Artists/Animators/Web Designers,Jain,real
+Lodhi Rajput,MBA/PGDM,Others,Don't wish to specify,Hindi,Artists/Animators/Web Designers,Hindu,real
+Sunni,MBA/PGDM,MNC,Don't wish to specify,Hindi,Banking/Insurance/Financial Services,Muslim,real
+Brahmin,M.Sc. (Science),Public Sector,Don't wish to specify,Hindi,Banking/Insurance/Financial Services,Hindu,real
+Khatri,MA (Arts),Private Sector,Don't wish to specify,Hindi,Banking/Insurance/Financial Services,Hindu,real
+Kumhar,MBA/PGDM,MNC,Don't wish to specify,Hindi,Export/Import,Hindu,real
+Gujjar,BE B.Tech (Engineering),Central Government,Don't wish to specify,Hindi,Government Employee,Hindu,real
+Scheduled Caste,Master of Hospital Administration,Public Sector,Don't wish to specify,Hindi,Health Care,Hindu,real
+Brahmin,MBBS,Central Government,Don't wish to specify,Hindi,Health Care,Hindu,real
+Brahmin,BE B.Tech (Engineering),MNC,Don't wish to specify,Hindi,IT,Hindu,real
+Shewetamber,MBA/PGDM,MNC,Don't wish to specify,Hindi,Management/Corporate Professionals,Jain,real
+Sunni,BE B.Tech (Engineering),MNC,Don't wish to specify,Hindi,Manufacturing/Engineering/R&D,Muslim,real
+Brahmin,10th,Private Sector,Don't wish to specify,Hindi,Others,Hindu,real
+Sunni,M.Sc. (Science),Private Sector,Don't wish to specify,Hindi,Science,Muslim,real
+Sunni,Other Diploma,Private Sector,Don't wish to specify,Hindi,Manufacturing/Engineering/R&D,Muslim,real
+Rajput,B.Com (Commerce),Private Sector,Don't wish to specify,Hindi,Merchant Navy,Hindu,real
 Brahmin - Kanyakubj,MBA/PGDM,Others,INR Under 50 thousand,Hindi,Banking/Insurance/Financial Services,Hindu,real
 Rajput,MBA/PGDM,Private Sector,INR Under 50 thousand,Hindi,Business Owner/Entrepreneur,Hindu,real
 Brahmin - Saryuparin,B.A. (Arts),Private Sector,INR Under 50 thousand,Hindi,Hotels/Restaurants,Hindu,real
@@ -986,11 +986,11 @@ Vysya,B.Com (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Kannada,Finance and 
 Brahmin - Havyaka,M.Ed. (Education),State Government,INR 1 lakh to 2 lakhs,Kannada,Finance and Accounts,Hindu,real
 Reddy,BE B.Tech (Engineering),Private Sector,INR 1 lakh to 2 lakhs,Kannada,IT,Hindu,real
 Others,12th,Others,INR 1 lakh to 2 lakhs,Kannada,Retail Chains,Christian,real
-Brahmin,PG Diploma,Private Sector,INR 10 lakhs  to 15 lakhs,Kannada,Advertising/Entertainment/Media,Hindu,real
-Savji,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Kannada,Electronics,Hindu,real
-Devanga,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Kannada,IT,Hindu,real
-Brahmin Shivalli,MBA/PGDM,MNC,INR 10 lakhs  to 15 lakhs,Kannada,IT,Hindu,real
-Brahmin - Smartha,BCA (Computer Application),MNC,INR 10 lakhs  to 15 lakhs,Kannada,IT,Hindu,real
+Brahmin,PG Diploma,Private Sector,INR 10 lakhs to 15 lakhs,Kannada,Advertising/Entertainment/Media,Hindu,real
+Savji,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Kannada,Electronics,Hindu,real
+Devanga,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Kannada,IT,Hindu,real
+Brahmin Shivalli,MBA/PGDM,MNC,INR 10 lakhs to 15 lakhs,Kannada,IT,Hindu,real
+Brahmin - Smartha,BCA (Computer Application),MNC,INR 10 lakhs to 15 lakhs,Kannada,IT,Hindu,real
 Lingayath,BE B.Tech (Engineering),MNC,INR 15 lakhs to 20 lakhs,Kannada,IT,Hindu,real
 Brahmin - Havyaka,B.Com (Commerce),Others,INR 2 lakhs to 3 lakhs,Kannada,Admin/Secretarial,Hindu,real
 Kshatriya,ICWA,State Government,INR 2 lakhs to 3 lakhs,Kannada,Banking/Insurance/Financial Services,Hindu,real
@@ -1050,16 +1050,16 @@ Vokkaliga,BE B.Tech (Engineering),MNC,INR 7 lakhs to 10 lakhs,Kannada,Manufactur
 Lingayath,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Kannada,Manufacturing/Engineering/R&D,Hindu,real
 Naik,Other Diploma,Others,INR 7 lakhs to 10 lakhs,Kannada,Marketing and Communications,Hindu,real
 Brahmin - Havyaka,12th,Others,INR 7 lakhs to 10 lakhs,Kannada,Others,Hindu,real
-Gowda,BE B.Tech (Engineering),MNC,INR Don't wish to specify,Kannada,Admin/Secretarial,Hindu,real
-Gowda,BE B.Tech (Engineering),Others,INR Don't wish to specify,Kannada,Construction,Hindu,real
-Lingayath,MBA/PGDM,MNC,INR Don't wish to specify,Kannada,IT,Hindu,real
-Arya Vysya,MBBS,Not Working,INR Don't wish to specify,Kannada,Non Working,Hindu,real
-Nayaka,12th,Private Sector,INR Don't wish to specify,Kannada,Sales/Business Development,Hindu,real
-Sunni,BE B.Tech (Engineering),Private Sector,INR Don't wish to specify,Kannada,Construction,Muslim,real
-Naik/Nayaka,B.Com (Commerce),Others,INR Don't wish to specify,Kannada,Hotels/Restaurants,Hindu,real
-Madiga,MBA/PGDM,Public Sector,INR Don't wish to specify,Kannada,Management/Corporate Professionals,Hindu,real
-Brahmin,B.Com (Commerce),Others,INR Don't wish to specify,Kannada,Others,Hindu,real
-Brahmin Kanada Madhva,MS,Private Sector,INR Don't wish to specify,Kannada,Telecom/ISP,Hindu,real
+Gowda,BE B.Tech (Engineering),MNC,Don't wish to specify,Kannada,Admin/Secretarial,Hindu,real
+Gowda,BE B.Tech (Engineering),Others,Don't wish to specify,Kannada,Construction,Hindu,real
+Lingayath,MBA/PGDM,MNC,Don't wish to specify,Kannada,IT,Hindu,real
+Arya Vysya,MBBS,Not Working,Don't wish to specify,Kannada,Non Working,Hindu,real
+Nayaka,12th,Private Sector,Don't wish to specify,Kannada,Sales/Business Development,Hindu,real
+Sunni,BE B.Tech (Engineering),Private Sector,Don't wish to specify,Kannada,Construction,Muslim,real
+Naik/Nayaka,B.Com (Commerce),Others,Don't wish to specify,Kannada,Hotels/Restaurants,Hindu,real
+Madiga,MBA/PGDM,Public Sector,Don't wish to specify,Kannada,Management/Corporate Professionals,Hindu,real
+Brahmin,B.Com (Commerce),Others,Don't wish to specify,Kannada,Others,Hindu,real
+Brahmin Kanada Madhva,MS,Private Sector,Don't wish to specify,Kannada,Telecom/ISP,Hindu,real
 Sunni,BHM (Hotel Management),Private Sector,INR 1 lakh to 2 lakhs,Kashmiri,Management/Corporate Professionals,Muslim,real
 Sunni,B.Com (Commerce),MNC,INR 2 lakhs to 3 lakhs,Kashmiri,Finance and Accounts,Muslim,real
 Sunni,12th,State Government,INR 3 lakhs to 4 lakhs,Kashmiri,Electronics,Muslim,real
@@ -1068,11 +1068,11 @@ Sunni,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 4 lakhs to 5 lakhs,Kashmir
 Brahmin - Bhatt,B.Sc (Science),Private Sector,INR 7 lakhs to 10 lakhs,Kashmiri,Health Care,Hindu,real
 Brahmin - Kashmiri Pandit,Engineering,Private Sector,INR 7 lakhs to 10 lakhs,Kashmiri,Human Resource,Hindu,real
 Brahmin,MBA/PGDM,MNC,INR 7 lakhs to 10 lakhs,Kashmiri,Marketing and Communications,Hindu,real
-Sunni,M.Sc. (Science),Others,INR Don't wish to specify,Kashmiri,Others,Muslim,real
+Sunni,M.Sc. (Science),Others,Don't wish to specify,Kashmiri,Others,Muslim,real
 Catholic,CS (Company Secretary),State Government,INR 1 lakh to 2 lakhs,Konkani,Finance and Accounts,Christian,real
 Scheduled Caste,Other Diploma,State Government,INR 1 lakh to 2 lakhs,Konkani,Others,Hindu,real
-Goan,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Konkani,IT,Christian,real
-Catholic,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Konkani,Management/Corporate Professionals,Christian,real
+Goan,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Konkani,IT,Christian,real
+Catholic,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Konkani,Management/Corporate Professionals,Christian,real
 Catholic,B.Com (Commerce),Private Sector,INR 2 lakhs to 3 lakhs,Konkani,Construction,Christian,real
 Bhandari,CA (Chartered Accountant),Others,INR 2 lakhs to 3 lakhs,Konkani,Others,Hindu,real
 Brahmin,BE B.Tech (Engineering),Others,INR 2 lakhs to 3 lakhs,Konkani,Sales/Business Development,Hindu,real
@@ -1081,31 +1081,31 @@ Catholic,B.A. (Arts),MNC,INR 4 lakhs to 5 lakhs,Konkani,Banking/Insurance/Financ
 Catholic,B.Com (Commerce),Others,INR 4 lakhs to 5 lakhs,Konkani,Business Owner/Entrepreneur,Christian,real
 Catholic,B.Com (Commerce),MNC,INR 4 lakhs to 5 lakhs,Konkani,Finance and Accounts,Christian,real
 Protestant,BHM (Hotel Management),State Government,INR 4 lakhs to 5 lakhs,Konkani,Hotels/Restaurants,Christian,real
-Catholic,Other Diploma,Private Sector,INR 50 thousand to  1 lakh,Konkani,Others,Christian,real
+Catholic,Other Diploma,Private Sector,INR 50 thousand to 1 lakh,Konkani,Others,Christian,real
 Catholic,BE B.Tech (Engineering),MNC,INR 7 lakhs to 10 lakhs,Konkani,IT,Christian,real
 Brahmin -Gowd Saraswat,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Konkani,IT,Hindu,real
 Brahmin -Gowd Saraswat,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Konkani,Telecom/ISP,Hindu,real
-Others,12th,Others,INR Don't wish to specify,Konkani,Hotels/Restaurants,Christian,real
+Others,12th,Others,Don't wish to specify,Konkani,Hotels/Restaurants,Christian,real
 Brahmin,B.A. (Arts),Central Government,INR 1 lakh to 2 lakhs,Kumoani,Admin/Secretarial,Hindu,real
-Brahmin,BBA/BBM/BBS,Others,INR 10 lakhs  to 15 lakhs,Kumoani,Admin/Secretarial,Hindu,real
-Vishwakarma,10th,Private Sector,INR 10 lakhs  to 15 lakhs,Kumoani,Business Owner/Entrepreneur,Hindu,real
+Brahmin,BBA/BBM/BBS,Others,INR 10 lakhs to 15 lakhs,Kumoani,Admin/Secretarial,Hindu,real
+Vishwakarma,10th,Private Sector,INR 10 lakhs to 15 lakhs,Kumoani,Business Owner/Entrepreneur,Hindu,real
 Brahmin,B.Sc (Science),Private Sector,INR 2 lakhs to 3 lakhs,Kumoani,Advertising/Entertainment/Media,Hindu,real
 Rajput,B.Sc (Science),Private Sector,INR 3 lakhs to 4 lakhs,Kumoani,Advertising/Entertainment/Media,Hindu,real
 Rajput,BE B.Tech (Engineering),Private Sector,INR 4 lakhs to 5 lakhs,Kumoani,IT,Hindu,real
 Brahmin - Kumoani,12th,Others,INR 7 lakhs to 10 lakhs,Kumoani,Business Owner/Entrepreneur,Hindu,real
 Brahmin,M.Sc. (Science),MNC,INR 7 lakhs to 10 lakhs,Kumoani,IT,Hindu,real
 Shewetamber,BE B.Tech (Engineering),Private Sector,INR 50 lakhs and above,Kutchi,IT,Jain,real
-Lohana,B.Com (Commerce),Private Sector,INR Don't wish to specify,Kutchi,Architecture/Design,Hindu,real
+Lohana,B.Com (Commerce),Private Sector,Don't wish to specify,Kutchi,Architecture/Design,Hindu,real
 Bhumihar Brahmin,MBA/PGDM,Private Sector,INR 2 lakhs to 3 lakhs,Maithili,Finance and Accounts,Hindu,real
 Brahmin,B.Com (Commerce),Private Sector,INR 2 lakhs to 3 lakhs,Maithili,Finance and Accounts,Hindu,real
 Brahmin - Maithil,MBA/PGDM,Private Sector,INR 4 lakhs to 5 lakhs,Maithili,Education/Training,Hindu,real
 Brahmin,BE B.Tech (Engineering),Central Government,INR 4 lakhs to 5 lakhs,Maithili,Government Employee,Hindu,real
 Brahmin,MBA/PGDM,MNC,INR 4 lakhs to 5 lakhs,Maithili,Human Resource,Hindu,real
 Brahmin - Maithil,BE B.Tech (Engineering),MNC,INR 4 lakhs to 5 lakhs,Maithili,Manufacturing/Engineering/R&D,Hindu,real
-Brahmin,Other Diploma,Private Sector,INR 50 thousand to  1 lakh,Maithili,Others,Hindu,real
+Brahmin,Other Diploma,Private Sector,INR 50 thousand to 1 lakh,Maithili,Others,Hindu,real
 Brahmin,BHM (Hotel Management),MNC,INR 7 lakhs to 10 lakhs,Maithili,Hotels/Restaurants,Hindu,real
 Brahmin - Maithil,MBA/PGDM,MNC,INR 7 lakhs to 10 lakhs,Maithili,Marketing and Communications,Hindu,real
-Brahmin,BE B.Tech (Engineering),MNC,INR Don't wish to specify,Maithili,IT,Hindu,real
+Brahmin,BE B.Tech (Engineering),MNC,Don't wish to specify,Maithili,IT,Hindu,real
 Nair,12th,Others,INR 1 lakh to 2 lakhs,Malayalam,Business Owner/Entrepreneur,Hindu,real
 Nair,B.A. (Arts),Others,INR 1 lakh to 2 lakhs,Malayalam,Business Owner/Entrepreneur,Hindu,real
 Thiyya,B.A. (Arts),State Government,INR 1 lakh to 2 lakhs,Malayalam,Government Employee,Hindu,real
@@ -1117,13 +1117,13 @@ Nair,12th,Private Sector,INR 1 lakh to 2 lakhs,Malayalam,Others,Hindu,real
 Nair,Other Diploma,Private Sector,INR 1 lakh to 2 lakhs,Malayalam,Others,Hindu,real
 Others,MA (Arts),Private Sector,INR 1 lakh to 2 lakhs,Malayalam,Others,Christian,real
 Sunni,12th,Private Sector,INR 1 lakh to 2 lakhs,Malayalam,Sales/Business Development,Muslim,real
-Ezhava,B.Sc (Science),Private Sector,INR 10 lakhs  to 15 lakhs,Malayalam,Admin/Secretarial,Hindu,real
-Others,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Malayalam,Electronics,Christian,real
-Ezhava,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Malayalam,IT,Hindu,real
-Ezhava,B.Com (Commerce),MNC,INR 10 lakhs  to 15 lakhs,Malayalam,IT,Hindu,real
-Catholic,MBA/PGDM,MNC,INR 10 lakhs  to 15 lakhs,Malayalam,Management/Corporate Professionals,Christian,real
-Ezhava,B.Com (Commerce),Private Sector,INR 10 lakhs  to 15 lakhs,Malayalam,Purchase/Logistics/Supply chain,Hindu,real
-Nair,B.A. (Arts),Private Sector,INR 10 lakhs  to 15 lakhs,Malayalam,Sales/Business Development,Hindu,real
+Ezhava,B.Sc (Science),Private Sector,INR 10 lakhs to 15 lakhs,Malayalam,Admin/Secretarial,Hindu,real
+Others,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Malayalam,Electronics,Christian,real
+Ezhava,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Malayalam,IT,Hindu,real
+Ezhava,B.Com (Commerce),MNC,INR 10 lakhs to 15 lakhs,Malayalam,IT,Hindu,real
+Catholic,MBA/PGDM,MNC,INR 10 lakhs to 15 lakhs,Malayalam,Management/Corporate Professionals,Christian,real
+Ezhava,B.Com (Commerce),Private Sector,INR 10 lakhs to 15 lakhs,Malayalam,Purchase/Logistics/Supply chain,Hindu,real
+Nair,B.A. (Arts),Private Sector,INR 10 lakhs to 15 lakhs,Malayalam,Sales/Business Development,Hindu,real
 Ezhava,BE B.Tech (Engineering),Private Sector,INR 15 lakhs to 20 lakhs,Malayalam,Oil/Gas,Hindu,real
 Protestant,ML/LLM (Law),MNC,INR 15 lakhs to 20 lakhs,Malayalam,Management/Corporate Professionals,Christian,real
 Brahmin - Namboodiri,Other Diploma,Others,INR 15 lakhs to 20 lakhs,Malayalam,Travel/Airlines,Hindu,real
@@ -1157,8 +1157,8 @@ Others,B.Com (Commerce),MNC,INR 3 lakhs to 4 lakhs,Malayalam,Human Resource,Chri
 Vishwakarma,MCA/PGDCA,MNC,INR 3 lakhs to 4 lakhs,Malayalam,Others,Hindu,real
 Ezhava,B.Sc (Science),Others,INR 3 lakhs to 4 lakhs,Malayalam,Others,Hindu,real
 Catholic,PG Diploma,MNC,INR 3 lakhs to 4 lakhs,Malayalam,Pharmaceutical/Biotechnology,Christian,real
-Nair,BE B.Tech (Engineering),Public Sector,INR 30 lakhs to 35 lakhs,Malayalam,Merchant Navy,Hindu,real
-Sunni,Fashion/Design,Others,INR 35 lakhs to 40 lakhs,Malayalam,Others,Muslim,real
+Nair,BE B.Tech (Engineering),Public Sector,INR 30 lakhs to 40 lakhs,Malayalam,Merchant Navy,Hindu,real
+Sunni,Fashion/Design,Others,INR 30 lakhs to 40 lakhs,Malayalam,Others,Muslim,real
 Protestant,MBA/PGDM,MNC,INR 4 lakhs to 5 lakhs,Malayalam,Banking/Insurance/Financial Services,Christian,real
 Vaniya,Other Diploma,Others,INR 4 lakhs to 5 lakhs,Malayalam,Health Care,Hindu,real
 Nair Vaniya/Nair Vilakkithala,B.Com (Commerce),Private Sector,INR 4 lakhs to 5 lakhs,Malayalam,IT,Hindu,real
@@ -1171,12 +1171,12 @@ Nair,MBA/PGDM,Private Sector,INR 5 lakhs to 7 lakhs,Malayalam,Banking/Insurance/
 Sunni,B.Com (Commerce),Others,INR 5 lakhs to 7 lakhs,Malayalam,Finance and Accounts,Muslim,real
 Protestant,BPT (Physiotherapy),Private Sector,INR 5 lakhs to 7 lakhs,Malayalam,Health Care,Christian,real
 Nair,MA (Arts),Others,INR 50 lakhs and above,Malayalam,Business Owner/Entrepreneur,Hindu,real
-Catholic,B.Sc (Science),Private Sector,INR 50 thousand to  1 lakh,Malayalam,Business Owner/Entrepreneur,Christian,real
-Ezhava,Other Diploma,Public Sector,INR 50 thousand to  1 lakh,Malayalam,Hotels/Restaurants,Hindu,real
-Others,BE B.Tech (Engineering),Private Sector,INR 50 thousand to  1 lakh,Malayalam,Manufacturing/Engineering/R&D,Christian,real
-Catholic,BE B.Tech (Engineering),Private Sector,INR 50 thousand to  1 lakh,Malayalam,Oil/Gas,Christian,real
-Dheevara,Other Diploma,Private Sector,INR 50 thousand to  1 lakh,Malayalam,Others,Hindu,real
-Nair,12th,Private Sector,INR 50 thousand to  1 lakh,Malayalam,Others,Hindu,real
+Catholic,B.Sc (Science),Private Sector,INR 50 thousand to 1 lakh,Malayalam,Business Owner/Entrepreneur,Christian,real
+Ezhava,Other Diploma,Public Sector,INR 50 thousand to 1 lakh,Malayalam,Hotels/Restaurants,Hindu,real
+Others,BE B.Tech (Engineering),Private Sector,INR 50 thousand to 1 lakh,Malayalam,Manufacturing/Engineering/R&D,Christian,real
+Catholic,BE B.Tech (Engineering),Private Sector,INR 50 thousand to 1 lakh,Malayalam,Oil/Gas,Christian,real
+Dheevara,Other Diploma,Private Sector,INR 50 thousand to 1 lakh,Malayalam,Others,Hindu,real
+Nair,12th,Private Sector,INR 50 thousand to 1 lakh,Malayalam,Others,Hindu,real
 Catholic,Other Diploma,Private Sector,INR 7 lakhs to 10 lakhs,Malayalam,Admin/Secretarial,Christian,real
 Catholic,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Malayalam,Admin/Secretarial,Christian,real
 Ezhava,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Malayalam,Business Owner/Entrepreneur,Hindu,real
@@ -1188,26 +1188,26 @@ Nair,MCA/PGDCA,MNC,INR 7 lakhs to 10 lakhs,Malayalam,Management/Corporate Profes
 Catholic,Other Diploma,Others,INR 7 lakhs to 10 lakhs,Malayalam,Oil/Gas,Christian,real
 Nair,MBA/PGDM,MNC,INR 7 lakhs to 10 lakhs,Malayalam,Sales/Business Development,Hindu,real
 Vishwakarma,B.A. (Arts),Private Sector,INR 7 lakhs to 10 lakhs,Malayalam,Sales/Business Development,Hindu,real
-Nair,Masters,Others,INR Don't wish to specify,Malayalam,Marketing and Communications,Hindu,real
-Nair,M.Arch. (Architecture),MNC,INR Don't wish to specify,Malayalam,Architecture/Design,Hindu,real
-Protestant,BE B.Tech (Engineering),Others,INR Don't wish to specify,Malayalam,Business Owner/Entrepreneur,Christian,real
-Sunni,MA (Arts),Private Sector,INR Don't wish to specify,Malayalam,Construction,Muslim,real
-Guptan,MBA/PGDM,MNC,INR Don't wish to specify,Malayalam,Finance and Accounts,Hindu,real
-Catholic,B.Sc (Science),Private Sector,INR Don't wish to specify,Malayalam,Hotels/Restaurants,Christian,real
-Nair,MBA/PGDM,MNC,INR Don't wish to specify,Malayalam,Management/Corporate Professionals,Hindu,real
-Catholic,MBA/PGDM,MNC,INR Don't wish to specify,Malayalam,Management/Corporate Professionals,Christian,real
-Protestant,BE B.Tech (Engineering),MNC,INR Don't wish to specify,Malayalam,Manufacturing/Engineering/R&D,Christian,real
-Orthodox,B.A. (Arts),Private Sector,INR Don't wish to specify,Malayalam,Manufacturing/Engineering/R&D,Christian,real
-Orthodox,B.A. (Arts),Not working,INR Don't wish to specify,Malayalam,Non Working,Christian,real
-Sunni,12th,Private Sector,INR Don't wish to specify,Malayalam,Others,Muslim,real
-Nair,Engineering,Private Sector,INR Don't wish to specify,Malayalam,Others,Hindu,real
-Ezhava,Other Diploma,Others,INR Don't wish to specify,Malayalam,Real Estate,Hindu,real
-Ezhava,B.A. (Arts),MNC,INR Don't wish to specify,Malayalam,Sales/Business Development,Hindu,real
-Ezhava,MBA/PGDM,Private Sector,INR Don't wish to specify,Malayalam,Management/Corporate Professionals,Hindu,real
-Ezhava,B.Com (Commerce),Private Sector,INR Don't wish to specify,Malayalam,Finance and Accounts,Hindu,real
-Others,MBA/PGDM,Private Sector,INR Don't wish to specify,Malayalam,Finance and Accounts,Muslim,real
-Nair,MBA/PGDM,Private Sector,INR Don't wish to specify,Malayalam,Finance and Accounts,Hindu,real
-Ezhava,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR Don't wish to specify,Malayalam,Loss Prevention Manager,Hindu,real
+Nair,Masters,Others,Don't wish to specify,Malayalam,Marketing and Communications,Hindu,real
+Nair,M.Arch. (Architecture),MNC,Don't wish to specify,Malayalam,Architecture/Design,Hindu,real
+Protestant,BE B.Tech (Engineering),Others,Don't wish to specify,Malayalam,Business Owner/Entrepreneur,Christian,real
+Sunni,MA (Arts),Private Sector,Don't wish to specify,Malayalam,Construction,Muslim,real
+Guptan,MBA/PGDM,MNC,Don't wish to specify,Malayalam,Finance and Accounts,Hindu,real
+Catholic,B.Sc (Science),Private Sector,Don't wish to specify,Malayalam,Hotels/Restaurants,Christian,real
+Nair,MBA/PGDM,MNC,Don't wish to specify,Malayalam,Management/Corporate Professionals,Hindu,real
+Catholic,MBA/PGDM,MNC,Don't wish to specify,Malayalam,Management/Corporate Professionals,Christian,real
+Protestant,BE B.Tech (Engineering),MNC,Don't wish to specify,Malayalam,Manufacturing/Engineering/R&D,Christian,real
+Orthodox,B.A. (Arts),Private Sector,Don't wish to specify,Malayalam,Manufacturing/Engineering/R&D,Christian,real
+Orthodox,B.A. (Arts),Not Working,Don't wish to specify,Malayalam,Non Working,Christian,real
+Sunni,12th,Private Sector,Don't wish to specify,Malayalam,Others,Muslim,real
+Nair,Engineering,Private Sector,Don't wish to specify,Malayalam,Others,Hindu,real
+Ezhava,Other Diploma,Others,Don't wish to specify,Malayalam,Real Estate,Hindu,real
+Ezhava,B.A. (Arts),MNC,Don't wish to specify,Malayalam,Sales/Business Development,Hindu,real
+Ezhava,MBA/PGDM,Private Sector,Don't wish to specify,Malayalam,Management/Corporate Professionals,Hindu,real
+Ezhava,B.Com (Commerce),Private Sector,Don't wish to specify,Malayalam,Finance and Accounts,Hindu,real
+Others,MBA/PGDM,Private Sector,Don't wish to specify,Malayalam,Finance and Accounts,Muslim,real
+Nair,MBA/PGDM,Private Sector,Don't wish to specify,Malayalam,Finance and Accounts,Hindu,real
+Ezhava,ME/M.Tech/MS (Engg/Sciences),Private Sector,Don't wish to specify,Malayalam,Loss Prevention Manager,Hindu,real
 Dheevara,MBA/PGDM,Private Sector,INR Under 50 thousand,Malayalam,Marketing and Communications,Hindu,real
 Brahmin - Daivadnya,B.Com (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Marathi,Admin/Secretarial,Hindu,real
 Brahmin,B.Com (Commerce),MNC,INR 1 lakh to 2 lakhs,Marathi,Admin/Secretarial,Hindu,real
@@ -1234,21 +1234,21 @@ Maratha,B.Com (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Marathi,Pharmaceut
 Agri,B.Sc (Science),Private Sector,INR 1 lakh to 2 lakhs,Marathi,Purchase/Logistics/Supply chain,Hindu,real
 Chambhar,B.Com (Commerce),Others,INR 1 lakh to 2 lakhs,Marathi,Real Estate,Hindu,real
 Brahmin,B.Com (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Marathi,Real Estate,Hindu,real
-Bhandari,B.A. (Arts),Others,INR 10 lakhs  to 15 lakhs,Marathi,Advertising/Entertainment/Media,Hindu,real
-Brahmin - Kokanastha,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Marathi,Banking/Insurance/Financial Services,Hindu,real
-Maratha,BPT (Physiotherapy),Private Sector,INR 10 lakhs  to 15 lakhs,Marathi,Health Care,Hindu,real
-Maratha,MD/MS (Medicine),Private Sector,INR 10 lakhs  to 15 lakhs,Marathi,Health Care,Hindu,real
-Dhangar,MD/MS (Medicine),Private Sector,INR 10 lakhs  to 15 lakhs,Marathi,Health Care,Hindu,real
-Brahmin - Deshastha,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Marathi,IT,Hindu,real
-Maratha,MCA/PGDCA,MNC,INR 10 lakhs  to 15 lakhs,Marathi,IT,Hindu,real
-Maratha,ME/M.Tech/MS (Engg/Sciences),MNC,INR 10 lakhs  to 15 lakhs,Marathi,IT,Hindu,real
-Rajput,MCA/PGDCA,MNC,INR 10 lakhs  to 15 lakhs,Marathi,IT,Hindu,real
-Brahmin,MBA/PGDM,MNC,INR 10 lakhs  to 15 lakhs,Marathi,IT,Hindu,real
-Scheduled Caste,MCA/PGDCA,MNC,INR 10 lakhs  to 15 lakhs,Marathi,IT,Hindu,real
-Brahmin/Maratha/96K Kokanastha/Brahmin - Deshastha/Brahmin - Saraswat/CKP/Leva patil/Maharashtrian/Mali/Patil/Teli,B.A. (Arts),MNC,INR 10 lakhs  to 15 lakhs,Marathi,IT,Hindu,real
-Brahmin,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Marathi,Management/Corporate Professionals,Hindu,real
-96K Kokanastha,ME/M.Tech/MS (Engg/Sciences),MNC,INR 10 lakhs  to 15 lakhs,Marathi,Manufacturing/Engineering/R&D,Hindu,real
-96K Kokanastha,M.Sc. (Science),Private Sector,INR 10 lakhs  to 15 lakhs,Marathi,Science,Hindu,real
+Bhandari,B.A. (Arts),Others,INR 10 lakhs to 15 lakhs,Marathi,Advertising/Entertainment/Media,Hindu,real
+Brahmin - Kokanastha,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Marathi,Banking/Insurance/Financial Services,Hindu,real
+Maratha,BPT (Physiotherapy),Private Sector,INR 10 lakhs to 15 lakhs,Marathi,Health Care,Hindu,real
+Maratha,MD/MS (Medicine),Private Sector,INR 10 lakhs to 15 lakhs,Marathi,Health Care,Hindu,real
+Dhangar,MD/MS (Medicine),Private Sector,INR 10 lakhs to 15 lakhs,Marathi,Health Care,Hindu,real
+Brahmin - Deshastha,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Marathi,IT,Hindu,real
+Maratha,MCA/PGDCA,MNC,INR 10 lakhs to 15 lakhs,Marathi,IT,Hindu,real
+Maratha,ME/M.Tech/MS (Engg/Sciences),MNC,INR 10 lakhs to 15 lakhs,Marathi,IT,Hindu,real
+Rajput,MCA/PGDCA,MNC,INR 10 lakhs to 15 lakhs,Marathi,IT,Hindu,real
+Brahmin,MBA/PGDM,MNC,INR 10 lakhs to 15 lakhs,Marathi,IT,Hindu,real
+Scheduled Caste,MCA/PGDCA,MNC,INR 10 lakhs to 15 lakhs,Marathi,IT,Hindu,real
+Brahmin,B.A. (Arts),MNC,INR 10 lakhs to 15 lakhs,Marathi,IT,Hindu,real
+Brahmin,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Marathi,Management/Corporate Professionals,Hindu,real
+96K Kokanastha,ME/M.Tech/MS (Engg/Sciences),MNC,INR 10 lakhs to 15 lakhs,Marathi,Manufacturing/Engineering/R&D,Hindu,real
+96K Kokanastha,M.Sc. (Science),Private Sector,INR 10 lakhs to 15 lakhs,Marathi,Science,Hindu,real
 Intercaste,MD/MS (Medicine),Private Sector,INR 15 lakhs to 20 lakhs,Marathi,Health Care,Hindu,real
 Brahmin - Saraswat,BHM (Hotel Management),Others,INR 15 lakhs to 20 lakhs,Marathi,Hotels/Restaurants,Hindu,real
 Brahmin -Gowd Saraswat,MBA/PGDM,MNC,INR 15 lakhs to 20 lakhs,Marathi,Human Resource,Hindu,real
@@ -1305,7 +1305,7 @@ Brahmin,BL/LLB/BGL (Law),Others,INR 3 lakhs to 4 lakhs,Marathi,Legal,Hindu,real
 Agri,B.A. (Arts),Private Sector,INR 3 lakhs to 4 lakhs,Marathi,Management/Corporate Professionals,Hindu,real
 Vaddera,BE B.Tech (Engineering),MNC,INR 3 lakhs to 4 lakhs,Marathi,Manufacturing/Engineering/R&D,Hindu,real
 Maratha,B.Sc (Science),MNC,INR 3 lakhs to 4 lakhs,Marathi,Manufacturing/Engineering/R&D,Hindu,real
-Maratha,MCA/PGDCA,Private Sector,INR 30 lakhs to 35 lakhs,Marathi,IT,Hindu,real
+Maratha,MCA/PGDCA,Private Sector,INR 30 lakhs to 40 lakhs,Marathi,IT,Hindu,real
 Maratha,BE B.Tech (Engineering),Private Sector,INR 4 lakhs to 5 lakhs,Marathi,Admin/Secretarial,Hindu,real
 Maratha,BFA (Fine Arts),Private Sector,INR 4 lakhs to 5 lakhs,Marathi,Advertising/Entertainment/Media,Hindu,real
 Sonar,B.Arch (Architecture),Others,INR 4 lakhs to 5 lakhs,Marathi,Architecture/Design,Hindu,real
@@ -1327,7 +1327,7 @@ Leva patil,BE B.Tech (Engineering),Private Sector,INR 5 lakhs to 7 lakhs,Marathi
 Maratha,BE B.Tech (Engineering),MNC,INR 5 lakhs to 7 lakhs,Marathi,IT,Hindu,real
 Brahmin - Kokanastha,BE B.Tech (Engineering),Private Sector,INR 50 lakhs and above,Marathi,IT,Hindu,real
 Scheduled Caste,B.Sc (Science),Private Sector,INR 50 lakhs and above,Marathi,Others,Hindu,real
-Maratha,Other Diploma,Private Sector,INR 50 thousand to  1 lakh,Marathi,Artists/Animators/Web Designers,Hindu,real
+Maratha,Other Diploma,Private Sector,INR 50 thousand to 1 lakh,Marathi,Artists/Animators/Web Designers,Hindu,real
 Kunbi,BE B.Tech (Engineering),MNC,INR 7 lakhs to 10 lakhs,Marathi,Architecture/Design,Hindu,real
 Brahmin,B.Sc (Science),Others,INR 7 lakhs to 10 lakhs,Marathi,Business Owner/Entrepreneur,Hindu,real
 Brahmin,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Marathi,Construction,Hindu,real
@@ -1360,26 +1360,26 @@ Koshti,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Marathi,Ot
 96K Kokanastha,B.Sc (Science),Private Sector,INR 7 lakhs to 10 lakhs,Marathi,Sales/Business Development,Hindu,real
 Brahmin -Gowd Saraswat,B.Sc (Science),Private Sector,INR 7 lakhs to 10 lakhs,Marathi,Sales/Business Development,Hindu,real
 Koshti,M.Sc. (Science),Private Sector,INR 7 lakhs to 10 lakhs,Marathi,Telecom/ISP,Hindu,real
-Maheshwari,Arts/Graphic Designing,Private Sector,INR Don't wish to specify,Marathi,Artists/Animators/Web Designers,Hindu,real
-Maratha,10th,Private Sector,INR Don't wish to specify,Marathi,Electronics,Hindu,real
-Brahmin,MD/MS (Medicine),Private Sector,INR Don't wish to specify,Marathi,Health Care,Hindu,real
-Brahmin - Deshastha,Other Diploma,Private Sector,INR Don't wish to specify,Marathi,Hotels/Restaurants,Hindu,real
-Vaishnav Vania,MBA/PGDM,MNC,INR Don't wish to specify,Marathi,Oil/Gas,Hindu,real
-CKP,MBA/PGDM,MNC,INR Don't wish to specify,Marathi,Travel/Airlines,Hindu,real
-Maratha,BE B.Tech (Engineering),Public Sector,INR Don't wish to specify,Marathi,Admin/Secretarial,Hindu,real
-Maratha,Other Post Graduation,State Government,INR Don't wish to specify,Marathi,Advertising/Entertainment/Media,Hindu,real
-Maratha,Arts/Graphic Designing,Private Sector,INR Don't wish to specify,Marathi,Finance and Accounts,Hindu,real
-Maratha,CFA (Chartered Financial Analyst),Others,INR Don't wish to specify,Marathi,Finance and Accounts,Hindu,real
-Gujarati,10th,Others,INR Don't wish to specify,Marathi,Others,Hindu,real
-Maratha,MBA/PGDM,MNC,INR Don't wish to specify,Marathi,Others,Hindu,real
-Vanjari,BE B.Tech (Engineering),Private Sector,INR Don't wish to specify,Marathi,Telecom/ISP,Hindu,real
+Maheshwari,Arts/Graphic Designing,Private Sector,Don't wish to specify,Marathi,Artists/Animators/Web Designers,Hindu,real
+Maratha,10th,Private Sector,Don't wish to specify,Marathi,Electronics,Hindu,real
+Brahmin,MD/MS (Medicine),Private Sector,Don't wish to specify,Marathi,Health Care,Hindu,real
+Brahmin - Deshastha,Other Diploma,Private Sector,Don't wish to specify,Marathi,Hotels/Restaurants,Hindu,real
+Vaishnav Vania,MBA/PGDM,MNC,Don't wish to specify,Marathi,Oil/Gas,Hindu,real
+CKP,MBA/PGDM,MNC,Don't wish to specify,Marathi,Travel/Airlines,Hindu,real
+Maratha,BE B.Tech (Engineering),Public Sector,Don't wish to specify,Marathi,Admin/Secretarial,Hindu,real
+Maratha,Other Post Graduation,State Government,Don't wish to specify,Marathi,Advertising/Entertainment/Media,Hindu,real
+Maratha,Arts/Graphic Designing,Private Sector,Don't wish to specify,Marathi,Finance and Accounts,Hindu,real
+Maratha,CFA (Chartered Financial Analyst),Others,Don't wish to specify,Marathi,Finance and Accounts,Hindu,real
+Gujarati,10th,Others,Don't wish to specify,Marathi,Others,Hindu,real
+Maratha,MBA/PGDM,MNC,Don't wish to specify,Marathi,Others,Hindu,real
+Vanjari,BE B.Tech (Engineering),Private Sector,Don't wish to specify,Marathi,Telecom/ISP,Hindu,real
 Scheduled Caste,B.Arch (Architecture),State Government,INR Under 50 thousand,Marathi,Government Employee,Hindu,real
 Brahmin - Deshastha,Integrated PG,Private Sector,INR Under 50 thousand,Marathi,Others,Hindu,real
 Catholic,B.Com (Commerce),Private Sector,INR 2 lakhs to 3 lakhs,Marathi,Finance and Accounts,Christian,real
 Darji,Master of Fashion Technology,Others,INR 1 lakh to 2 lakhs,Marwari,Beauty/Fashion/Jewellery Designers,Hindu,real
 Rajput,10th,Others,INR 1 lakh to 2 lakhs,Marwari,Others,Hindu,real
-Marwari,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Marwari,IT,Hindu,real
-Shewetamber,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Marwari,Management/Corporate Professionals,Jain,real
+Marwari,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Marwari,IT,Hindu,real
+Shewetamber,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Marwari,Management/Corporate Professionals,Jain,real
 Shewetamber,BBA/BBM/BBS,Not Working,INR 15 lakhs to 20 lakhs,Marwari,Business Owner/Entrepreneur,Jain,real
 Marwari,MCA/PGDCA,Private Sector,INR 2 lakhs to 3 lakhs,Marwari,IT,Hindu,real
 Shewetamber,B.Com (Commerce),Others,INR 2 lakhs to 3 lakhs,Marwari,Others,Jain,real
@@ -1391,7 +1391,7 @@ Mali,ME/M.Tech/MS (Engg/Sciences),MNC,INR 25 lakhs to 30 lakhs,Marwari,IT,Hindu,
 Agarwal,B.Com (Commerce),Not Working,INR 3 lakhs to 4 lakhs,Marwari,Business Owner/Entrepreneur,Hindu,real
 Mahendra,MBA/PGDM,Private Sector,INR 3 lakhs to 4 lakhs,Marwari,Management/Corporate Professionals,Hindu,real
 Rajput,BE B.Tech (Engineering),Private Sector,INR 3 lakhs to 4 lakhs,Marwari,Telecom/ISP,Hindu,real
-Sikh - Lubana,MBA/PGDM,State Government,INR 30 lakhs to 35 lakhs,Marwari,Export/Import,Sikh,real
+Sikh - Lubana,MBA/PGDM,State Government,INR 30 lakhs to 40 lakhs,Marwari,Export/Import,Sikh,real
 Khatri,MCA PGDCA part time,State Government,INR 4 lakhs to 5 lakhs,Marwari,Customer Service/Call Centre/BPO,Hindu,real
 Shewetamber,MD/MS (Medicine),Private Sector,INR 4 lakhs to 5 lakhs,Marwari,Health Care,Jain,real
 Agarwal,B.A. (Arts),Private Sector,INR 4 lakhs to 5 lakhs,Marwari,Sales/Business Development,Hindu,real
@@ -1401,8 +1401,8 @@ Agarwal,MA (Arts),Others,INR 7 lakhs to 10 lakhs,Marwari,Business Owner/Entrepre
 Agarwal,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Marwari,IT,Hindu,real
 Mahendra,BE B.Tech (Engineering),MNC,INR 7 lakhs to 10 lakhs,Marwari,IT,Hindu,real
 Agarwal,B.Com (Commerce),Private Sector,INR 7 lakhs to 10 lakhs,Marwari,Retail Chains,Hindu,real
-Agarwal,B.Com (Commerce),Not Working,INR Don't wish to specify,Marwari,Business Owner/Entrepreneur,Hindu,real
-Shewetamber,10th,Not Working,INR Don't wish to specify,Marwari,Non Working,Jain,real
+Agarwal,B.Com (Commerce),Not Working,Don't wish to specify,Marwari,Business Owner/Entrepreneur,Hindu,real
+Shewetamber,10th,Not Working,Don't wish to specify,Marwari,Non Working,Jain,real
 Nepali,MBA/PGDM,MNC,INR 2 lakhs to 3 lakhs,Nepali,Admin/Secretarial,Hindu,real
 Kshatriya,ME/M.Tech/MS (Engg/Sciences),MNC,INR 4 lakhs to 5 lakhs,Nepali,IT,Hindu,real
 Kshatriya,MBA/PGDM,MNC,INR 4 lakhs to 5 lakhs,Nepali,Marketing and Communications,Hindu,real
@@ -1412,16 +1412,16 @@ Khandayat,M.Com. (Commerce),State Government,INR 1 lakh to 2 lakhs,Oriya,Educati
 Oriya,B.A. (Arts),Private Sector,INR 1 lakh to 2 lakhs,Oriya,Finance and Accounts,Hindu,real
 Teli,BE B.Tech (Engineering),Central Government,INR 1 lakh to 2 lakhs,Oriya,Manufacturing/Engineering/R&D,Hindu,real
 Brahmin,B.Com (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Oriya,Manufacturing/Engineering/R&D,Hindu,real
-Kshatriya,M.Arch. (Architecture),Public Sector,INR 10 lakhs  to 15 lakhs,Oriya,Architecture/Design,Hindu,real
-Khandayat,MBA/PGDM,Central Government,INR 10 lakhs  to 15 lakhs,Oriya,Defence,Hindu,real
-Brahmin,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 10 lakhs  to 15 lakhs,Oriya,Manufacturing/Engineering/R&D,Hindu,real
+Kshatriya,M.Arch. (Architecture),Public Sector,INR 10 lakhs to 15 lakhs,Oriya,Architecture/Design,Hindu,real
+Khandayat,MBA/PGDM,Central Government,INR 10 lakhs to 15 lakhs,Oriya,Defence,Hindu,real
+Brahmin,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 10 lakhs to 15 lakhs,Oriya,Manufacturing/Engineering/R&D,Hindu,real
 Scheduled Caste,BE B.Tech (Engineering),Private Sector,INR 2 lakhs to 3 lakhs,Oriya,IT,Hindu,real
 Khandayat,BCA (Computer Application),Private Sector,INR 2 lakhs to 3 lakhs,Oriya,IT,Hindu,real
 Protestant,B.Com (Commerce),Others,INR 2 lakhs to 3 lakhs,Oriya,Legal,Christian,real
 Kshatriya,MA (Arts),Private Sector,INR 3 lakhs to 4 lakhs,Oriya,Admin/Secretarial,Hindu,real
 Karana,MBA/PGDM,MNC,INR 3 lakhs to 4 lakhs,Oriya,Customer Service/Call Centre/BPO,Hindu,real
 Khandayat,PG Diploma,Central Government,INR 3 lakhs to 4 lakhs,Oriya,Government Employee,Hindu,real
-Khandayat,B.Sc (Science),Private Sector,INR 30 lakhs to 35 lakhs,Oriya,IT,Hindu,real
+Khandayat,B.Sc (Science),Private Sector,INR 30 lakhs to 40 lakhs,Oriya,IT,Hindu,real
 Brahmin - Danua,BBA/BBM/BBS,Private Sector,INR 4 lakhs to 5 lakhs,Oriya,Banking/Insurance/Financial Services,Hindu,real
 Khandayat,MBA/PGDM,Private Sector,INR 4 lakhs to 5 lakhs,Oriya,Finance and Accounts,Hindu,real
 Khandayat,MCA/PGDCA,Private Sector,INR 4 lakhs to 5 lakhs,Oriya,IT,Hindu,real
@@ -1431,7 +1431,7 @@ Kalinga Vysya,ICWA,Private Sector,INR 4 lakhs to 5 lakhs,Oriya,Real Estate,Hindu
 Brahmin,BE B.Tech (Engineering),Private Sector,INR 40 lakhs to 50 lakhs,Oriya,IT,Hindu,real
 Khandayat,Other Diploma,Private Sector,INR 5 lakhs to 7 lakhs,Oriya,Manufacturing/Engineering/R&D,Hindu,real
 Brahmin,BE B.Tech (Engineering),MNC,INR 50 lakhs and above,Oriya,Manufacturing/Engineering/R&D,Hindu,real
-Brahmin,B.A. (Arts),Private Sector,INR 50 thousand to  1 lakh,Oriya,Finance and Accounts,Hindu,real
+Brahmin,B.A. (Arts),Private Sector,INR 50 thousand to 1 lakh,Oriya,Finance and Accounts,Hindu,real
 Brahmin,MBA/PGDM,Public Sector,INR 7 lakhs to 10 lakhs,Oriya,Banking/Insurance/Financial Services,Hindu,real
 Vishwakarma,BE B.Tech (Engineering),Public Sector,INR 7 lakhs to 10 lakhs,Oriya,Construction,Hindu,real
 Teli,CA (Chartered Accountant),Public Sector,INR 7 lakhs to 10 lakhs,Oriya,Finance and Accounts,Hindu,real
@@ -1440,12 +1440,12 @@ Brahmin - Halua,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,O
 Khandayat,BE B.Tech (Engineering),MNC,INR 7 lakhs to 10 lakhs,Oriya,IT,Hindu,real
 Vishwakarma,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 7 lakhs to 10 lakhs,Oriya,Manufacturing/Engineering/R&D,Hindu,real
 Brahmin,BE B.Tech (Engineering),MNC,INR 7 lakhs to 10 lakhs,Oriya,Oil/Gas,Hindu,real
-Kshatriya,M.Sc. (Science),MNC,INR Don't wish to specify,Oriya,Admin/Secretarial,Hindu,real
+Kshatriya,M.Sc. (Science),MNC,Don't wish to specify,Oriya,Admin/Secretarial,Hindu,real
 Varshney,B.Lib.Sc (Library Sciences),State Government,INR 2 lakhs to 3 lakhs,Others,Education/Training,Hindu,real
 Catholic,BE B.Tech (Engineering),MNC,INR 7 lakhs to 10 lakhs,Others,IT,Christian,real
 Others,Other Diploma,Central Government,INR Under 50 thousand,Others,Manufacturing/Engineering/R&D,Muslim,real
 Sunni,B.Sc (Science),Private Sector,INR Under 50 thousand,Others,Artists/Animators/Web Designers,Muslim,real
-Sia,Ph.D. (Doctorate),Others,INR Don't wish to specify,Persian,Education/Training,Muslim,real
+Sia,Ph.D. (Doctorate),Others,Don't wish to specify,Persian,Education/Training,Muslim,real
 Arora,B.Com (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Punjabi,Admin/Secretarial,Hindu,real
 Brahmin,B.A. (Arts),Private Sector,INR 1 lakh to 2 lakhs,Punjabi,Admin/Secretarial,Hindu,real
 Agarwal,Other Post Graduation,Others,INR 1 lakh to 2 lakhs,Punjabi,Business Owner/Entrepreneur,Hindu,real
@@ -1455,24 +1455,24 @@ Sikh - Rajput,12th,Private Sector,INR 1 lakh to 2 lakhs,Punjabi,Health Care,Sikh
 Punjabi,B.A. (Arts),MNC,INR 1 lakh to 2 lakhs,Punjabi,IT,Hindu,real
 Sikh - Arora,BBA/BBM/BBS,Others,INR 1 lakh to 2 lakhs,Punjabi,Others,Sikh,real
 Brahmin - Saraswat,12th,Others,INR 1 lakh to 2 lakhs,Punjabi,Others,Hindu,real
-Punjabi,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Punjabi,Admin/Secretarial,Hindu,real
-Sikh - Jat,PG Diploma,Private Sector,INR 10 lakhs  to 15 lakhs,Punjabi,Admin/Secretarial,Sikh,real
-Arora,MBA/PGDM,MNC,INR 10 lakhs  to 15 lakhs,Punjabi,Banking/Insurance/Financial Services,Hindu,real
-Arora,MCA PGDCA part time,Public Sector,INR 10 lakhs  to 15 lakhs,Punjabi,Business Owner/Entrepreneur,Hindu,real
-Arora,B.Com (Commerce),Others,INR 10 lakhs  to 15 lakhs,Punjabi,Business Owner/Entrepreneur,Hindu,real
-Agarwal,ML/LLM (Law),State Government,INR 10 lakhs  to 15 lakhs,Punjabi,Civil Services/Law Enforcement,Hindu,real
-Rajput,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Punjabi,Construction,Hindu,real
-Khatri,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Punjabi,Education/Training,Hindu,real
-Khatri,BE B.Tech (Engineering),Others,INR 10 lakhs  to 15 lakhs,Punjabi,Electronics,Hindu,real
-Arora,BDS (Dental Surgery),Others,INR 10 lakhs  to 15 lakhs,Punjabi,Health Care,Hindu,real
-Sikh - Arora,MCA/PGDCA,Private Sector,INR 10 lakhs  to 15 lakhs,Punjabi,IT,Sikh,real
-Brahmin/Rajput/Khatri/Arora/Kshatriya/Brahmin - Saraswat/Kalwar/Rajput Rohella/Tank/Saini/Soni,ME/M.Tech/MS (Engg/Sciences),MNC,INR 10 lakhs  to 15 lakhs,Punjabi,IT,Hindu,real
-Khatri,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Punjabi,Management/Corporate Professionals,Hindu,real
-Agarwal,MBA/PGDM,Public Sector,INR 10 lakhs  to 15 lakhs,Punjabi,Marketing and Communications,Hindu,real
-Khatri,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Punjabi,Pharmaceutical/Biotechnology,Hindu,real
-Brahmin,M.Com. (Commerce),Private Sector,INR 10 lakhs  to 15 lakhs,Punjabi,Real Estate,Hindu,real
-Khatri,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Punjabi,Retail Chains,Hindu,real
-Agarwal,M.Com. (Commerce),Private Sector,INR 10 lakhs  to 15 lakhs,Punjabi,Sales/Business Development,Hindu,real
+Punjabi,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Punjabi,Admin/Secretarial,Hindu,real
+Sikh - Jat,PG Diploma,Private Sector,INR 10 lakhs to 15 lakhs,Punjabi,Admin/Secretarial,Sikh,real
+Arora,MBA/PGDM,MNC,INR 10 lakhs to 15 lakhs,Punjabi,Banking/Insurance/Financial Services,Hindu,real
+Arora,MCA PGDCA part time,Public Sector,INR 10 lakhs to 15 lakhs,Punjabi,Business Owner/Entrepreneur,Hindu,real
+Arora,B.Com (Commerce),Others,INR 10 lakhs to 15 lakhs,Punjabi,Business Owner/Entrepreneur,Hindu,real
+Agarwal,ML/LLM (Law),State Government,INR 10 lakhs to 15 lakhs,Punjabi,Civil Services/Law Enforcement,Hindu,real
+Rajput,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Punjabi,Construction,Hindu,real
+Khatri,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Punjabi,Education/Training,Hindu,real
+Khatri,BE B.Tech (Engineering),Others,INR 10 lakhs to 15 lakhs,Punjabi,Electronics,Hindu,real
+Arora,BDS (Dental Surgery),Others,INR 10 lakhs to 15 lakhs,Punjabi,Health Care,Hindu,real
+Sikh - Arora,MCA/PGDCA,Private Sector,INR 10 lakhs to 15 lakhs,Punjabi,IT,Sikh,real
+Brahmin,ME/M.Tech/MS (Engg/Sciences),MNC,INR 10 lakhs to 15 lakhs,Punjabi,IT,Hindu,real
+Khatri,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Punjabi,Management/Corporate Professionals,Hindu,real
+Agarwal,MBA/PGDM,Public Sector,INR 10 lakhs to 15 lakhs,Punjabi,Marketing and Communications,Hindu,real
+Khatri,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Punjabi,Pharmaceutical/Biotechnology,Hindu,real
+Brahmin,M.Com. (Commerce),Private Sector,INR 10 lakhs to 15 lakhs,Punjabi,Real Estate,Hindu,real
+Khatri,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Punjabi,Retail Chains,Hindu,real
+Agarwal,M.Com. (Commerce),Private Sector,INR 10 lakhs to 15 lakhs,Punjabi,Sales/Business Development,Hindu,real
 Khatri,MCA/PGDCA,Private Sector,INR 15 lakhs to 20 lakhs,Punjabi,IT,Hindu,real
 Khatri,BL/LLB/BGL (Law),State Government,INR 15 lakhs to 20 lakhs,Punjabi,Legal,Hindu,real
 Mahajan,MBA/PGDM,MNC,INR 15 lakhs to 20 lakhs,Punjabi,Marketing and Communications,Hindu,real
@@ -1509,11 +1509,11 @@ Arora,B.Sc (Science),Private Sector,INR 3 lakhs to 4 lakhs,Punjabi,Others,Hindu,
 Nai,M.Sc. (Science),Private Sector,INR 3 lakhs to 4 lakhs,Punjabi,Sales/Business Development,Hindu,real
 Khatri,B.A. (Arts),Private Sector,INR 3 lakhs to 4 lakhs,Punjabi,Sales/Business Development,Hindu,real
 Arora,MBA/PGDM,Private Sector,INR 3 lakhs to 4 lakhs,Punjabi,Travel/Airlines,Hindu,real
-Sikh - Khatri,B.Com (Commerce),Private Sector,INR 30 lakhs to 35 lakhs,Punjabi,Business Owner/Entrepreneur,Sikh,real
-Sunni,B.Com (Commerce),State Government,INR 30 lakhs to 35 lakhs,Punjabi,Travel/Airlines,Muslim,real
-Rajput,BE B.Tech (Engineering),Others,INR 35 lakhs to 40 lakhs,Punjabi,IT,Hindu,real
-Sikh - Ramgharia,BE B.Tech (Engineering),Private Sector,INR 35 lakhs to 40 lakhs,Punjabi,Marketing and Communications,Sikh,real
-Khatri,MBA/PGDM,MNC,INR 35 lakhs to 40 lakhs,Punjabi,Sales/Business Development,Hindu,real
+Sikh - Khatri,B.Com (Commerce),Private Sector,INR 30 lakhs to 40 lakhs,Punjabi,Business Owner/Entrepreneur,Sikh,real
+Sunni,B.Com (Commerce),State Government,INR 30 lakhs to 40 lakhs,Punjabi,Travel/Airlines,Muslim,real
+Rajput,BE B.Tech (Engineering),Others,INR 30 lakhs to 40 lakhs,Punjabi,IT,Hindu,real
+Sikh - Ramgharia,BE B.Tech (Engineering),Private Sector,INR 30 lakhs to 40 lakhs,Punjabi,Marketing and Communications,Sikh,real
+Khatri,MBA/PGDM,MNC,INR 30 lakhs to 40 lakhs,Punjabi,Sales/Business Development,Hindu,real
 Khatri,MBA/PGDM,Private Sector,INR 4 lakhs to 5 lakhs,Punjabi,Business Owner/Entrepreneur,Hindu,real
 Sikh - Arora,MBA/PGDM,Others,INR 4 lakhs to 5 lakhs,Punjabi,Business Owner/Entrepreneur,Sikh,real
 Soni,12th,Others,INR 4 lakhs to 5 lakhs,Punjabi,Business Owner/Entrepreneur,Hindu,real
@@ -1538,7 +1538,7 @@ Agarwal,M.Com. (Commerce),Others,INR 50 lakhs and above,Punjabi,Others,Hindu,rea
 Sikh - Jat,PG Diploma,Private Sector,INR 50 lakhs and above,Punjabi,Advertising/Entertainment/Media,Sikh,real
 Sikh - Arora,MBA/PGDM,Private Sector,INR 50 lakhs and above,Punjabi,Advertising/Entertainment/Media,Sikh,real
 Sikh - Ramgharia,ME/M.Tech/MS (Engg/Sciences),MNC,INR 50 lakhs and above,Punjabi,Electronics,Sikh,real
-Sikh - Arora,Other Diploma,Others,INR 50 thousand to  1 lakh,Punjabi,Others,Sikh,real
+Sikh - Arora,Other Diploma,Others,INR 50 thousand to 1 lakh,Punjabi,Others,Sikh,real
 Sikh - Khatri,B.A. (Arts),Others,INR 7 lakhs to 10 lakhs,Punjabi,Advertising/Entertainment/Media,Sikh,real
 Sikh - Khatri,BFA (Fine Arts),MNC,INR 7 lakhs to 10 lakhs,Punjabi,Artists/Animators/Web Designers,Sikh,real
 Khatri,B.Com (Commerce),Private Sector,INR 7 lakhs to 10 lakhs,Punjabi,Banking/Insurance/Financial Services,Hindu,real
@@ -1566,36 +1566,36 @@ Khatri,Other Diploma,Others,INR 7 lakhs to 10 lakhs,Punjabi,Sales/Business Devel
 Arora,B.A. (Arts),Others,INR 7 lakhs to 10 lakhs,Punjabi,Sales/Business Development,Hindu,real
 Sikh - Arora,BE B.Tech (Engineering),MNC,INR 7 lakhs to 10 lakhs,Punjabi,Telecom/ISP,Sikh,real
 Arora,BE B.Tech (Engineering),MNC,INR 7 lakhs to 10 lakhs,Punjabi,Telecom/ISP,Hindu,real
-Sikh - Ramgharia,B.A. (Arts),Private Sector,INR Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Sikh,real
-Arora,CA (Chartered Accountant),MNC,INR Don't wish to specify,Punjabi,Banking/Insurance/Financial Services,Hindu,real
-Brahmin,BE B.Tech (Engineering),Others,INR Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Hindu,real
-Sikh - Clean Shaven,B.A. (Arts),Others,INR Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Sikh,real
-Rajput,B.Sc (Science),State Government,INR Don't wish to specify,Punjabi,Government Employee,Hindu,real
-Sikh - Jat,12th,Public Sector,INR Don't wish to specify,Punjabi,Hotels/Restaurants,Sikh,real
-Brahmin,Other Diploma,Not Working,INR Don't wish to specify,Punjabi,Non Working,Hindu,real
-Sikh - Jat,10th,Not Working,INR Don't wish to specify,Punjabi,Non Working,Sikh,real
-Sikh - Arora,B.A. (Arts),Not working,INR Don't wish to specify,Punjabi,Non Working,Sikh,real
-Mehra,B.Com (Commerce),Not Working,INR Don't wish to specify,Punjabi,Non Working,Hindu,real
-Sikh - Gursikh,B.Com (Commerce),Public Sector,INR Don't wish to specify,Punjabi,Education/Training,Sikh,real
-Sikh - Ramgharia,PG Diploma,Private Sector,INR Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Sikh,real
-Sikh - Khatri,MA (Arts),Private Sector,INR Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Sikh,real
-Others,PG Diploma,MNC,INR Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Muslim,real
-Sikh - Lubana,ME/M.Tech/MS (Engg/Sciences),State Government,INR Don't wish to specify,Punjabi,Health Care,Sikh,real
-Sikh - Ahluwalia,B.Com (Commerce),Private Sector,INR Don't wish to specify,Punjabi,Marketing and Communications,Sikh,real
-Rajput,MBA/PGDM,Private Sector,INR Don't wish to specify,Punjabi,Retail Chains,Hindu,real
-Khatri,Engineering,Private Sector,INR Don't wish to specify,Punjabi,Sales/Business Development,Hindu,real
-Sikh - Jat,Ph.D. (Doctorate),Central Government,INR Don't wish to specify,Punjabi,Science,Sikh,real
-Sikh - Ramgharia,BE B.Tech (Engineering),Private Sector,INR Don't wish to specify,Punjabi,Telecom/ISP,Sikh,real
-Sikh - Gursikh,ML/LLM (Law),Private Sector,INR Don't wish to specify,Punjabi,Legal,Sikh,real
-Punjabi,B.Sc (Science),Private Sector,INR Don't wish to specify,Punjabi,Purchase/Logistics/Supply chain,Hindu,real
+Sikh - Ramgharia,B.A. (Arts),Private Sector,Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Sikh,real
+Arora,CA (Chartered Accountant),MNC,Don't wish to specify,Punjabi,Banking/Insurance/Financial Services,Hindu,real
+Brahmin,BE B.Tech (Engineering),Others,Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Hindu,real
+Sikh - Clean Shaven,B.A. (Arts),Others,Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Sikh,real
+Rajput,B.Sc (Science),State Government,Don't wish to specify,Punjabi,Government Employee,Hindu,real
+Sikh - Jat,12th,Public Sector,Don't wish to specify,Punjabi,Hotels/Restaurants,Sikh,real
+Brahmin,Other Diploma,Not Working,Don't wish to specify,Punjabi,Non Working,Hindu,real
+Sikh - Jat,10th,Not Working,Don't wish to specify,Punjabi,Non Working,Sikh,real
+Sikh - Arora,B.A. (Arts),Not Working,Don't wish to specify,Punjabi,Non Working,Sikh,real
+Mehra,B.Com (Commerce),Not Working,Don't wish to specify,Punjabi,Non Working,Hindu,real
+Sikh - Gursikh,B.Com (Commerce),Public Sector,Don't wish to specify,Punjabi,Education/Training,Sikh,real
+Sikh - Ramgharia,PG Diploma,Private Sector,Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Sikh,real
+Sikh - Khatri,MA (Arts),Private Sector,Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Sikh,real
+Others,PG Diploma,MNC,Don't wish to specify,Punjabi,Business Owner/Entrepreneur,Muslim,real
+Sikh - Lubana,ME/M.Tech/MS (Engg/Sciences),State Government,Don't wish to specify,Punjabi,Health Care,Sikh,real
+Sikh - Ahluwalia,B.Com (Commerce),Private Sector,Don't wish to specify,Punjabi,Marketing and Communications,Sikh,real
+Rajput,MBA/PGDM,Private Sector,Don't wish to specify,Punjabi,Retail Chains,Hindu,real
+Khatri,Engineering,Private Sector,Don't wish to specify,Punjabi,Sales/Business Development,Hindu,real
+Sikh - Jat,Ph.D. (Doctorate),Central Government,Don't wish to specify,Punjabi,Science,Sikh,real
+Sikh - Ramgharia,BE B.Tech (Engineering),Private Sector,Don't wish to specify,Punjabi,Telecom/ISP,Sikh,real
+Sikh - Gursikh,ML/LLM (Law),Private Sector,Don't wish to specify,Punjabi,Legal,Sikh,real
+Punjabi,B.Sc (Science),Private Sector,Don't wish to specify,Punjabi,Purchase/Logistics/Supply chain,Hindu,real
 Shewetamber,B.Com (Commerce),Public Sector,INR 1 lakh to 2 lakhs,Rajasthani,Finance and Accounts,Jain,real
 Brahmin,MBA/PGDM,MNC,INR 1 lakh to 2 lakhs,Rajasthani,Human Resource,Hindu,real
 Agarwal,B.Sc (Science),MNC,INR 3 lakhs to 4 lakhs,Rajasthani,IT,Hindu,real
 Rajput,12th,Private Sector,INR 3 lakhs to 4 lakhs,Rajasthani,Management/Corporate Professionals,Hindu,real
 Brahmin,MBA/PGDM,MNC,INR 4 lakhs to 5 lakhs,Rajasthani,IT,Hindu,real
 Scheduled Caste,BHMS (Homeopathy),Private Sector,INR 5 lakhs to 7 lakhs,Rajasthani,Health Care,Hindu,real
-Sindhi,MBA/PGDM,Others,INR 10 lakhs  to 15 lakhs,Sindhi,Business Owner/Entrepreneur,Hindu,real
-Sindhi,MBA/PGDM,Others,INR 10 lakhs  to 15 lakhs,Sindhi,Business Owner/Entrepreneur,Hindu,real
+Sindhi,MBA/PGDM,Others,INR 10 lakhs to 15 lakhs,Sindhi,Business Owner/Entrepreneur,Hindu,real
+Sindhi,MBA/PGDM,Others,INR 10 lakhs to 15 lakhs,Sindhi,Business Owner/Entrepreneur,Hindu,real
 Sindhi,B.Com (Commerce),Others,INR 15 lakhs to 20 lakhs,Sindhi,Business Owner/Entrepreneur,Hindu,real
 Sindhi,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 15 lakhs to 20 lakhs,Sindhi,IT,Hindu,real
 Sakkhar Sindhi,B.Com (Commerce),MNC,INR 2 lakhs to 3 lakhs,Sindhi,Banking/Insurance/Financial Services,Hindu,real
@@ -1610,11 +1610,11 @@ Sindhi,B.Com (Commerce),Others,INR 40 lakhs to 50 lakhs,Sindhi,Finance and Accou
 Sindhi,MBA/PGDM,MNC,INR 7 lakhs to 10 lakhs,Sindhi,Banking/Insurance/Financial Services,Hindu,real
 Shikarpuri Sindhi,Other Diploma,Others,INR 7 lakhs to 10 lakhs,Sindhi,Business Owner/Entrepreneur,Hindu,real
 Sindhi-Sakkhar,B.Com (Commerce),MNC,INR 7 lakhs to 10 lakhs,Sindhi,IT,Hindu,real
-Sindhi-Shikarpuri,B.Com (Commerce),Others,INR Don't wish to specify,Sindhi,Business Owner/Entrepreneur,Hindu,real
-Sindhi,10th,Not Working,INR Don't wish to specify,Sindhi,Non Working,Hindu,real
-Sindhi,B.A. (Arts),Others,INR Don't wish to specify,Sindhi,Others,Hindu,real
-Sindhi,B.Com (Commerce),Private Sector,INR Don't wish to specify,Sindhi,Business Owner/Entrepreneur,Hindu,real
-Hindu-Others,M.Tech,Private Sector,INR Don't wish to specify,Sindhi,IT,Hindu,real
+Sindhi-Shikarpuri,B.Com (Commerce),Others,Don't wish to specify,Sindhi,Business Owner/Entrepreneur,Hindu,real
+Sindhi,10th,Not Working,Don't wish to specify,Sindhi,Non Working,Hindu,real
+Sindhi,B.A. (Arts),Others,Don't wish to specify,Sindhi,Others,Hindu,real
+Sindhi,B.Com (Commerce),Private Sector,Don't wish to specify,Sindhi,Business Owner/Entrepreneur,Hindu,real
+Hindu-Others,M.Tech,Private Sector,Don't wish to specify,Sindhi,IT,Hindu,real
 Catholic,M.Sc. (Science),Central Government,INR 1 lakh to 2 lakhs,Tamil,Admin/Secretarial,Christian,real
 Mukkulathor,B.A. (Arts),State Government,INR 1 lakh to 2 lakhs,Tamil,Admin/Secretarial,Hindu,real
 Brahmin,Other Diploma,Private Sector,INR 1 lakh to 2 lakhs,Tamil,Construction,Hindu,real
@@ -1631,14 +1631,14 @@ Scheduled Caste,Engineering,Private Sector,INR 1 lakh to 2 lakhs,Tamil,Others,Hi
 Senguntha Mudaliyar,10th,Others,INR 1 lakh to 2 lakhs,Tamil,Others,Hindu,real
 Mukkulathor,12th,Others,INR 1 lakh to 2 lakhs,Tamil,Sales/Business Development,Hindu,real
 Mudaliyar,BE B.Tech (Engineering),Private Sector,INR 1 lakh to 2 lakhs,Tamil,Telecom/ISP,Hindu,real
-Adi Dravida,MCA/PGDCA,MNC,INR 10 lakhs  to 15 lakhs,Tamil,Admin/Secretarial,Hindu,real
-Protestant,MBA/PGDM,MNC,INR 10 lakhs  to 15 lakhs,Tamil,Banking/Insurance/Financial Services,Christian,real
-Scheduled Caste,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Tamil,Electronics,Hindu,real
-Catholic,M.Com. (Commerce),Others,INR 10 lakhs  to 15 lakhs,Tamil,Human Resource,Christian,real
-Brahmin,MBA/PGDM,MNC,INR 10 lakhs  to 15 lakhs,Tamil,Human Resource,Hindu,real
-Brahmin - Iyer,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Tamil,IT,Hindu,real
-Senguntha Mudaliyar,MCA/PGDCA,Private Sector,INR 10 lakhs  to 15 lakhs,Tamil,IT,Hindu,real
-Naidu,Ph.D. (Doctorate),Others,INR 10 lakhs  to 15 lakhs,Tamil,Science,Hindu,real
+Adi Dravida,MCA/PGDCA,MNC,INR 10 lakhs to 15 lakhs,Tamil,Admin/Secretarial,Hindu,real
+Protestant,MBA/PGDM,MNC,INR 10 lakhs to 15 lakhs,Tamil,Banking/Insurance/Financial Services,Christian,real
+Scheduled Caste,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Tamil,Electronics,Hindu,real
+Catholic,M.Com. (Commerce),Others,INR 10 lakhs to 15 lakhs,Tamil,Human Resource,Christian,real
+Brahmin,MBA/PGDM,MNC,INR 10 lakhs to 15 lakhs,Tamil,Human Resource,Hindu,real
+Brahmin - Iyer,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Tamil,IT,Hindu,real
+Senguntha Mudaliyar,MCA/PGDCA,Private Sector,INR 10 lakhs to 15 lakhs,Tamil,IT,Hindu,real
+Naidu,Ph.D. (Doctorate),Others,INR 10 lakhs to 15 lakhs,Tamil,Science,Hindu,real
 Yadav,Engineering,Private Sector,INR 15 lakhs to 20 lakhs,Tamil,Construction,Hindu,real
 Protestant,MBA/PGDM,Private Sector,INR 15 lakhs to 20 lakhs,Tamil,Education/Training,Christian,real
 Protestant,MCA/PGDCA,MNC,INR 15 lakhs to 20 lakhs,Tamil,IT,Christian,real
@@ -1685,7 +1685,7 @@ Others,MBA/PGDM,MNC,INR 3 lakhs to 4 lakhs,Tamil,Management/Corporate Profession
 Protestant,PG Diploma,Private Sector,INR 3 lakhs to 4 lakhs,Tamil,Manufacturing/Engineering/R&D,Christian,real
 Naidu,10th,Others,INR 3 lakhs to 4 lakhs,Tamil,Marketing and Communications,Hindu,real
 Brahmin - Iyer,B.Com (Commerce),Others,INR 3 lakhs to 4 lakhs,Tamil,Others,Hindu,real
-Mudaliyar,B.A. (Arts),Private Sector,INR 30 lakhs to 35 lakhs,Tamil,Hotels/Restaurants,Hindu,real
+Mudaliyar,B.A. (Arts),Private Sector,INR 30 lakhs to 40 lakhs,Tamil,Hotels/Restaurants,Hindu,real
 Adi Dravida,MBA/PGDM,Central Government,INR 4 lakhs to 5 lakhs,Tamil,Admin/Secretarial,Hindu,real
 Brahmin,12th,Public Sector,INR 4 lakhs to 5 lakhs,Tamil,Banking/Insurance/Financial Services,Hindu,real
 Vishwakarma,B.A. (Arts),Others,INR 4 lakhs to 5 lakhs,Tamil,Business Owner/Entrepreneur,Hindu,real
@@ -1708,14 +1708,14 @@ Muthuraja,BE B.Tech (Engineering),MNC,INR 5 lakhs to 7 lakhs,Tamil,Manufacturing
 Hindu-Others,BE B.Tech (Engineering),MNC,INR 5 lakhs to 7 lakhs,Tamil,Manufacturing/Engineering/R&D,Hindu,real
 Naidu,BE B.Tech (Engineering),Private Sector,INR 50 lakhs and above,Tamil,IT,Hindu,real
 Brahmin - Iyer,ME/M.Tech/MS (Engg/Sciences),MNC,INR 50 lakhs and above,Tamil,Oil/Gas,Hindu,real
-Kongu Vellala Gounder,Other Diploma,Private Sector,INR 50 thousand to  1 lakh,Tamil,Admin/Secretarial,Hindu,real
-Others,M.Sc. (Science),Private Sector,INR 50 thousand to  1 lakh,Tamil,Admin/Secretarial,Christian,real
-Urali Gounder,M.Phil. (Philosophy),Private Sector,INR 50 thousand to  1 lakh,Tamil,Admin/Secretarial,Hindu,real
-Others,M.Sc. (Science),Not Working,INR 50 thousand to  1 lakh,Tamil,Business Owner/Entrepreneur,Christian,real
-Brahmin,Other Diploma,Others,INR 50 thousand to  1 lakh,Tamil,Business Owner/Entrepreneur,Hindu,real
-Muthuraja,M.Com. (Commerce),Private Sector,INR 50 thousand to  1 lakh,Tamil,Education/Training,Hindu,real
-Brahmin,PG Diploma,Private Sector,INR 50 thousand to  1 lakh,Tamil,Others,Hindu,real
-Digambar,12th,Others,INR 50 thousand to  1 lakh,Tamil,Real Estate,Jain,real
+Kongu Vellala Gounder,Other Diploma,Private Sector,INR 50 thousand to 1 lakh,Tamil,Admin/Secretarial,Hindu,real
+Others,M.Sc. (Science),Private Sector,INR 50 thousand to 1 lakh,Tamil,Admin/Secretarial,Christian,real
+Urali Gounder,M.Phil. (Philosophy),Private Sector,INR 50 thousand to 1 lakh,Tamil,Admin/Secretarial,Hindu,real
+Others,M.Sc. (Science),Not Working,INR 50 thousand to 1 lakh,Tamil,Business Owner/Entrepreneur,Christian,real
+Brahmin,Other Diploma,Others,INR 50 thousand to 1 lakh,Tamil,Business Owner/Entrepreneur,Hindu,real
+Muthuraja,M.Com. (Commerce),Private Sector,INR 50 thousand to 1 lakh,Tamil,Education/Training,Hindu,real
+Brahmin,PG Diploma,Private Sector,INR 50 thousand to 1 lakh,Tamil,Others,Hindu,real
+Digambar,12th,Others,INR 50 thousand to 1 lakh,Tamil,Real Estate,Jain,real
 Nadar,B.Com (Commerce),Private Sector,INR 7 lakhs to 10 lakhs,Tamil,Banking/Insurance/Financial Services,Hindu,real
 Brahmin,CA (Chartered Accountant),Private Sector,INR 7 lakhs to 10 lakhs,Tamil,Banking/Insurance/Financial Services,Hindu,real
 Vishwakarma,Other Diploma,Private Sector,INR 7 lakhs to 10 lakhs,Tamil,Construction,Hindu,real
@@ -1744,18 +1744,18 @@ Vannia Kula Kshatriyar,BE B.Tech (Engineering),MNC,INR 7 lakhs to 10 lakhs,Tamil
 Mudaliyar,Other Diploma,Others,INR 7 lakhs to 10 lakhs,Tamil,Pharmaceutical/Biotechnology,Hindu,real
 Protestant,BE B.Tech (Engineering),MNC,INR 7 lakhs to 10 lakhs,Tamil,Purchase/Logistics/Supply chain,Christian,real
 Brahmin,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Tamil,Telecom/ISP,Hindu,real
-Devandra Kula Vellalar,BBA/BBM/BBS,Private Sector,INR Don't wish to specify,Tamil,Admin/Secretarial,Hindu,real
-Nadar,10th,Others,INR Don't wish to specify,Tamil,Agriculture,Hindu,real
-Protestant,10th,Private Sector,INR Don't wish to specify,Tamil,Finance and Accounts,Christian,real
-Others,Other Post Graduation,Private Sector,INR Don't wish to specify,Tamil,Health Care,Muslim,real
-Brahmin - Iyengar,B.Sc (Science),Private Sector,INR Don't wish to specify,Tamil,IT,Hindu,real
-Mudaliar,B.Com (Commerce),State Government,INR Don't wish to specify,Tamil,Government Employee,Hindu,real
-Mudaliar,BE B.Tech (Engineering),Private Sector,INR Don't wish to specify,Tamil,Manufacturing/Engineering/R&D,Hindu,real
-Velaan/Vellalar,B.Sc (Science),Private Sector,INR Don't wish to specify,Tamil,Others,Hindu,real
-Chettiar,MBA/PGDM,Private Sector,INR Don't wish to specify,Tamil,Purchase/Logistics/Supply chain,Hindu,real
-Mudaliyar,B.A. (Arts),Private Sector,INR Don't wish to specify,Tamil,Sales/Business Development,Hindu,real
-Nadar,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR Don't wish to specify,Tamil,Education/Training,Hindu,real
-Brahmin,ME/M.Tech/MS (Engg/Sciences),Others,INR Don't wish to specify,Tamil,Manufacturing/Engineering/R&D,Hindu,real
+Devandra Kula Vellalar,BBA/BBM/BBS,Private Sector,Don't wish to specify,Tamil,Admin/Secretarial,Hindu,real
+Nadar,10th,Others,Don't wish to specify,Tamil,Agriculture,Hindu,real
+Protestant,10th,Private Sector,Don't wish to specify,Tamil,Finance and Accounts,Christian,real
+Others,Other Post Graduation,Private Sector,Don't wish to specify,Tamil,Health Care,Muslim,real
+Brahmin - Iyengar,B.Sc (Science),Private Sector,Don't wish to specify,Tamil,IT,Hindu,real
+Mudaliar,B.Com (Commerce),State Government,Don't wish to specify,Tamil,Government Employee,Hindu,real
+Mudaliar,BE B.Tech (Engineering),Private Sector,Don't wish to specify,Tamil,Manufacturing/Engineering/R&D,Hindu,real
+Velaan/Vellalar,B.Sc (Science),Private Sector,Don't wish to specify,Tamil,Others,Hindu,real
+Chettiar,MBA/PGDM,Private Sector,Don't wish to specify,Tamil,Purchase/Logistics/Supply chain,Hindu,real
+Mudaliyar,B.A. (Arts),Private Sector,Don't wish to specify,Tamil,Sales/Business Development,Hindu,real
+Nadar,ME/M.Tech/MS (Engg/Sciences),Private Sector,Don't wish to specify,Tamil,Education/Training,Hindu,real
+Brahmin,ME/M.Tech/MS (Engg/Sciences),Others,Don't wish to specify,Tamil,Manufacturing/Engineering/R&D,Hindu,real
 Chettiar,MBA/PGDM,Others,INR Under 50 thousand,Tamil,Business Owner/Entrepreneur,Hindu,real
 Chettiar,MD/MS (Medicine),Private Sector,INR Under 50 thousand,Tamil,Health Care,Hindu,real
 Sunni,Other Diploma,Private Sector,INR Under 50 thousand,Tamil,IT,Muslim,real
@@ -1781,17 +1781,17 @@ Arya Vysya,MCA/PGDCA,Private Sector,INR 1 lakh to 2 lakhs,Telugu,IT,Hindu,real
 Protestant,B.Sc (Science),Private Sector,INR 1 lakh to 2 lakhs,Telugu,IT,Christian,real
 Kapu,Other Diploma,Private Sector,INR 1 lakh to 2 lakhs,Telugu,Manufacturing/Engineering/R&D,Hindu,real
 Gandla,B.Sc (Science),State Government,INR 1 lakh to 2 lakhs,Telugu,Others,Hindu,real
-Brahmin - Vaidiki,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Telugu,Banking/Insurance/Financial Services,Hindu,real
-Kapu,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Telugu,IT,Hindu,real
-Padmasali,ME/M.Tech/MS (Engg/Sciences),MNC,INR 10 lakhs  to 15 lakhs,Telugu,IT,Hindu,real
-Ayyaraka,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Telugu,IT,Hindu,real
-Viswabrahmin,MCA/PGDCA,MNC,INR 10 lakhs  to 15 lakhs,Telugu,IT,Hindu,real
-Reddy,BE B.Tech (Engineering),Private Sector,INR 10 lakhs  to 15 lakhs,Telugu,IT,Hindu,real
-Balija/Kapu/Kapu Naidu/Naidu/Setti Balija/Settibalija,BE B.Tech (Engineering),MNC,INR 10 lakhs  to 15 lakhs,Telugu,IT,Hindu,real
-Perika,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 10 lakhs  to 15 lakhs,Telugu,IT,Hindu,real
-Muthuraja,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 10 lakhs  to 15 lakhs,Telugu,IT,Hindu,real
-Balija,Ph.D. (Doctorate),MNC,INR 10 lakhs  to 15 lakhs,Telugu,Management/Corporate Professionals,Hindu,real
-Kamma,M.Arch. (Architecture),Private Sector,INR 10 lakhs  to 15 lakhs,Telugu,Management/Corporate Professionals,Hindu,real
+Brahmin - Vaidiki,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Telugu,Banking/Insurance/Financial Services,Hindu,real
+Kapu,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Telugu,IT,Hindu,real
+Padmasali,ME/M.Tech/MS (Engg/Sciences),MNC,INR 10 lakhs to 15 lakhs,Telugu,IT,Hindu,real
+Ayyaraka,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Telugu,IT,Hindu,real
+Viswabrahmin,MCA/PGDCA,MNC,INR 10 lakhs to 15 lakhs,Telugu,IT,Hindu,real
+Reddy,BE B.Tech (Engineering),Private Sector,INR 10 lakhs to 15 lakhs,Telugu,IT,Hindu,real
+Balija/Kapu/Kapu Naidu/Naidu/Setti Balija/Settibalija,BE B.Tech (Engineering),MNC,INR 10 lakhs to 15 lakhs,Telugu,IT,Hindu,real
+Perika,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 10 lakhs to 15 lakhs,Telugu,IT,Hindu,real
+Muthuraja,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 10 lakhs to 15 lakhs,Telugu,IT,Hindu,real
+Balija,Ph.D. (Doctorate),MNC,INR 10 lakhs to 15 lakhs,Telugu,Management/Corporate Professionals,Hindu,real
+Kamma,M.Arch. (Architecture),Private Sector,INR 10 lakhs to 15 lakhs,Telugu,Management/Corporate Professionals,Hindu,real
 Brahmin 6000 Niyogi,MBA/PGDM,MNC,INR 15 lakhs to 20 lakhs,Telugu,Banking/Insurance/Financial Services,Hindu,real
 Brahmin - Iyengar,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 15 lakhs to 20 lakhs,Telugu,Electronics,Hindu,real
 Reddy,Master of Fashion Technology,Private Sector,INR 15 lakhs to 20 lakhs,Telugu,Export/Import,Hindu,real
@@ -1854,12 +1854,12 @@ Others,ME/M.Tech/MS (Engg/Sciences),MNC,INR 50 lakhs and above,Telugu,IT,Christi
 Brahmin - Dravida,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 50 lakhs and above,Telugu,Banking/Insurance/Financial Services,Hindu,real
 Protestant,MBA/PGDM,Central Government,INR 50 lakhs and above,Telugu,Civil Services/Law Enforcement,Christian,real
 Brahmin,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 50 lakhs and above,Telugu,Manufacturing/Engineering/R&D,Hindu,real
-Mala,BHM (Hotel Management),Public Sector,INR 50 thousand to  1 lakh,Telugu,Admin/Secretarial,Hindu,real
-Scheduled Caste,M.Sc. (Science),Private Sector,INR 50 thousand to  1 lakh,Telugu,Agriculture,Hindu,real
-Kshatriya,Fashion/Design,Central Government,INR 50 thousand to  1 lakh,Telugu,Artists/Animators/Web Designers,Hindu,real
-Rajput,Bachelor of Fashion Technology,State Government,INR 50 thousand to  1 lakh,Telugu,Customer Service/Call Centre/BPO,Hindu,real
-Others,B.Com (Commerce),Others,INR 50 thousand to  1 lakh,Telugu,IT,Christian,real
-Madiga,B.Com (Commerce),Private Sector,INR 50 thousand to  1 lakh,Telugu,Others,Hindu,real
+Mala,BHM (Hotel Management),Public Sector,INR 50 thousand to 1 lakh,Telugu,Admin/Secretarial,Hindu,real
+Scheduled Caste,M.Sc. (Science),Private Sector,INR 50 thousand to 1 lakh,Telugu,Agriculture,Hindu,real
+Kshatriya,Fashion/Design,Central Government,INR 50 thousand to 1 lakh,Telugu,Artists/Animators/Web Designers,Hindu,real
+Rajput,Bachelor of Fashion Technology,State Government,INR 50 thousand to 1 lakh,Telugu,Customer Service/Call Centre/BPO,Hindu,real
+Others,B.Com (Commerce),Others,INR 50 thousand to 1 lakh,Telugu,IT,Christian,real
+Madiga,B.Com (Commerce),Private Sector,INR 50 thousand to 1 lakh,Telugu,Others,Hindu,real
 Yadav,ME/M.Tech/MS (Engg/Sciences),Central Government,INR 7 lakhs to 10 lakhs,Telugu,Travel/Airlines,Hindu,real
 Patnaick/Sistakaranam,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR 7 lakhs to 10 lakhs,Telugu,Advertising/Entertainment/Media,Hindu,real
 Brahmin,B.A. (Arts),Others,INR 7 lakhs to 10 lakhs,Telugu,Advertising/Entertainment/Media,Hindu,real
@@ -1889,22 +1889,22 @@ Brahmin - Dravida,MCA/PGDCA,Private Sector,INR 7 lakhs to 10 lakhs,Telugu,IT,Hin
 Brahmin - Niyogi,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Telugu,Management/Corporate Professionals,Hindu,real
 Brahmin - Vaidiki,M.Com. (Commerce),Private Sector,INR 7 lakhs to 10 lakhs,Telugu,Management/Corporate Professionals,Hindu,real
 Reddy,Ph.D. (Doctorate),Others,INR 7 lakhs to 10 lakhs,Telugu,Science,Hindu,real
-Brahmin,B.Com (Commerce),Private Sector,INR Don't wish to specify,Telugu,Advertising/Entertainment/Media,Hindu,real
-Reddy,BE B.Tech (Engineering),Others,INR Don't wish to specify,Telugu,Business Owner/Entrepreneur,Hindu,real
-Naidu,CA (Chartered Accountant),Others,INR Don't wish to specify,Telugu,Business Owner/Entrepreneur,Hindu,real
-Devanga,MBA/PGDM,Private Sector,INR Don't wish to specify,Telugu,Customer Service/Call Centre/BPO,Hindu,real
-Arya Vysya,M.Sc. (Science),Private Sector,INR Don't wish to specify,Telugu,Education/Training,Hindu,real
-Kamma,MBA/PGDM,Private Sector,INR Don't wish to specify,Telugu,IT,Hindu,real
-Reddy,ME/M.Tech/MS (Engg/Sciences),Private Sector,INR Don't wish to specify,Telugu,IT,Hindu,real
-Reddy,BL/LLB/BGL (Law),Others,INR Don't wish to specify,Telugu,Legal,Hindu,real
-Brahmin - Vaidiki,BE B.Tech (Engineering),Private Sector,INR Don't wish to specify,Telugu,Management/Corporate Professionals,Hindu,real
-Protestant,MBA/PGDM,Not Working,INR Don't wish to specify,Telugu,Non Working,Christian,real
-Protestant,10th,Private Sector,INR Don't wish to specify,Telugu,Admin/Secretarial,Christian,real
-Brahmin - Niyogi,BCA (Computer Application),MNC,INR Don't wish to specify,Telugu,Customer Service/Call Centre/BPO,Hindu,real
-Padmasali,BE B.Tech (Engineering),Others,INR Don't wish to specify,Telugu,IT,Hindu,real
-Protestant,BE B.Tech (Engineering),Private Sector,INR Don't wish to specify,Telugu,IT,Christian,real
-Reddy,BE B.Tech (Engineering),MNC,INR Don't wish to specify,Telugu,Manufacturing/Engineering/R&D,Hindu,real
-Naidu,BE B.Tech (Engineering),Private Sector,INR Don't wish to specify,Telugu,Manufacturing/Engineering/R&D,Hindu,real
+Brahmin,B.Com (Commerce),Private Sector,Don't wish to specify,Telugu,Advertising/Entertainment/Media,Hindu,real
+Reddy,BE B.Tech (Engineering),Others,Don't wish to specify,Telugu,Business Owner/Entrepreneur,Hindu,real
+Naidu,CA (Chartered Accountant),Others,Don't wish to specify,Telugu,Business Owner/Entrepreneur,Hindu,real
+Devanga,MBA/PGDM,Private Sector,Don't wish to specify,Telugu,Customer Service/Call Centre/BPO,Hindu,real
+Arya Vysya,M.Sc. (Science),Private Sector,Don't wish to specify,Telugu,Education/Training,Hindu,real
+Kamma,MBA/PGDM,Private Sector,Don't wish to specify,Telugu,IT,Hindu,real
+Reddy,ME/M.Tech/MS (Engg/Sciences),Private Sector,Don't wish to specify,Telugu,IT,Hindu,real
+Reddy,BL/LLB/BGL (Law),Others,Don't wish to specify,Telugu,Legal,Hindu,real
+Brahmin - Vaidiki,BE B.Tech (Engineering),Private Sector,Don't wish to specify,Telugu,Management/Corporate Professionals,Hindu,real
+Protestant,MBA/PGDM,Not Working,Don't wish to specify,Telugu,Non Working,Christian,real
+Protestant,10th,Private Sector,Don't wish to specify,Telugu,Admin/Secretarial,Christian,real
+Brahmin - Niyogi,BCA (Computer Application),MNC,Don't wish to specify,Telugu,Customer Service/Call Centre/BPO,Hindu,real
+Padmasali,BE B.Tech (Engineering),Others,Don't wish to specify,Telugu,IT,Hindu,real
+Protestant,BE B.Tech (Engineering),Private Sector,Don't wish to specify,Telugu,IT,Christian,real
+Reddy,BE B.Tech (Engineering),MNC,Don't wish to specify,Telugu,Manufacturing/Engineering/R&D,Hindu,real
+Naidu,BE B.Tech (Engineering),Private Sector,Don't wish to specify,Telugu,Manufacturing/Engineering/R&D,Hindu,real
 Chettiar,MBA/PGDM,Private Sector,INR Under 50 thousand,Telugu,Finance and Accounts,Hindu,real
 Brahmin,10th,Others,INR Under 50 thousand,Telugu,Others,Hindu,real
 Kapu,MCA/PGDCA,MNC,INR Under 50 thousand,Telugu,IT,Hindu,real
@@ -1913,20 +1913,20 @@ Billava,B.Com (Commerce),Private Sector,INR 2 lakhs to 3 lakhs,Tulu,Banking/Insu
 Bunt (Shetty),MBA/PGDM,Private Sector,INR 3 lakhs to 4 lakhs,Tulu,Banking/Insurance/Financial Services,Hindu,real
 Devadiga,B.A. (Arts),Others,INR 3 lakhs to 4 lakhs,Tulu,Human Resource,Hindu,real
 Bunt (Shetty),Engineering,MNC,INR 4 lakhs to 5 lakhs,Tulu,Architecture/Design,Hindu,real
-Billava,Other Diploma,Others,INR Don't wish to specify,Tulu,IT,Hindu,real
-Mogaveera,BL/LLB/BGL (Law),MNC,INR Don't wish to specify,Tulu,Legal,Hindu,real
+Billava,Other Diploma,Others,Don't wish to specify,Tulu,IT,Hindu,real
+Mogaveera,BL/LLB/BGL (Law),MNC,Don't wish to specify,Tulu,Legal,Hindu,real
 Khandayat,M.Com. (Commerce),Private Sector,INR 1 lakh to 2 lakhs,Urdu,Education/Training,Hindu,real
 Sunni,Other Diploma,Private Sector,INR 1 lakh to 2 lakhs,Urdu,Health Care,Muslim,real
 Sunni,B.Com (Commerce),Others,INR 1 lakh to 2 lakhs,Urdu,Others,Muslim,real
 Sia,10th,Others,INR 1 lakh to 2 lakhs,Urdu,Others,Muslim,real
 Sunni,M.Sc. (Science),Private Sector,INR 1 lakh to 2 lakhs,Urdu,Others,Muslim,real
 Sunni,12th,Private Sector,INR 1 lakh to 2 lakhs,Urdu,Others,Muslim,real
-Sunni,CA (Chartered Accountant),Private Sector,INR 10 lakhs  to 15 lakhs,Urdu,Advertising/Entertainment/Media,Muslim,real
-Sunni,MBA/PGDM,Others,INR 10 lakhs  to 15 lakhs,Urdu,Construction,Muslim,real
-Sunni,MBA/PGDM,Private Sector,INR 10 lakhs  to 15 lakhs,Urdu,Construction,Muslim,real
-Sunni,MBA/PGDM,MNC,INR 10 lakhs  to 15 lakhs,Urdu,IT,Muslim,real
-Sunni,MBA/PGDM,MNC,INR 10 lakhs  to 15 lakhs,Urdu,Sales/Business Development,Muslim,real
-Sunni,BBA/BBM/BBS,Private Sector,INR 10 lakhs  to 15 lakhs,Urdu,Sales/Business Development,Muslim,real
+Sunni,CA (Chartered Accountant),Private Sector,INR 10 lakhs to 15 lakhs,Urdu,Advertising/Entertainment/Media,Muslim,real
+Sunni,MBA/PGDM,Others,INR 10 lakhs to 15 lakhs,Urdu,Construction,Muslim,real
+Sunni,MBA/PGDM,Private Sector,INR 10 lakhs to 15 lakhs,Urdu,Construction,Muslim,real
+Sunni,MBA/PGDM,MNC,INR 10 lakhs to 15 lakhs,Urdu,IT,Muslim,real
+Sunni,MBA/PGDM,MNC,INR 10 lakhs to 15 lakhs,Urdu,Sales/Business Development,Muslim,real
+Sunni,BBA/BBM/BBS,Private Sector,INR 10 lakhs to 15 lakhs,Urdu,Sales/Business Development,Muslim,real
 Sunni,Masters,Central Government,INR 15 lakhs to 20 lakhs,Urdu,Civil Services/Law Enforcement,Muslim,real
 Sunni,MBA/PGDM,Public Sector,INR 15 lakhs to 20 lakhs,Urdu,IT,Muslim,real
 Sunni,B.Ed (Education),State Government,INR 2 lakhs to 3 lakhs,Urdu,Education/Training,Muslim,real
@@ -1950,7 +1950,7 @@ Sunni,BE B.Tech (Engineering),Private Sector,INR 3 lakhs to 4 lakhs,Urdu,IT,Musl
 Sunni,CA (Chartered Accountant),Others,INR 3 lakhs to 4 lakhs,Urdu,Others,Muslim,real
 Sunni,MCA/PGDCA,MNC,INR 3 lakhs to 4 lakhs,Urdu,Others,Muslim,real
 Sia,12th,Private Sector,INR 3 lakhs to 4 lakhs,Urdu,Others,Muslim,real
-Sunni,BE B.Tech (Engineering),Private Sector,INR 30 lakhs to 35 lakhs,Urdu,Construction,Muslim,real
+Sunni,BE B.Tech (Engineering),Private Sector,INR 30 lakhs to 40 lakhs,Urdu,Construction,Muslim,real
 Sunni,B.A. (Arts),Others,INR 4 lakhs to 5 lakhs,Urdu,Business Owner/Entrepreneur,Muslim,real
 Sunni,B.Com (Commerce),Others,INR 4 lakhs to 5 lakhs,Urdu,Business Owner/Entrepreneur,Muslim,real
 Others,MA (Arts),Private Sector,INR 4 lakhs to 5 lakhs,Urdu,Human Resource,Muslim,real
@@ -1961,10 +1961,10 @@ Sunni,MBA/PGDM,MNC,INR 4 lakhs to 5 lakhs,Urdu,Management/Corporate Professional
 Sunni,12th,Private Sector,INR 4 lakhs to 5 lakhs,Urdu,Others,Muslim,real
 Sunni,BE B.Tech (Engineering),Private Sector,INR 5 lakhs to 7 lakhs,Urdu,IT,Muslim,real
 Sunni,M.Sc. (Science),Public Sector,INR 50 lakhs and above,Urdu,Business Owner/Entrepreneur,Muslim,real
-Others,10th,Others,INR 50 thousand to  1 lakh,Urdu,Business Owner/Entrepreneur,Muslim,real
-Sunni,MCA/PGDCA,Private Sector,INR 50 thousand to  1 lakh,Urdu,IT,Muslim,real
-Sunni,Other Diploma,Private Sector,INR 50 thousand to  1 lakh,Urdu,IT,Muslim,real
-Sunni,B.Com (Commerce),Private Sector,INR 50 thousand to  1 lakh,Urdu,Travel/Airlines,Muslim,real
+Others,10th,Others,INR 50 thousand to 1 lakh,Urdu,Business Owner/Entrepreneur,Muslim,real
+Sunni,MCA/PGDCA,Private Sector,INR 50 thousand to 1 lakh,Urdu,IT,Muslim,real
+Sunni,Other Diploma,Private Sector,INR 50 thousand to 1 lakh,Urdu,IT,Muslim,real
+Sunni,B.Com (Commerce),Private Sector,INR 50 thousand to 1 lakh,Urdu,Travel/Airlines,Muslim,real
 Sia,MD/MS (Medicine),Central Government,INR 7 lakhs to 10 lakhs,Urdu,Admin/Secretarial,Muslim,real
 Sunni,MBA/PGDM,Private Sector,INR 7 lakhs to 10 lakhs,Urdu,Banking/Insurance/Financial Services,Muslim,real
 Sunni,B.A. (Arts),Private Sector,INR 7 lakhs to 10 lakhs,Urdu,Construction,Muslim,real
@@ -1978,8 +1978,8 @@ Sunni,MCA/PGDCA,Private Sector,INR 7 lakhs to 10 lakhs,Urdu,IT,Muslim,real
 Sunni,MBA/PGDM,Private Sector,INR 7 lakhs to 10 lakhs,Urdu,IT,Muslim,real
 Sunni,M.Sc. (Science),MNC,INR 7 lakhs to 10 lakhs,Urdu,IT,Muslim,real
 Sunni,BE B.Tech (Engineering),Private Sector,INR 7 lakhs to 10 lakhs,Urdu,Others,Muslim,real
-Sunni,M.Arch. (Architecture),Central Government,INR Don't wish to specify,Urdu,Banking/Insurance/Financial Services,Muslim,real
-Sunni,B.A. (Arts),Private Sector,INR Don't wish to specify,Urdu,Export/Import,Muslim,real
-Sia,10th,Others,INR Don't wish to specify,Urdu,Others,Muslim,real
-Sunni,Other Post Graduation,Others,INR Don't wish to specify,Urdu,Artists/Animators/Web Designers,Muslim,real
+Sunni,M.Arch. (Architecture),Central Government,Don't wish to specify,Urdu,Banking/Insurance/Financial Services,Muslim,real
+Sunni,B.A. (Arts),Private Sector,Don't wish to specify,Urdu,Export/Import,Muslim,real
+Sia,10th,Others,Don't wish to specify,Urdu,Others,Muslim,real
+Sunni,Other Post Graduation,Others,Don't wish to specify,Urdu,Artists/Animators/Web Designers,Muslim,real
 Sunni,BPT (Physiotherapy),Private Sector,INR Under 50 thousand,Urdu,Health Care,Muslim,real
