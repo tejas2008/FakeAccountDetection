@@ -9,7 +9,7 @@ Go to the website: http://fake-profile-detection.herokuapp.com
 
 ## Demo
 
-![](A-Guide-to-Personalized-Email-Using-Individual-Videos-and-GIFs-blog.gif)
+![](Demo.gif)
 
 
 ## Built With
