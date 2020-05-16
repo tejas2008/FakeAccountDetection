@@ -3,6 +3,7 @@ import numpy as np
 import pickle
 
 app = Flask(__name__)
+app.config['SECRET_KEY'] = '5791628bb0b13ce0c676dfde280ba245'
 
 def ValuePredictor(to_predict_list): 
     to_predict = np.array(to_predict_list).reshape(1, 7) 
@@ -40,7 +41,7 @@ def result():
             prediction ='Fake'
         else: 
             prediction ='Real'            
-    return render_template("result.html", prediction = prediction,castes=castes,degrees=degrees,employs=employs,incomes=incomes,mothers=mothers,occs=occs,religions=religions)
+    return render_template("result.html", prediction=prediction,castes=castes,degrees=degrees,employs=employs,incomes=incomes,mothers=mothers,occs=occs,religions=religions)
 
 if __name__ == '__main__':
     app.run(debug=True)
