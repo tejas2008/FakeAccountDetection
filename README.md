@@ -17,6 +17,7 @@ Go to the website: http://fake-profile-detection.herokuapp.com
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) - The web framework used
 * [Jinja2](https://jinja.palletsprojects.com/en/2.11.x/) - Templating Language for Python
 * [Heroku](https://devcenter.heroku.com/categories/reference) - Used to deploy the application
+* [Sklearn:RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) - Machine Learning Classification Model
 
 
 
