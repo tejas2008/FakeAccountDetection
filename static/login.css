@@ -6,7 +6,7 @@
     -moz-osx-font-smoothing: grayscale;
 }
 body {
-    background-image: url(../images/veggies.jpg);
+    background-image: url(collage.jpg);   
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -56,7 +56,7 @@ body {
     width: 50px;
     height: 50px;
     background-color: #82ae46;
-    color: #ffffff;
+    color: #5b6574;
 }
 .login form input[type="password"], .login form input[type="text"], .login form input[type="email"], .register form input[type="password"], .register form input[type="text"], .register form input[type="email"],.register form input[type="tel"],.register form select {
     width: 310px;
@@ -73,7 +73,7 @@ body {
     border: 0;
     cursor: pointer;
     font-weight: bold;
-    color: #ffffff;
+    color: #5b6574;
     transition: background-color 0.2s;
 }
 .login form input[type="submit"]:hover, .register form input[type="submit"]:hover {

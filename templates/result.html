@@ -19,7 +19,7 @@
 					
 				</label>
 				<select id="caste1" name="caste1" placeholder="HEllo">
-					<option value="" disabled selected>Select your Caste</option>
+					<option value="" disabled selected>Select Caste</option>
                     {% for i in range(0,469) %}
 					<option value="{{i}}">{{castes[i]}}</option>
 					{% endfor %}
@@ -29,7 +29,7 @@
 					
 				</label>
 				<select id="degree" name="degree">
-					<option value="" disabled selected>Select your Degree</option>
+					<option value="" disabled selected>Select Degree</option>
                     {% for i in range(0,69) %}
 					<option value="{{i}}">{{degrees[i]}}</option>
 					{% endfor %}
@@ -39,7 +39,7 @@
 					  
 				</label>
 				<select id="employed1" name="employed1">
-					<option value="" disabled selected>Select your Emplyment sector</option>
+					<option value="" disabled selected>Select Employment Sector</option>
                     {% for i in range(0,7) %}
 					<option value="{{i}}">{{employs[i]}}</option>
 					{% endfor %}
@@ -48,7 +48,7 @@
                   <label for="income1">
 				</label>
 				<select id="income1" name="income1">
-					<option value="" disabled selected>Select your Income</option>
+					<option value="" disabled selected>Select Income</option>
                     {% for i in range(0,28) %}
 					<option value="{{i}}">{{incomes[i]}}</option>
 					{% endfor %}
@@ -57,7 +57,7 @@
                   <label for="mother1">
 				</label>
 				<select id="mother1" name="mother1">
-					<option value="" disabled selected>Select your Mother tongue</option>
+					<option value="" disabled selected>Select Mother Tongue</option>
                     {% for i in range(0,57) %}
 					<option value="{{i}}">{{mothers[i]}}</option>
 					{% endfor %}
@@ -66,7 +66,7 @@
                   <label for="occupation">
 				</label>
 				<select id="occupation" name="occupation">
-					<option value="" disabled selected>Select your Occupation</option>
+					<option value="" disabled selected>Select Occupation</option>
                     {% for i in range(0,45) %}
 					<option value="{{i}}">{{occs[i]}}</option>
 					{% endfor %}
@@ -75,7 +75,7 @@
                   <label for="religion1">
 				</label>
 				<select id="religion1" name="religion1">
-					<option value="" disabled selected>Select your Religion</option>
+					<option value="" disabled selected>Select Religion</option>
                     {% for i in range(0,6) %}
 					<option value="{{i}}">{{religions[i]}}</option>
 					{% endfor %}
@@ -89,7 +89,12 @@
 		<script>
 			var msg = $('#my-data').data('prediction');
 			$(document).ready(function(){
-			  swal(msg);
+				if(msg=="Enter data to predict")
+			  	swal(msg);
+				else if(msg=="Real")
+				swal(msg,"","success");
+				else if(msg=="Fake")
+				swal(msg,"","error");
 			});
 		  </script>
 		<script>
